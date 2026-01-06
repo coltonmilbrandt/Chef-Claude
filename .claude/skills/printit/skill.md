@@ -17,9 +17,9 @@ Run `/printit` after `/print` has exported recipes to PDF.
 - List the PDFs found
 - Confirm with user before printing
 
-### 2. Send to Printer
+### 2. Send to Printer (Black & White)
 ```bash
-lpr print-these-recipes/YYYY-MM-DD/*.pdf
+lpr -o ColorModel=Gray print-these-recipes/YYYY-MM-DD/*.pdf
 ```
 
 ### 3. Confirm
@@ -51,5 +51,6 @@ Sending to printer...
 ## Notes
 
 - Uses system default printer
+- Prints in black and white to save ink
 - Each recipe prints as a separate document
 - User should ensure printer has paper loaded before running
