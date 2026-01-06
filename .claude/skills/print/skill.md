@@ -40,7 +40,9 @@ mv recipes/YYYY-MM-DD/*.pdf print-these-recipes/YYYY-MM-DD/
 After export, provide:
 - Number of recipes exported
 - Location of PDF files
-- Reminder to print double-sided if desired
+- Offer next steps:
+  - `/printit` - send directly to printer
+  - `/showmeprints` - open folder in Finder
 
 ## Example Session
 
@@ -59,10 +61,9 @@ Exporting all to PDF...
 ✓ Created: print-these-recipes/2025-01-05/
 ✓ Exported 5 recipes
 
-Your recipes are ready to print at:
-  print-these-recipes/2025-01-05/
-
-Tip: Print double-sided to save paper!
+What's next?
+- `/printit` - send directly to your printer
+- `/showmeprints` - open folder in Finder
 ```
 
 ## Error Handling
