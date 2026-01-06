@@ -1,3 +1,6 @@
+# Dependencies
+node_modules/
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -9,3 +12,6 @@ Thumbs.db
 
 # Claude Code tool results (large temp files)
 .claude/projects/*/tool-results/
+
+# Generated PDFs (user exports these locally)
+print-these-recipes/

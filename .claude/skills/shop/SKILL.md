@@ -190,3 +190,11 @@ Checking Walmart cart... Cart is empty. Proceeding.
 6. **Delivery mode** - User uses Walmart delivery, this affects available inventory
 7. **Add ALL items** - "Check if have" notes are for the user, not skip instructions. Add everything and let the user remove items they already own from the cart.
 8. **NEVER add shipped items** - Only add items available for delivery/pickup. Look for "Pickup today" or "Delivery" badges. Items with only "Free shipping, arrives..." are NOT delivery-eligible and will arrive separately via mail.
+
+## After Shopping Complete
+
+Once the final report is delivered, ask the user:
+
+> "Would you like to print your recipes? Run `/print` to export them as PDFs for the kitchen."
+
+This helps the user remember to print recipes before cooking begins.
