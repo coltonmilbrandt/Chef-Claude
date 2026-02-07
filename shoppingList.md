@@ -1,70 +1,136 @@
 # Shopping List
-Generated: 2025-01-05
-For meal plan: Week of January 6, 2025
+Generated: February 3, 2025
+For meal plan: Week of February 10, 2025
+
+**Walmart-Friendly Edition** - All items available at your local Walmart!
 
 ---
 
 ## Produce
-- [x] Granny Smith apples, 7 - Fieldpack Granny Smith Apples Bulk x7 ($4.34)
-- [x] Blueberries, 2 pints fresh - Fresh Blueberries 1 Pint x2 ($6.34)
-- [x] Fresh ginger, 1 knob ~3 inches - Fresh Ginger Root, Each ($0.97)
-- [x] Garlic, 1 head - Garlic Bulb Fresh Whole, Each ($0.64)
-- [x] Green onions, 1 bunch - Fresh Green Onions Bunch, Each ($1.07)
-- [x] Thai basil, 1 bunch - (SUB) Fresh Basil, 0.5 oz Clamshell ($1.78) [Thai basil unavailable]
-- [x] Red bell pepper, 1 - Fresh Red Bell Pepper, 1 Each ($1.48)
-- [x] Baby bok choy, 1 small bunch - Fresh Produce, Whole Bok Choy, 1 Each ($3.57)
-- [x] Butter lettuce, 1 head - Fresh Butter Lettuce, Each ($2.88)
-- [x] English cucumber, 1 - Fresh Long English Cucumber, Each ($0.97)
-- [x] Carrots, 2 - Fresh Whole Carrots, 1 lb Bag ($1.32)
-- [x] Red onion, 1 medium - Fresh Whole Red Onion, Each ($0.91)
-- [x] Yellow onion, 1 small - Fresh Whole Yellow Onion, Each ($0.62)
-- [x] Spinach, 1 bag/container 5oz - Marketside Organic Baby Spinach, 5 oz ($2.66)
-- [x] Cilantro, 1 bunch - Fresh Produce, Whole Green Cilantro, 1 Bunch ($0.83)
-- [x] Lime, 3 (curry, Mexican bowl, extra) - Fresh Lime, Each x3 ($0.75)
-- [x] Avocado, 2 (Mexican bowl) - Fresh Hass Avocados, Each x2 ($1.36)
-- [x] Thai chili or jalapeno, 2 (Thai basil, optional heat) - Fresh Jalapeno Pepper, 0.25 lb ($0.41)
 
-## Meat & Seafood
-- [x] Boneless skinless chicken thighs, 2.5 lbs (Thai basil, lettuce wraps, Mexican bowl) - Freshness Guaranteed Boneless Skinless Chicken Thighs, 2.75-4.0 lb Tray ($9.78)
-- [x] Boneless skinless chicken breast, 1.5 lbs (curry, ginger garlic chicken) - Tyson All Natural Fresh Boneless Skinless Chicken Breasts, 1.75-3.0 lb Tray ($7.50)
+### Fresh Vegetables
+- [ ] Shallots, 4 (khao soi paste + garnish)
+- [ ] Yellow onion, 3 large (curry, pad kee mao, tacos)
+- [ ] Green onions, 1 bunch (khao soi, ramen, pad kee mao)
+- [ ] Garlic, 2 heads (~20 cloves needed)
+- [ ] Ginger, 1 knob (~3 inches)
+- [ ] Carrots, 1 lb bag (curry, ramen)
+- [ ] Russet potatoes, 2 medium (curry)
+- [ ] Baby bella/cremini mushrooms, 16 oz package (curry, ramen)
+- [ ] Red bell pepper, 1 (pad kee mao)
+- [ ] Jalapeños, 8 (all recipes - keep seeds for heat!)
+- [ ] English cucumbers, 4 (smashed cucumber salad)
+- [ ] Tomatoes, 3 medium (tacos)
+- [ ] Romaine lettuce, 1 head (tacos)
 
-## Dairy & Eggs
-- [x] Greek yogurt vanilla cups, 7 (Alayha breakfast daily) - Great Value Vanilla Nonfat Greek Yogurt, 5.3 oz Cup x7 ($5.74)
+### Fresh Herbs
+- [ ] Cilantro, 2 bunches (khao soi, tacos, cucumber salad)
+- [ ] Fresh basil, 1 package (pad kee mao)
+- [ ] Limes, 6 (khao soi, tacos, cucumber salad)
 
-## Pantry & Asian
-- [x] Coconut milk, 1 can full-fat 13.5oz (curry) - GOYA Unsweetened Coconut Milk 13.5 oz Can ($2.62)
-- [x] Gochujang paste, 1 small jar (Korean lettuce wraps) - bettergoods Gochujang Sauce, 12.5 oz ($3.58)
-- [x] Soy sauce, low-sodium (Thai basil, lettuce wraps, ginger garlic) - Great Value Less Sodium Soy Sauce, 15 fl oz ($1.58)
-- [x] Oyster sauce, small bottle (Thai basil) - Lee Kum Kee Panda Brand Oyster Sauce 9oz ($3.12)
-- [x] Dark soy sauce, small bottle (Thai basil) - (SUB) Use Great Value Less Sodium Soy Sauce already in cart [dark soy unavailable - use more soy sauce for color]
-- [x] Sesame oil, toasted (lettuce wraps, ginger garlic) - Chosen Foods 100% Pure Toasted Sesame Oil 8.4 fl oz ($5.22)
-- [x] Rice vinegar (ginger garlic chicken) - Mizkan Rice Vinegar for Cooking, 12 fl oz ($2.92)
-- [x] Chili paste/sambal (ginger garlic chicken) - Sky Valley Sambal Oelek Chili Paste 7 oz ($3.84)
-- [x] Cornstarch (ginger garlic sauce) - Great Value Corn Starch, 16 oz ($1.92)
-- [x] Sugar (Thai basil, ginger garlic sauces) - Great Value Sugar Cannister, 20 oz ($2.12)
+### Fruit (Breakfast)
+- [ ] Granny Smith apples, 7 (Colton's breakfast)
+- [ ] Blueberries, 2 pints (Alayha's breakfast)
+
+---
+
+## Meat & Protein
+
+- [ ] Boneless skinless chicken breast, 4 lb pack (all chicken dishes)
+- [ ] Ground turkey 93% lean, 1 lb (tacos)
+- [ ] Eggs, 1 dozen (ramen eggs, general use)
+
+---
+
+## Dairy & Refrigerated
+
+- [ ] Greek yogurt, blueberry nonfat cups, 7 (Alayha's breakfast)
+- [ ] Unsalted butter, 1 stick (curry)
+- [ ] Shredded Mexican cheese, small bag (tacos - optional)
+
+---
+
+## Noodles & Rice
+
+- [x] Dried egg noodles or lo mein noodles, 12 oz (khao soi) - Simply Asia Lo Mein Noodles 14oz ($4.93)
+- [x] Ramen noodles, 1 pack of 4-6 (instant ramen, discard seasoning packets) - Maruchan Ramen 12-pack ($3.97)
+- [x] Rice stick noodles/pad thai noodles, 8 oz (pad kee mao) - Thai Kitchen Thin Rice Noodles 8.8oz ($4.72)
+- [x] Long grain white rice, 1 bag (or use existing) - Great Value Long Grain Rice 32oz ($1.77)
+
+---
+
+## Canned & Jarred
+
+- [x] Coconut milk (unsweetened full-fat), 2 cans 13.5 oz (khao soi) - GOYA Coconut Milk 13.5oz x2 ($2.62 each)
+- [x] Chicken broth (low sodium), 2 cartons 32 oz (~10 cups needed) - Great Value Reduced Sodium 2-pack ($3.00)
+- [x] Tomato sauce, 1 can 8 oz (tacos) - Great Value Tomato Sauce 8oz ($0.48)
+- [x] Tomato paste, 1 small can (curry) - Great Value Tomato Paste 6oz ($0.86)
+
+---
+
+## Asian/International Aisle (All at Walmart!)
+
+- [x] Thai Kitchen Red Curry Paste, 1 jar (khao soi) - Thai Kitchen Red Curry Paste 4oz ($4.88)
+- [x] Golden Curry sauce mix, Medium Hot, 1 box - S&B brand (curry) - S&B Golden Curry Medium Hot 3.2oz ($2.92)
+- [x] Sriracha (Huy Fong rooster sauce), 1 bottle (ramen, general heat) - Huy Fong Sriracha 17oz ($4.72)
+- [ ] Chili garlic sauce (Huy Fong), 1 jar (ramen, cucumber salad) - SKIPPED: Only available as shipped item (not delivery)
+- [x] Soy sauce, low sodium, 1 bottle (multiple recipes) - Great Value Less Sodium Soy Sauce 15oz ($1.58)
+- [x] Toasted sesame oil, 1 bottle (ramen, cucumber salad) - Oi! Toasted Pure Sesame Oil 250ml ($5.22)
+- [x] Rice vinegar, 1 bottle (cucumber salad, ramen) - Mizkan Rice Vinegar 12oz ($2.92)
+- [x] Oyster sauce, 1 bottle (pad kee mao) - Lee Kum Kee Panda Brand Oyster Sauce 9oz ($3.12)
+
+---
 
 ## Spices & Seasonings
-- [x] Curry powder (curry) - Great Value Curry Powder, 2 oz ($2.08)
-- [x] Garam masala (curry) - (SUB) Use Great Value Curry Powder already in cart [garam masala unavailable - curry powder works great]
-- [x] Ground coriander (curry) - Great Value Organic Ground Coriander, 1.5 oz ($4.36)
-- [x] Chili powder (Mexican bowl) - Great Value Chili Powder, 3 oz ($1.08)
-- [x] Cumin (Mexican bowl) - Great Value Ground Cumin, 2.5 oz ($1.42)
-- [x] Sesame seeds (lettuce wraps garnish) - Great Value Sesame Seeds, 2.2 oz ($2.12)
+
+- [x] Curry powder (khao soi, curry boost) - Great Value Curry Powder 2oz ($2.08)
+- [x] Ground turmeric (khao soi paste) - Great Value Organic Ground Turmeric 1.8oz ($4.36)
+- [x] Ground coriander (khao soi paste) - Great Value Organic Ground Coriander 1.5oz ($4.36)
+- [x] Cayenne pepper (extra heat for curry!) - Great Value Cayenne Pepper 2.25oz ($3.77)
+- [x] Chili powder (tacos) - Great Value Chili Powder 3oz ($1.08)
+- [x] Ground cumin (tacos) - Great Value Ground Cumin 2.5oz ($1.42)
+- [x] Paprika (tacos) - Great Value Paprika 2.5oz ($1.08)
+- [x] Dried oregano (tacos) - Great Value Oregano Leaves 0.87oz ($1.08)
+- [x] Garlic powder (tacos) - Great Value Garlic Powder 3.4oz ($1.08)
+- [x] Onion powder (tacos) - Great Value Onion Powder 3.25oz ($1.08)
+- [x] Sesame seeds (cucumber salad, ramen garnish) - Great Value Sesame Seeds 2.2oz ($2.12)
+- [x] Red pepper flakes (extra heat option) - Great Value Crushed Red Pepper 1.75oz ($1.44)
+
+---
+
+## Lunch Items (Weekly Staples)
+
+- [x] Chicken tikka masala boxed meals, 5 (Colton's lunch) - Chicken Tikka Masala with Basmati Rice 10oz x5 ($3.96 each, $19.80)
+- [x] Pre-prepped salads, 5 (Colton's lunch) - Marketside Chef Salad with Turkey & Ham 7.25oz x5 ($2.97 each, $14.85)
+- [x] Campbell's Chunky Chicken Noodle Soup, 5 cans (Alayha's lunch) - Campbell's Chunky Classic 18.6oz x5 ($2.48 each, $12.40)
+- [x] Premium or Zesta Saltines, 1 box (Alayha's lunch) - Premium Original Saltine Crackers 16oz ($3.68)
+
+---
 
 ## Frozen
-- [x] Cauliflower rice, 2-3 bags (Thai basil, curry, Mexican bowl, ginger garlic) - Great Value Frozen Riced Cauliflower, 12 oz x3 ($6.72)
 
-## Lunches (Existing Routine)
-- [x] Chicken tikka masala boxed meals, 3 (Colton lunches) - Chicken Tikka Masala with Basmati Rice 10 oz x3 ($11.88)
-- [x] Prepped salads, 2 (Colton lunches ~$3 each) - Marketside Caesar Salad with Chicken x2 ($5.94)
-- [x] Campbell's Chunky Chicken Noodle Soup, 5 cans (Alayha lunches) - Campbell's Chunky Classic Chicken Noodle Soup, 18.6 oz Can x5 ($9.90)
-- [x] Saltine crackers, 1 box (Alayha lunches) - Great Value Saltine Crackers, 16 oz ($1.84)
+- [x] Edamame (frozen, in shell), 1 bag (snack) - Seapoint Farms Edamame in Pods 30oz x6 packs ($5.94)
 
-## Optional Extras
-- [x] Dry roasted peanuts (ginger garlic garnish) - Great Value Dry Roasted Peanuts, 16 oz ($2.58)
-- [x] Maple syrup (lettuce wrap sauce) - Great Value Pure Maple Syrup 8 fl oz ($5.48)
-- [x] Salsa, jarred (Mexican bowl) - Great Value Thick and Chunky Salsa Mild, 16 oz ($1.92)
-- [x] Avocado oil (cooking) - Great Value Refined Avocado Oil, 25.5 fl oz ($12.24)
+---
+
+## Pantry Basics (Check If Have)
+
+- [ ] Vegetable oil - SKIPPED: Common pantry item, check if you have
+- [ ] All-purpose flour - SKIPPED: Common pantry item, check if you have
+- [ ] Brown sugar - SKIPPED: Common pantry item, check if you have
+- [ ] White sugar - SKIPPED: Common pantry item, check if you have
+- [x] Honey (sub for some Asian sauces) - Great Value Honey 12oz ($3.74)
+- [x] Worcestershire sauce - Great Value Worcestershire Sauce 10oz ($1.00)
+- [ ] Molasses (optional - for dark soy sub) - SKIPPED: Optional item
+- [ ] Salt & black pepper - SKIPPED: Common pantry item, check if you have
+- [ ] Bay leaves - SKIPPED: Common pantry item, check if you have
+
+---
+
+## Optional Toppings
+
+- [x] Pickled jalapeños, 1 jar (khao soi, tacos topping) - La Costeña Pickled Jalapeño Slices 15.5oz ($1.88)
+- [x] Cholula or Valentina hot sauce (tacos) - Cholula Original Hot Sauce 5oz ($3.92)
 
 ---
 
@@ -72,23 +138,39 @@ For meal plan: Week of January 6, 2025
 
 | Category | Estimate |
 |----------|----------|
-| Produce | ~$35 |
-| Meat | ~$25 |
-| Dairy | ~$10 |
-| Pantry/Asian | ~$15 (if buying new) |
-| Frozen | ~$10 |
-| Lunches | ~$20 |
-| **Total** | **~$115** |
+| Produce | ~$30 |
+| Meat & Protein | ~$22 |
+| Dairy | ~$8 |
+| Noodles & Rice | ~$8 |
+| Canned & Jarred | ~$10 |
+| Asian Aisle | ~$18 |
+| Spices (if buying new) | ~$12 |
+| Lunch Items | ~$25 |
+| Frozen | ~$4 |
+| **Total** | **~$85-95** |
 
 *Well under $200 budget!*
 
 ---
 
+## Sauce Substitution Cheat Sheet
+
+For the recipes, here's how to sub when cooking:
+
+| Recipe Calls For | Use Instead |
+|------------------|-------------|
+| Fish sauce | Soy sauce + dash of Worcestershire |
+| Sambal oelek | Chili garlic sauce (Huy Fong) |
+| Dark soy sauce | Regular soy sauce + 1/4 tsp molasses |
+| Thai chilies | Jalapeños with seeds (use 2x quantity) |
+
+---
+
 ## Notes for /shop
-- Prioritize individual items over bulk packs to reduce waste
-- Check pantry for Asian sauces before buying - may already have many
-- Cauliflower rice: frozen bags are easiest, get 2-3 depending on size
-- Avocados: get slightly firm, will ripen by Thursday
+- **Everything on this list is available at Walmart**
+- Asian aisle has Thai Kitchen, Huy Fong sauces, and Golden Curry
+- Buy jalapeños instead of exotic chilies - just use more and keep the seeds!
+- Regular basil works great in pad kee mao
 
 ---
 

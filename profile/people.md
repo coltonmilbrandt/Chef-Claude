@@ -1,8 +1,10 @@
 Colton, Male, 32
- - Does not like red onions, but does like shallots
+ - Does not like red onions, but does like shallots when cooked
+ - Does not like blue cheese, as far as salads go: caesar salad and salads with mango dressing and nuts (stuff like that)
+ - Does not really care for cold deli meats (like in chef's salad, or a cold sandwich)
  - Not a big seafood fan, and can't get any fresh in Utah
  - Doesn't love heavy pastas, one per week maybe
- - Likes asian type salads, even for dinner entree
+ - Likes asian type salads, even for dinner entree - like oriental chicken salad with mandarin oranges
  - Avoids artificial sweeteners
  - Cannot have chocolate
  - Favorite meal is curry chicken with rice
@@ -11,6 +13,7 @@ Colton, Male, 32
  - LOVES spicy food, like really, really spicy
  - Doesn't like too much dairy too often, but moderate amounts definitely okay
 Alayha, Female, 31
+ - Does not like blue cheese
  - Likes Premium or Zesta Saltines
  - Likes blueberry nonfat greek yogurt cups (even when she puts blueberries in)
  - Doesn't like meatloaf
