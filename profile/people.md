@@ -1,5 +1,5 @@
 Colton, Male, 32
- - Does not like red onions, but does like shallots when cooked
+ - Does not like red onions or onions in general, but does like shallots when cooked
  - Does not like blue cheese, as far as salads go: caesar salad and salads with mango dressing and nuts (stuff like that)
  - Does not really care for cold deli meats (like in chef's salad, or a cold sandwich)
  - Not a big seafood fan, and can't get any fresh in Utah
