@@ -1,0 +1,1554 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - link "Skip to Main Content" [ref=e6] [cursor=pointer]:
+          - /url: "#maincontent"
+        - text: 
+        - link "Walmart Homepage" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "Walmart+" [ref=e8]
+        - generic [ref=e4658]:
+          - button "Pickup or delivery? 26 W 300 S • St George Supercenter" [ref=e4660] [cursor=pointer]:
+            - generic [ref=e4661]:
+              - generic [ref=e4662]:
+                - generic [ref=e4664]: Pickup or delivery?
+                - generic [ref=e4665]:
+                  - generic [ref=e4669]: 26 W 300 S
+                  - generic [ref=e4672]:
+                    - generic [ref=e4673]: •
+                    - generic [ref=e4674]: St George Supercenter
+              - generic [ref=e4676]: 
+          - generic:
+            - generic:   
+          - generic [ref=e4678]:
+            - generic [ref=e4680]: 26 W 300 S
+            - generic [ref=e4682]: •
+        - search "Walmart Site-Wide" [ref=e9]:
+          - generic [ref=e10]:
+            - searchbox "Search" [ref=e11]: poblano pepper
+            - button [ref=e12] [cursor=pointer]:
+              - generic [ref=e13]: 
+            - button "Search" [ref=e14] [cursor=pointer]:
+              - generic [ref=e15]: 
+        - navigation "Account and Cart" [ref=e16]:
+          - list [ref=e17]:
+            - listitem [ref=e18]:
+              - button "Reorder My Items" [ref=e19] [cursor=pointer]:
+                - generic [ref=e20]: 
+                - generic [ref=e21]:
+                  - generic [ref=e22]: Reorder
+                  - generic [ref=e23]: My Items
+              - text:   
+            - listitem [ref=e24]:
+              - generic [ref=e26]:
+                - button "Hi, Colton M Account" [ref=e27] [cursor=pointer]:
+                  - generic [ref=e28]: 
+                  - generic [ref=e29]:
+                    - generic [ref=e30]: Hi, Colton M
+                    - generic [ref=e31]: Account
+                - text:     
+            - listitem [ref=e32]:
+              - button "Cart contains 1 item Total Amount $2.48" [ref=e4462]:
+                - generic [ref=e36]: 
+                - generic [ref=e106]: "1"
+                - generic [ref=e37]: $2.48
+      - generic [ref=e39]:
+        - navigation "Primary" [ref=e40]:
+          - list [ref=e41]:
+            - listitem [ref=e42]:
+              - button "Departments " [ref=e46]:
+                - text: Departments
+                - generic [ref=e47]: 
+            - listitem [ref=e48]:
+              - button "Services " [ref=e52]:
+                - text: Services
+                - generic [ref=e53]: 
+        - navigation "Secondary" [ref=e4684]:
+          - list [ref=e4685]:
+            - listitem [ref=e4686]:
+              - link "Get it Fast" [ref=e4688] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/get-it-fast/6545138
+            - listitem [ref=e4689]:
+              - link "Rollbacks & More" [ref=e4691] [cursor=pointer]:
+                - /url: https://www.walmart.com/shop/savings
+            - listitem [ref=e4692]:
+              - link "Easter" [ref=e4694] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/easter/1102349
+            - listitem [ref=e4695]:
+              - link "Pharmacy" [ref=e4697] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/pharmacy/5431
+            - listitem [ref=e4698]:
+              - link "New Arrivals" [ref=e4700] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/new-arrivals/2593086
+            - listitem [ref=e4701]:
+              - link "The Baby Event" [ref=e4703] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/baby-event/1806647
+            - listitem [ref=e4704]:
+              - link "Dinner Made Easy" [ref=e4706] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/dinner-tonight/5681029
+            - listitem [ref=e4707]:
+              - link "My Items" [ref=e4709] [cursor=pointer]:
+                - /url: https://www.walmart.com/my-items
+            - listitem [ref=e4710]:
+              - link "Only at Walmart" [ref=e4712] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/only-at-walmart/2119250
+            - listitem [ref=e4713]:
+              - link "Credit Card" [ref=e4715] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/9435689?utm_content=WMD-CRD-HPGN
+            - listitem [ref=e4716]:
+              - link "Walmart+" [ref=e4718] [cursor=pointer]:
+                - /url: https://www.walmart.com/plus
+    - generic [ref=e54]:
+      - main [ref=e4719]:
+        - generic [ref=e4720]:
+          - generic [ref=e4723]:
+            - region "Sort and Filter section" [ref=e4729]:
+              - switch "Filter by In-store" [ref=e4732]:
+                - generic [ref=e4734]: 
+                - generic [ref=e4735]: In-store
+              - switch "Filter by Get it fast" [ref=e4738]:
+                - generic [ref=e4740]: 
+                - generic [ref=e4741]: Get it fast
+              - button "Filter by Price not applied, activate to change" [ref=e4744]:
+                - generic [ref=e4746]: 
+                - generic [ref=e4747]: Price
+                - generic [ref=e4748]: 
+              - button "Filter by Brand not applied, activate to change" [ref=e4751]:
+                - generic [ref=e4752]: Brand
+                - generic [ref=e4753]: 
+              - switch "Filter by Subscription" [ref=e4757]:
+                - generic [ref=e4759]: 
+                - generic [ref=e4760]: Subscription
+              - generic [ref=e4761]:
+                - generic [ref=e4762]: Sort by
+                - text: "|"
+                - button "Sort by Best Match" [ref=e4764]:
+                  - text: Best Match
+                  - generic [ref=e4765]: 
+            - separator [ref=e4766]
+            - region "Quick refinements" [ref=e4767]:
+              - generic [ref=e4768]:
+                - text: 
+                - list [ref=e4769]:
+                  - listitem [ref=e4770]:
+                    - link "Poblano Ground" [ref=e4771] [cursor=pointer]
+                  - listitem [ref=e4772]:
+                    - link "Fresh Peppers & Chilis" [ref=e4773] [cursor=pointer]
+                  - listitem [ref=e4774]:
+                    - link "Pepper Seasonings" [ref=e4775] [cursor=pointer]
+                - text: 
+            - separator [ref=e4776]
+          - generic [ref=e4779]:
+            - generic [ref=e4780]:
+              - generic [ref=e4783]:
+                - generic [ref=e4784]:
+                  - button "Price" [ref=e4787]:
+                    - generic [ref=e4788]: Price
+                    - img [ref=e4789]: 
+                  - separator [ref=e4790]
+                - generic [ref=e4791]:
+                  - button "Brand" [ref=e4794]:
+                    - generic [ref=e4795]: Brand
+                    - img [ref=e4796]: 
+                  - separator [ref=e4797]
+                - generic [ref=e4798]:
+                  - button "Subscription" [ref=e4801]:
+                    - generic [ref=e4802]: Subscription
+                    - img [ref=e4803]: 
+                  - separator [ref=e4804]
+                - generic [ref=e4805]:
+                  - button "Customer Rating" [ref=e4808]:
+                    - generic [ref=e4809]: Customer Rating
+                    - img [ref=e4810]: 
+                  - separator [ref=e4811]
+                - generic [ref=e4812]:
+                  - button "Form" [ref=e4815]:
+                    - generic [ref=e4816]: Form
+                    - img [ref=e4817]: 
+                  - separator [ref=e4818]
+                - generic [ref=e4819]:
+                  - button "Nutritional Content" [ref=e4822]:
+                    - generic [ref=e4823]: Nutritional Content
+                    - img [ref=e4824]: 
+                  - separator [ref=e4825]
+                - generic [ref=e4826]:
+                  - button "Special Diet Needs" [ref=e4829]:
+                    - generic [ref=e4830]: Special Diet Needs
+                    - img [ref=e4831]: 
+                  - separator [ref=e4832]
+                - generic [ref=e4833]:
+                  - button "Product Category" [ref=e4836]:
+                    - generic [ref=e4837]: Product Category
+                    - img [ref=e4838]: 
+                  - separator [ref=e4839]
+                - generic [ref=e4840]:
+                  - button "Container" [ref=e4843]:
+                    - generic [ref=e4844]: Container
+                    - img [ref=e4845]: 
+                  - separator [ref=e4846]
+                - generic [ref=e4847]:
+                  - button "Availability" [ref=e4850]:
+                    - generic [ref=e4851]: Availability
+                    - img [ref=e4852]: 
+                  - separator [ref=e4853]
+                - generic [ref=e4854]:
+                  - button "Departments" [ref=e4857]:
+                    - generic [ref=e4858]: Departments
+                    - img [ref=e4859]: 
+                  - separator [ref=e4860]
+                - generic [ref=e4861]:
+                  - button "Retailer" [ref=e4864]:
+                    - generic [ref=e4865]: Retailer
+                    - img [ref=e4866]: 
+                  - separator [ref=e4867]
+                - generic [ref=e4868]:
+                  - button "Benefit Programs" [ref=e4871]:
+                    - generic [ref=e4872]: Benefit Programs
+                    - img [ref=e4873]: 
+                  - separator [ref=e4874]
+              - generic [ref=e4875]:
+                - generic [ref=e4876]:
+                  - generic [ref=e4877]:
+                    - heading "Results for \"poblano pepper\" (6)" [level=2] [ref=e4885]: Results for "poblano pepper"(6)
+                    - generic [ref=e4887]:
+                      - generic [ref=e4888]: Uses item details. Price when purchased online
+                      - button "legal information" [ref=e4889] [cursor=pointer]:
+                        - generic [ref=e4890]: 
+                    - generic [ref=e4891]:
+                      - group [ref=e4894]:
+                        - link "Fresh Poblano Peppers, 16 oz bag $2.64 16.5 ¢/oz" [ref=e4895] [cursor=pointer]:
+                          - /url: /ip/Fresh-Poblano-Peppers-16-oz-bag/269323363?classType=REGULAR&from=/search
+                          - heading "Fresh Poblano Peppers, 16 oz bag $2.64 16.5 ¢/oz" [level=3] [ref=e4897]
+                        - generic [ref=e4898]:
+                          - generic [ref=e4901]:
+                            - button "Add to Favorites list, Fresh Poblano Peppers, 16 oz bag" [ref=e4902]:
+                              - generic [ref=e4903]: 
+                            - img "Fresh Poblano Peppers, 16 oz bag" [ref=e4904]
+                          - button "Add to cart - Fresh Poblano Peppers, 16 oz bag" [ref=e4908] [cursor=pointer]:
+                            - generic "add to cart" [ref=e4909]: 
+                            - generic [ref=e4910]: Add
+                          - button "Subscribe Fresh Poblano Peppers, 16 oz bag" [ref=e4914] [cursor=pointer]:
+                            - generic [ref=e4917]: 
+                            - text: Subscribe
+                          - generic [ref=e4918]:
+                            - generic [ref=e4920]:
+                              - generic [ref=e4921]: $264
+                              - generic [ref=e4922]: current price $2.64
+                              - generic [ref=e4923]: 16.5 ¢/oz
+                              - generic [ref=e4924]: $2.51 when subscribed
+                            - heading "Fresh Poblano Peppers, 16 oz bag" [level=3] [ref=e4926]
+                            - generic [ref=e4927]:
+                              - generic [ref=e4928]:
+                                - img [ref=e4929]
+                                - img [ref=e4931]
+                                - img [ref=e4933]
+                                - img [ref=e4935]
+                                - img [ref=e4937]
+                              - generic [ref=e4940]: "1318"
+                              - generic [ref=e4941]: 4.3 out of 5 Stars. 1318 reviews
+                            - generic [ref=e4943]:
+                              - generic [ref=e4944]:
+                                - generic [ref=e4946]: Delivery as soon as 24 mins
+                                - generic [ref=e4948]: Pickup as soon as 7pm
+                              - generic [ref=e4950]:
+                                - generic [ref=e4952]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e4956]:
+                        - link "Savor Imports Roasted Diced Poblano Pepper, 20 Pound - 1 each. $167.86 Was $188.72" [ref=e4957] [cursor=pointer]:
+                          - /url: /ip/Savor-Imports-Roasted-Diced-Poblano-Pepper-20-Pound-1-each/207502406?classType=REGULAR&from=/search
+                          - heading "Savor Imports Roasted Diced Poblano Pepper, 20 Pound - 1 each. $167.86 Was $188.72" [level=3] [ref=e4959]
+                        - generic [ref=e4960]:
+                          - generic [ref=e4963]:
+                            - button "Add to Favorites list, Savor Imports Roasted Diced Poblano Pepper, 20 Pound - 1 each." [ref=e4964]:
+                              - generic [ref=e4965]: 
+                            - img "Savor Imports Roasted Diced Poblano Pepper, 20 Pound - 1 each." [ref=e4966]
+                          - button "Add to cart - Savor Imports Roasted Diced Poblano Pepper, 20 Pound - 1 each." [ref=e4970] [cursor=pointer]:
+                            - generic "add to cart" [ref=e4971]: 
+                            - generic [ref=e4972]: Add
+                          - generic [ref=e4973]:
+                            - generic [ref=e4975]:
+                              - generic [ref=e4976]: Now$16786
+                              - generic [ref=e4977]: current price Now $167.86, Was $188.72
+                              - generic [ref=e4978]: $188.72
+                            - heading "Savor Imports Roasted Diced Poblano Pepper, 20 Pound - 1 each." [level=3] [ref=e4980]
+                            - generic [ref=e4985]: Free shipping, arrives in 3+ days
+                      - group [ref=e4989]:
+                        - link "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 08 Oz. $8.95" [ref=e4990] [cursor=pointer]:
+                          - /url: /ip/NY-SPICE-SHOP-Ancho-Chili-Pepper-Dried-Poblano-Dry-Ancho-Chili-Dried-Ancho-Chilies-Smoked-Ancho-Chili-Poblano-Pepper-08-Oz/3266637666?classType=VARIANT&from=/search
+                          - heading "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 08 Oz. $8.95" [level=3] [ref=e4992]
+                        - generic [ref=e4993]:
+                          - generic [ref=e4996]:
+                            - button "Add to Favorites list, NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 08 Oz." [ref=e4997]:
+                              - generic [ref=e4998]: 
+                            - img "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 08 Oz." [ref=e4999]
+                          - button "Add to cart - NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 08 Oz." [ref=e5003] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5004]: 
+                            - generic [ref=e5005]: Add
+                          - generic [ref=e5006]:
+                            - generic [ref=e5008]:
+                              - generic [ref=e5009]: $895
+                              - generic [ref=e5010]: current price $8.95
+                              - generic [ref=e5011]: +$8.50 shipping
+                            - heading "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 08 Oz." [level=3] [ref=e5013]
+                            - generic [ref=e5014]:
+                              - generic [ref=e5015]:
+                                - img [ref=e5016]
+                                - img [ref=e5018]
+                                - img [ref=e5020]
+                                - img [ref=e5022]
+                                - img [ref=e5024]
+                              - generic [ref=e5026]: "2"
+                              - generic [ref=e5027]: 5 out of 5 Stars. 2 reviews
+                            - generic [ref=e5032]: Shipping arrives in 3+ days
+                      - group [ref=e5036]:
+                        - link "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 1 lbs $15.99" [ref=e5037] [cursor=pointer]:
+                          - /url: /ip/NY-SPICE-SHOP-Ancho-Chili-Pepper-Dried-Poblano-Dry-Ancho-Chili-Dried-Ancho-Chilies-Smoked-Ancho-Chili-Poblano-Pepper-1-lbs/2786316400?classType=VARIANT&from=/search
+                          - heading "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 1 lbs $15.99" [level=3] [ref=e5039]
+                        - generic [ref=e5040]:
+                          - generic [ref=e5043]:
+                            - button "Add to Favorites list, NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 1 lbs" [ref=e5044]:
+                              - generic [ref=e5045]: 
+                            - img "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 1 lbs" [ref=e5046]
+                          - button "Add to cart - NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 1 lbs" [ref=e5050] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5051]: 
+                            - generic [ref=e5052]: Add
+                          - generic [ref=e5053]:
+                            - generic [ref=e5055]:
+                              - generic [ref=e5056]: $1599
+                              - generic [ref=e5057]: current price $15.99
+                              - generic [ref=e5058]: +$9.75 shipping
+                            - heading "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 1 lbs" [level=3] [ref=e5060]
+                            - generic [ref=e5061]:
+                              - generic [ref=e5062]:
+                                - img [ref=e5063]
+                                - img [ref=e5065]
+                                - img [ref=e5067]
+                                - img [ref=e5069]
+                                - img [ref=e5071]
+                              - generic [ref=e5073]: "2"
+                              - generic [ref=e5074]: 5 out of 5 Stars. 2 reviews
+                            - generic [ref=e5079]: Shipping arrives in 3+ days
+                      - group [ref=e5083]:
+                        - link "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 3 lbs $44.99" [ref=e5084] [cursor=pointer]:
+                          - /url: /ip/NY-SPICE-SHOP-Ancho-Chili-Pepper-Dried-Poblano-Dry-Ancho-Chili-Dried-Ancho-Chilies-Smoked-Ancho-Chili-Poblano-Pepper-3-lbs/2684792970?classType=VARIANT&from=/search
+                          - heading "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 3 lbs $44.99" [level=3] [ref=e5086]
+                        - generic [ref=e5087]:
+                          - generic [ref=e5090]:
+                            - button "Add to Favorites list, NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 3 lbs" [ref=e5091]:
+                              - generic [ref=e5092]: 
+                            - img "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 3 lbs" [ref=e5093]
+                          - button "Add to cart - NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 3 lbs" [ref=e5097] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5098]: 
+                            - generic [ref=e5099]: Add
+                          - generic [ref=e5100]:
+                            - generic [ref=e5102]:
+                              - generic [ref=e5103]: $4499
+                              - generic [ref=e5104]: current price $44.99
+                              - generic [ref=e5105]: +$15.00 shipping
+                            - heading "NY SPICE SHOP Ancho Chili Pepper - Dried Poblano - Dry Ancho Chili - Dried Ancho Chilies - Smoked Ancho Chili - Poblano Pepper - 3 lbs" [level=3] [ref=e5107]
+                            - generic [ref=e5108]:
+                              - generic [ref=e5109]:
+                                - img [ref=e5110]
+                                - img [ref=e5112]
+                                - img [ref=e5114]
+                                - img [ref=e5116]
+                                - img [ref=e5118]
+                              - generic [ref=e5120]: "2"
+                              - generic [ref=e5121]: 5 out of 5 Stars. 2 reviews
+                            - generic [ref=e5126]: Shipping arrives in 3+ days
+                      - generic [ref=e5129]:
+                        - group [ref=e5130]:
+                          - link "Fresh Poblano Pepper, Each $0.68" [ref=e5131] [cursor=pointer]:
+                            - /url: /ip/Fresh-Poblano-Pepper-Each/44391135?classType=REGULAR&from=/search
+                            - heading "Fresh Poblano Pepper, Each $0.68" [level=3] [ref=e5133]
+                          - generic [ref=e5134]:
+                            - generic [ref=e5137]:
+                              - button "Add to Favorites list, Fresh Poblano Pepper, Each" [ref=e5138]:
+                                - generic [ref=e5139]: 
+                              - img "Fresh Poblano Pepper, Each" [ref=e5140]
+                            - generic [ref=e5141]:
+                              - generic [ref=e5143]:
+                                - generic [ref=e5144]: $068
+                                - generic [ref=e5145]: current price $0.68
+                              - heading "Fresh Poblano Pepper, Each" [level=3] [ref=e5147]
+                              - generic [ref=e5148]:
+                                - generic [ref=e5149]:
+                                  - img [ref=e5150]
+                                  - img [ref=e5152]
+                                  - img [ref=e5154]
+                                  - img [ref=e5156]
+                                  - img [ref=e5158]
+                                - generic [ref=e5160]: "188"
+                                - generic [ref=e5161]: 2 out of 5 Stars. 188 reviews
+                              - generic [ref=e5163]:
+                                - generic [ref=e5165]: Out of stock
+                                - generic [ref=e5167]:
+                                  - generic [ref=e5169]: 
+                                  - text: SNAP EBT eligible
+                        - button "Shop similar - Fresh Poblano Pepper, Each" [ref=e5171]: Shop similar
+                  - generic [ref=e5173]:
+                    - heading "Other options to consider (57)" [level=2] [ref=e5181]: Other options to consider(57)
+                    - generic [ref=e5182]:
+                      - group [ref=e5185]:
+                        - link "Robinson Fresh Anaheim Peppers, 1 Pound Bag $2.68 16.8 ¢/oz" [ref=e5186] [cursor=pointer]:
+                          - /url: /ip/Fresh-Anaheim-Peppers-1-Pound-Bag/430906516?classType=REGULAR&from=/search
+                          - heading "Robinson Fresh Anaheim Peppers, 1 Pound Bag $2.68 16.8 ¢/oz" [level=3] [ref=e5188]
+                        - generic [ref=e5189]:
+                          - generic [ref=e5192]:
+                            - button "Add to Favorites list, Robinson Fresh Anaheim Peppers, 1 Pound Bag" [ref=e5193]:
+                              - generic [ref=e5194]: 
+                            - img "Robinson Fresh Anaheim Peppers, 1 Pound Bag" [ref=e5195]
+                          - button "Add to cart - Robinson Fresh Anaheim Peppers, 1 Pound Bag" [ref=e5199] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5200]: 
+                            - generic [ref=e5201]: Add
+                          - button "Subscribe Robinson Fresh Anaheim Peppers, 1 Pound Bag" [ref=e5205] [cursor=pointer]:
+                            - generic [ref=e5208]: 
+                            - text: Subscribe
+                          - generic [ref=e5209]:
+                            - generic [ref=e5211]:
+                              - generic [ref=e5212]: $268
+                              - generic [ref=e5213]: current price $2.68
+                              - generic [ref=e5214]: 16.8 ¢/oz
+                              - generic [ref=e5215]: $2.55 when subscribed
+                            - heading "Robinson Fresh Anaheim Peppers, 1 Pound Bag" [level=3] [ref=e5217]
+                            - generic [ref=e5218]:
+                              - generic [ref=e5219]:
+                                - img [ref=e5220]
+                                - img [ref=e5222]
+                                - img [ref=e5224]
+                                - img [ref=e5226]
+                                - img [ref=e5228]
+                              - generic [ref=e5230]: "377"
+                              - generic [ref=e5231]: 4 out of 5 Stars. 377 reviews
+                            - generic [ref=e5233]:
+                              - generic [ref=e5234]:
+                                - generic [ref=e5236]: Delivery as soon as 24 mins
+                                - generic [ref=e5238]: Pickup as soon as 7pm
+                              - generic [ref=e5240]:
+                                - generic [ref=e5242]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e5246]:
+                        - link "Bought 5+ times Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound $0.41 $1.62/lb" [ref=e5247] [cursor=pointer]:
+                          - /url: /ip/Fresh-Jalapeno-Pepper-Approx-3-5-per-0-25-Pound/44391018?classType=REGULAR&athbdg=L1100&from=/search
+                          - heading "Bought 5+ times Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound $0.41 $1.62/lb" [level=3] [ref=e5249]
+                        - generic [ref=e5250]:
+                          - generic [ref=e5251]:
+                            - group [ref=e5254]:
+                              - generic [ref=e5255]: Bought 5+ times
+                            - generic [ref=e5256]:
+                              - button "Add to Favorites list, Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound" [ref=e5257]:
+                                - generic [ref=e5258]: 
+                              - img "Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound" [ref=e5259]
+                          - button "Add to cart - Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound" [ref=e5263] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5264]: 
+                            - generic [ref=e5265]: Add
+                          - button "Subscribe Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound" [ref=e5269] [cursor=pointer]:
+                            - generic [ref=e5272]: 
+                            - text: Subscribe
+                          - generic [ref=e5273]:
+                            - generic [ref=e5275]:
+                              - generic [ref=e5276]: $041
+                              - generic [ref=e5277]: current price $0.41
+                              - generic [ref=e5279]: / 0.25lb
+                              - generic [ref=e5280]: $1.62/lb
+                              - generic [ref=e5281]: Final cost by weight
+                              - generic [ref=e5282]: $0.39 when subscribed
+                            - heading "Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound" [level=3] [ref=e5284]
+                            - generic [ref=e5285]:
+                              - generic [ref=e5286]:
+                                - img [ref=e5287]
+                                - img [ref=e5289]
+                                - img [ref=e5291]
+                                - img [ref=e5293]
+                                - img [ref=e5296]
+                              - generic [ref=e5298]: "12101"
+                              - generic [ref=e5299]: 3.7 out of 5 Stars. 12101 reviews
+                            - generic [ref=e5301]:
+                              - generic [ref=e5302]:
+                                - generic [ref=e5304]: Delivery as soon as 24 mins
+                                - generic [ref=e5306]: Pickup as soon as 7pm
+                              - generic [ref=e5308]:
+                                - generic [ref=e5310]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e5314]:
+                        - link "Great Value Mild Banana Pepper Rings, 12.5 fl oz $1.97 15.8 ¢/fl oz" [ref=e5315] [cursor=pointer]:
+                          - /url: /ip/Great-Value-Mild-Banana-Pepper-Rings-12-5-fl-oz/285450586?classType=VARIANT&from=/search
+                          - heading "Great Value Mild Banana Pepper Rings, 12.5 fl oz $1.97 15.8 ¢/fl oz" [level=3] [ref=e5317]
+                        - generic [ref=e5318]:
+                          - generic [ref=e5321]:
+                            - button "Add to Favorites list, Great Value Mild Banana Pepper Rings, 12.5 fl oz" [ref=e5322]:
+                              - generic [ref=e5323]: 
+                            - img "Great Value Mild Banana Pepper Rings, 12.5 fl oz" [ref=e5324]
+                          - button "Add to cart - Great Value Mild Banana Pepper Rings, 12.5 fl oz" [ref=e5328] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5329]: 
+                            - generic [ref=e5330]: Add
+                          - button "Subscribe Great Value Mild Banana Pepper Rings, 12.5 fl oz" [ref=e5334] [cursor=pointer]:
+                            - generic [ref=e5337]: 
+                            - text: Subscribe
+                          - generic [ref=e5338]:
+                            - generic [ref=e5340]:
+                              - generic [ref=e5341]: $197
+                              - generic [ref=e5342]: current price $1.97
+                              - generic [ref=e5343]: 15.8 ¢/fl oz
+                              - generic [ref=e5344]: $1.87 when subscribed
+                            - heading "Great Value Mild Banana Pepper Rings, 12.5 fl oz" [level=3] [ref=e5346]
+                            - generic [ref=e5347]:
+                              - generic [ref=e5348]:
+                                - img [ref=e5349]
+                                - img [ref=e5351]
+                                - img [ref=e5353]
+                                - img [ref=e5355]
+                                - img [ref=e5357]
+                              - generic [ref=e5360]: "938"
+                              - generic [ref=e5361]: 4.5 out of 5 Stars. 938 reviews
+                            - generic [ref=e5363]:
+                              - generic [ref=e5364]:
+                                - generic [ref=e5366]: Delivery as soon as 24 mins
+                                - generic [ref=e5368]: Pickup as soon as 7pm
+                              - generic [ref=e5370]:
+                                - generic [ref=e5372]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e5376]:
+                        - link "Ancho Chile Peppers, Whole $18.25" [ref=e5377] [cursor=pointer]:
+                          - /url: /ip/Ancho-Chile-Peppers-Whole/301833733?classType=VARIANT&from=/search
+                          - heading "Ancho Chile Peppers, Whole $18.25" [level=3] [ref=e5379]
+                        - generic [ref=e5380]:
+                          - generic [ref=e5383]:
+                            - button "Add to Favorites list, Ancho Chile Peppers, Whole" [ref=e5384]:
+                              - generic [ref=e5385]: 
+                            - img "Ancho Chile Peppers, Whole" [ref=e5386]
+                          - button "Add to cart - Ancho Chile Peppers, Whole" [ref=e5390] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5391]: 
+                            - generic [ref=e5392]: Add
+                          - generic [ref=e5393]:
+                            - generic [ref=e5395]:
+                              - generic [ref=e5396]: $1825
+                              - generic [ref=e5397]: current price $18.25
+                            - heading "Ancho Chile Peppers, Whole" [level=3] [ref=e5399]
+                            - generic [ref=e5400]:
+                              - generic [ref=e5401]:
+                                - img [ref=e5402]
+                                - img [ref=e5404]
+                                - img [ref=e5406]
+                                - img [ref=e5408]
+                                - img [ref=e5410]
+                              - generic [ref=e5412]: "3"
+                              - generic [ref=e5413]: 5 out of 5 Stars. 3 reviews
+                            - generic [ref=e5418]: Free shipping, arrives in 3+ days
+                      - group [ref=e5422]:
+                        - link "(Pack Of 12) La Preferida Pepper Jalapeno Sliced 11 Oz $50.99" [ref=e5423] [cursor=pointer]:
+                          - /url: /ip/Pack-Of-12-La-Preferida-Pepper-Jalapeno-Sliced-11-Oz/19550303265?classType=REGULAR&from=/search
+                          - heading "(Pack Of 12) La Preferida Pepper Jalapeno Sliced 11 Oz $50.99" [level=3] [ref=e5425]
+                        - generic [ref=e5426]:
+                          - generic [ref=e5429]:
+                            - button "Add to Favorites list, (Pack Of 12) La Preferida Pepper Jalapeno Sliced 11 Oz" [ref=e5430]:
+                              - generic [ref=e5431]: 
+                            - img "(Pack Of 12) La Preferida Pepper Jalapeno Sliced 11 Oz" [ref=e5432]
+                          - button "Add to cart - (Pack Of 12) La Preferida Pepper Jalapeno Sliced 11 Oz" [ref=e5436] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5437]: 
+                            - generic [ref=e5438]: Add
+                          - generic [ref=e5439]:
+                            - generic [ref=e5441]:
+                              - generic [ref=e5442]: $5099
+                              - generic [ref=e5443]: current price $50.99
+                            - heading "(Pack Of 12) La Preferida Pepper Jalapeno Sliced 11 Oz" [level=3] [ref=e5445]
+                            - generic [ref=e5450]: Free shipping, arrives in 3+ days
+                      - group [ref=e5454]:
+                        - link "DeLallo Mild Pepperoncini Whole Peppers, Non-GMO, Gluten-Free, 25.5 oz Jar $7.08 27.8 ¢/fl oz" [ref=e5455] [cursor=pointer]:
+                          - /url: /ip/DeLallo-Non-GMO-Gluten-Free-Mild-Pepperoncini-Whole-Peppers-for-Pizza-Salads-25-5-oz-Jar/30870968?classType=REGULAR&from=/search
+                          - heading "DeLallo Mild Pepperoncini Whole Peppers, Non-GMO, Gluten-Free, 25.5 oz Jar $7.08 27.8 ¢/fl oz" [level=3] [ref=e5457]
+                        - generic [ref=e5458]:
+                          - generic [ref=e5461]:
+                            - button "Add to Favorites list, DeLallo Mild Pepperoncini Whole Peppers, Non-GMO, Gluten-Free, 25.5 oz Jar" [ref=e5462]:
+                              - generic [ref=e5463]: 
+                            - img "DeLallo Mild Pepperoncini Whole Peppers, Non-GMO, Gluten-Free, 25.5 oz Jar" [ref=e5464]
+                          - button "Add to cart - DeLallo Mild Pepperoncini Whole Peppers, Non-GMO, Gluten-Free, 25.5 oz Jar" [ref=e5468] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5469]: 
+                            - generic [ref=e5470]: Add
+                          - button "Subscribe DeLallo Mild Pepperoncini Whole Peppers, Non-GMO, Gluten-Free, 25.5 oz Jar" [ref=e5474] [cursor=pointer]:
+                            - generic [ref=e5477]: 
+                            - text: Subscribe
+                          - generic [ref=e5478]:
+                            - generic [ref=e5480]:
+                              - generic [ref=e5481]: $708
+                              - generic [ref=e5482]: current price $7.08
+                              - generic [ref=e5483]: 27.8 ¢/fl oz
+                              - generic [ref=e5484]: $6.73 when subscribed
+                            - heading "DeLallo Mild Pepperoncini Whole Peppers, Non-GMO, Gluten-Free, 25.5 oz Jar" [level=3] [ref=e5486]
+                            - generic [ref=e5487]:
+                              - generic [ref=e5488]:
+                                - img [ref=e5489]
+                                - img [ref=e5491]
+                                - img [ref=e5493]
+                                - img [ref=e5495]
+                                - img [ref=e5497]
+                              - generic [ref=e5500]: "32"
+                              - generic [ref=e5501]: 4.4 out of 5 Stars. 32 reviews
+                            - generic [ref=e5503]:
+                              - generic [ref=e5505]:
+                                - img "WalmartPlus icon" [ref=e5506]
+                                - generic [ref=e5507]: Free shipping, arrives Fri, Feb 20
+                              - generic [ref=e5509]:
+                                - generic [ref=e5511]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e5515]:
+                        - link "Pepper, Poblano Pepper seeds, NON GMO, 200 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico $6.49" [ref=e5516] [cursor=pointer]:
+                          - /url: /ip/Pepper-Poblano-Pepper-seeds-NON-GMO-200-seeds-per-pack-mild-chili-pepper-originating-in-the-state-of-Puebla-Mexico/7956415417?classType=REGULAR&from=/search
+                          - heading "Pepper, Poblano Pepper seeds, NON GMO, 200 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico $6.49" [level=3] [ref=e5518]
+                        - generic [ref=e5519]:
+                          - generic [ref=e5522]:
+                            - button "Add to Favorites list, Pepper, Poblano Pepper seeds, NON GMO, 200 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico" [ref=e5523]:
+                              - generic [ref=e5524]: 
+                            - img "Pepper, Poblano Pepper seeds, NON GMO, 200 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico" [ref=e5525]
+                          - button "Add to cart - Pepper, Poblano Pepper seeds, NON GMO, 200 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico" [ref=e5529] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5530]: 
+                            - generic [ref=e5531]: Add
+                          - generic [ref=e5532]:
+                            - generic [ref=e5534]:
+                              - generic [ref=e5535]: $649
+                              - generic [ref=e5536]: current price $6.49
+                            - heading "Pepper, Poblano Pepper seeds, NON GMO, 200 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico" [level=3] [ref=e5538]
+                            - generic [ref=e5539]:
+                              - generic [ref=e5540]:
+                                - img [ref=e5541]
+                                - img [ref=e5543]
+                                - img [ref=e5545]
+                                - img [ref=e5547]
+                                - img [ref=e5549]
+                              - generic [ref=e5551]: "1"
+                              - generic [ref=e5552]: 5 out of 5 Stars. 1 reviews
+                            - generic [ref=e5557]: Free shipping, arrives in 3+ days
+                      - group [ref=e5561]:
+                        - link "4oz California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices $6.47" [ref=e5562] [cursor=pointer]:
+                          - /url: /ip/4oz-California-Dried-Whole-Chilies-Peppers-Anaheim-Chile-Seco-Pods-by-1400s-Spices/582139244?classType=REGULAR&from=/search
+                          - heading "4oz California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices $6.47" [level=3] [ref=e5564]
+                        - generic [ref=e5565]:
+                          - generic [ref=e5568]:
+                            - button "Add to Favorites list, 4oz California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices" [ref=e5569]:
+                              - generic [ref=e5570]: 
+                            - img "4oz California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices" [ref=e5571]
+                          - button "Add to cart - 4oz California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices" [ref=e5575] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5576]: 
+                            - generic [ref=e5577]: Add
+                          - generic [ref=e5578]:
+                            - generic [ref=e5580]:
+                              - generic [ref=e5581]: $647
+                              - generic [ref=e5582]: current price $6.47
+                            - heading "4oz California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices" [level=3] [ref=e5584]
+                            - generic [ref=e5585]:
+                              - generic [ref=e5586]:
+                                - img [ref=e5587]
+                                - img [ref=e5589]
+                                - img [ref=e5591]
+                                - img [ref=e5593]
+                                - img [ref=e5595]
+                              - generic [ref=e5597]: "5"
+                              - generic [ref=e5598]: 5 out of 5 Stars. 5 reviews
+                            - generic [ref=e5602]:
+                              - img "WalmartPlus icon" [ref=e5603]
+                              - generic [ref=e5604]: Free shipping, arrives Thu, Feb 19
+                      - group [ref=e5608]:
+                        - link "48 count Display of 1.0 oz Sliced Jalapeno Packages $37.60" [ref=e5609] [cursor=pointer]:
+                          - /url: /ip/48-count-Display-of-1-0-oz-Sliced-Jalapeno-Packages/306300430?classType=REGULAR&from=/search
+                          - heading "48 count Display of 1.0 oz Sliced Jalapeno Packages $37.60" [level=3] [ref=e5611]
+                        - generic [ref=e5612]:
+                          - generic [ref=e5615]:
+                            - button "Add to Favorites list, 48 count Display of 1.0 oz Sliced Jalapeno Packages" [ref=e5616]:
+                              - generic [ref=e5617]: 
+                            - img "48 count Display of 1.0 oz Sliced Jalapeno Packages"
+                          - button "Add to cart - 48 count Display of 1.0 oz Sliced Jalapeno Packages" [ref=e5621] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5622]: 
+                            - generic [ref=e5623]: Add
+                          - generic [ref=e5624]:
+                            - generic [ref=e5626]:
+                              - generic [ref=e5627]: $3760
+                              - generic [ref=e5628]: current price $37.60
+                            - heading "48 count Display of 1.0 oz Sliced Jalapeno Packages" [level=3] [ref=e5630]
+                            - generic [ref=e5635]: Free shipping, arrives in 3+ days
+                      - group [ref=e5639]:
+                        - link "Marconi Mild Banana Pepper Rings, Shelf-Stable, 16 fl oz Jar $11.99 74.9 ¢/fl oz" [ref=e5640] [cursor=pointer]:
+                          - /url: /ip/Marconi-Mild-Banana-Pepper-Rings-Shelf-Stable-16-fl-oz-Jar/51630402?classType=VARIANT&from=/search
+                          - heading "Marconi Mild Banana Pepper Rings, Shelf-Stable, 16 fl oz Jar $11.99 74.9 ¢/fl oz" [level=3] [ref=e5642]
+                        - generic [ref=e5643]:
+                          - generic [ref=e5646]:
+                            - button "Add to Favorites list, Marconi Mild Banana Pepper Rings, Shelf-Stable, 16 fl oz Jar" [ref=e5647]:
+                              - generic [ref=e5648]: 
+                            - img "Marconi Mild Banana Pepper Rings, Shelf-Stable, 16 fl oz Jar"
+                          - button "Add to cart - Marconi Mild Banana Pepper Rings, Shelf-Stable, 16 fl oz Jar" [ref=e5652] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5653]: 
+                            - generic [ref=e5654]: Add
+                          - generic [ref=e5655]:
+                            - generic [ref=e5657]:
+                              - generic [ref=e5658]: $1199
+                              - generic [ref=e5659]: current price $11.99
+                              - generic [ref=e5660]: 74.9 ¢/fl oz
+                            - heading "Marconi Mild Banana Pepper Rings, Shelf-Stable, 16 fl oz Jar" [level=3] [ref=e5662]
+                            - generic [ref=e5663]:
+                              - generic [ref=e5664]:
+                                - img [ref=e5665]
+                                - img [ref=e5667]
+                                - img [ref=e5669]
+                                - img [ref=e5671]
+                                - img [ref=e5673]
+                              - generic [ref=e5675]: "11"
+                              - generic [ref=e5676]: 4.2 out of 5 Stars. 11 reviews
+                            - generic [ref=e5680]:
+                              - img "WalmartPlus icon" [ref=e5681]
+                              - generic [ref=e5682]: Free shipping, arrives Fri, Feb 20
+                      - group [ref=e5686]:
+                        - link "Ancho Chile Peppers, Whole $10.09" [ref=e5687] [cursor=pointer]:
+                          - /url: /ip/Ancho-Chile-Peppers-Whole/957238825?classType=VARIANT&from=/search
+                          - heading "Ancho Chile Peppers, Whole $10.09" [level=3] [ref=e5689]
+                        - generic [ref=e5690]:
+                          - generic [ref=e5693]:
+                            - button "Add to Favorites list, Ancho Chile Peppers, Whole" [ref=e5694]:
+                              - generic [ref=e5695]: 
+                            - img "Ancho Chile Peppers, Whole"
+                          - button "Add to cart - Ancho Chile Peppers, Whole" [ref=e5699] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5700]: 
+                            - generic [ref=e5701]: Add
+                          - generic [ref=e5702]:
+                            - generic [ref=e5704]:
+                              - generic [ref=e5705]: $1009
+                              - generic [ref=e5706]: current price $10.09
+                            - heading "Ancho Chile Peppers, Whole" [level=3] [ref=e5708]
+                            - generic [ref=e5709]:
+                              - generic [ref=e5710]:
+                                - img [ref=e5711]
+                                - img [ref=e5713]
+                                - img [ref=e5715]
+                                - img [ref=e5717]
+                                - img [ref=e5719]
+                              - generic [ref=e5721]: "3"
+                              - generic [ref=e5722]: 5 out of 5 Stars. 3 reviews
+                            - generic [ref=e5727]: Free shipping, arrives in 3+ days
+                      - group [ref=e5731]:
+                        - link "La Preferida Whole Jalapeno Peppers 26 oz (Pack Of 12)" [ref=e5732] [cursor=pointer]:
+                          - /url: /ip/La-Preferida-Whole-Jalapeno-Peppers-26-oz-Pack-Of-12/9818021587?classType=REGULAR&from=/search
+                          - heading "La Preferida Whole Jalapeno Peppers 26 oz (Pack Of 12)" [level=3] [ref=e5734]
+                        - generic [ref=e5735]:
+                          - generic [ref=e5738]:
+                            - button "Add to Favorites list, La Preferida Whole Jalapeno Peppers 26 oz (Pack Of 12)" [ref=e5739]:
+                              - generic [ref=e5740]: 
+                            - img "La Preferida Whole Jalapeno Peppers 26 oz (Pack Of 12)"
+                          - generic [ref=e5741]:
+                            - heading "La Preferida Whole Jalapeno Peppers 26 oz (Pack Of 12)" [level=3] [ref=e5743]
+                            - generic [ref=e5748]: Free shipping, arrives in 3+ days
+                      - group [ref=e5752]:
+                        - link "Mt. Olive Mild Banana Pepper Rings Fresh Pack - 12 oz (Packaging May Vary) $7.96" [ref=e5753] [cursor=pointer]:
+                          - /url: /ip/Mt-Olive-Mild-Banana-Pepper-Rings-Fresh-Pack-12-oz-Package-May-Vary/15500857231?classType=REGULAR&from=/search
+                          - heading "Mt. Olive Mild Banana Pepper Rings Fresh Pack - 12 oz (Packaging May Vary) $7.96" [level=3] [ref=e5755]
+                        - generic [ref=e5756]:
+                          - generic [ref=e5759]:
+                            - button "Add to Favorites list, Mt. Olive Mild Banana Pepper Rings Fresh Pack - 12 oz (Packaging May Vary)" [ref=e5760]:
+                              - generic [ref=e5761]: 
+                            - img "Mt. Olive Mild Banana Pepper Rings Fresh Pack - 12 oz (Packaging May Vary)"
+                          - button "Add to cart - Mt. Olive Mild Banana Pepper Rings Fresh Pack - 12 oz (Packaging May Vary)" [ref=e5765] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5766]: 
+                            - generic [ref=e5767]: Add
+                          - generic [ref=e5768]:
+                            - generic [ref=e5770]:
+                              - generic [ref=e5771]: $796
+                              - generic [ref=e5772]: current price $7.96
+                              - generic [ref=e5773]: +$3.98 shipping
+                            - heading "Mt. Olive Mild Banana Pepper Rings Fresh Pack - 12 oz (Packaging May Vary)" [level=3] [ref=e5775]
+                            - generic [ref=e5780]: Shipping arrives in 3+ days
+                      - group [ref=e5784]:
+                        - link "Back to the Roots Organic Pepper Hot 'Poblano', 1 Seed packet $2.97" [ref=e5785] [cursor=pointer]:
+                          - /url: /ip/Back-to-the-Roots-Organic-Pepper-Hot-Poblano-1-Seed-packet/600685877?classType=REGULAR&from=/search
+                          - heading "Back to the Roots Organic Pepper Hot 'Poblano', 1 Seed packet $2.97" [level=3] [ref=e5787]
+                        - generic [ref=e5788]:
+                          - generic [ref=e5791]:
+                            - button "Add to Favorites list, Back to the Roots Organic Pepper Hot 'Poblano', 1 Seed packet" [ref=e5792]:
+                              - generic [ref=e5793]: 
+                            - img "Back to the Roots Organic Pepper Hot 'Poblano', 1 Seed packet"
+                          - button "Add to cart - Back to the Roots Organic Pepper Hot 'Poblano', 1 Seed packet" [ref=e5797] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5798]: 
+                            - generic [ref=e5799]: Add
+                          - generic [ref=e5800]:
+                            - generic [ref=e5802]:
+                              - generic [ref=e5803]: $297
+                              - generic [ref=e5804]: current price $2.97
+                            - heading "Back to the Roots Organic Pepper Hot 'Poblano', 1 Seed packet" [level=3] [ref=e5806]
+                            - generic [ref=e5807]:
+                              - generic [ref=e5808]:
+                                - img [ref=e5809]
+                                - img [ref=e5811]
+                                - img [ref=e5813]
+                                - img [ref=e5815]
+                                - img [ref=e5817]
+                              - generic [ref=e5820]: "149"
+                              - generic [ref=e5821]: 4.6 out of 5 Stars. 149 reviews
+                            - generic [ref=e5823]:
+                              - generic [ref=e5824]:
+                                - generic [ref=e5826]: Delivery as soon as 24 mins
+                                - generic [ref=e5827]:
+                                  - img "WalmartPlus icon" [ref=e5828]
+                                  - generic [ref=e5829]: Free shipping, arrives tomorrow
+                                - generic [ref=e5831]: Pickup as soon as 6pm
+                              - generic [ref=e5833]:
+                                - generic [ref=e5835]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e5839]:
+                        - link "1lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices $13.97" [ref=e5840] [cursor=pointer]:
+                          - /url: /ip/1lb-California-Dried-Whole-Chilies-Peppers-Anaheim-Chile-Seco-Pods-by-1400s-Spices/964519968?classType=REGULAR&from=/search
+                          - heading "1lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices $13.97" [level=3] [ref=e5842]
+                        - generic [ref=e5843]:
+                          - generic [ref=e5846]:
+                            - button "Add to Favorites list, 1lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices" [ref=e5847]:
+                              - generic [ref=e5848]: 
+                            - img "1lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices"
+                          - button "Add to cart - 1lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices" [ref=e5852] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5853]: 
+                            - generic [ref=e5854]: Add
+                          - generic [ref=e5855]:
+                            - generic [ref=e5857]:
+                              - generic [ref=e5858]: $1397
+                              - generic [ref=e5859]: current price $13.97
+                            - heading "1lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices" [level=3] [ref=e5861]
+                            - generic [ref=e5862]:
+                              - generic [ref=e5863]:
+                                - img [ref=e5864]
+                                - img [ref=e5866]
+                                - img [ref=e5868]
+                                - img [ref=e5870]
+                                - img [ref=e5872]
+                              - generic [ref=e5874]: "3"
+                              - generic [ref=e5875]: 5 out of 5 Stars. 3 reviews
+                            - generic [ref=e5879]:
+                              - img "WalmartPlus icon" [ref=e5880]
+                              - generic [ref=e5881]: Free shipping, arrives Thu, Feb 19
+                      - group [ref=e5885]:
+                        - link "Poblano Mild Hot Pepper Seeds $2.89" [ref=e5886] [cursor=pointer]:
+                          - /url: /ip/PAPAW-S-GARDEN-SUPPLY-LLC-HELPING-THE-NEXT-GENERATION-GROW-Poblano-Mild-Hot-Pepper-25-Seeds/845071622?classType=REGULAR&from=/search
+                          - heading "Poblano Mild Hot Pepper Seeds $2.89" [level=3] [ref=e5888]
+                        - generic [ref=e5889]:
+                          - generic [ref=e5892]:
+                            - button "Add to Favorites list, Poblano Mild Hot Pepper Seeds" [ref=e5893]:
+                              - generic [ref=e5894]: 
+                            - img "Poblano Mild Hot Pepper Seeds"
+                          - button "Add to cart - Poblano Mild Hot Pepper Seeds" [ref=e5898] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5899]: 
+                            - generic [ref=e5900]: Add
+                          - generic [ref=e5901]:
+                            - generic [ref=e5903]:
+                              - generic [ref=e5904]: $289
+                              - generic [ref=e5905]: current price $2.89
+                              - generic [ref=e5906]: +$5.79 shipping
+                            - heading "Poblano Mild Hot Pepper Seeds" [level=3] [ref=e5908]
+                            - generic [ref=e5909]:
+                              - generic [ref=e5910]:
+                                - img [ref=e5911]
+                                - img [ref=e5913]
+                                - img [ref=e5915]
+                                - img [ref=e5917]
+                                - img [ref=e5919]
+                              - generic [ref=e5921]: "2"
+                              - generic [ref=e5922]: 4 out of 5 Stars. 2 reviews
+                            - generic [ref=e5927]: Shipping arrives in 3+ days
+                      - group [ref=e5931]:
+                        - link "Dried Whole Anaheim Pepper 2 oz- Country Creek LLC - mild chile $5.99" [ref=e5932] [cursor=pointer]:
+                          - /url: /ip/Dried-Whole-Anaheim-Pepper-2-oz-Country-Creek-LLC-mild-chile/5111324035?classType=REGULAR&from=/search
+                          - heading "Dried Whole Anaheim Pepper 2 oz- Country Creek LLC - mild chile $5.99" [level=3] [ref=e5934]
+                        - generic [ref=e5935]:
+                          - generic [ref=e5938]:
+                            - button "Add to Favorites list, Dried Whole Anaheim Pepper 2 oz- Country Creek LLC - mild chile" [ref=e5939]:
+                              - generic [ref=e5940]: 
+                            - img "Dried Whole Anaheim Pepper 2 oz- Country Creek LLC - mild chile"
+                          - button "Add to cart - Dried Whole Anaheim Pepper 2 oz- Country Creek LLC - mild chile" [ref=e5944] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5945]: 
+                            - generic [ref=e5946]: Add
+                          - generic [ref=e5947]:
+                            - generic [ref=e5949]:
+                              - generic [ref=e5950]: $599
+                              - generic [ref=e5951]: current price $5.99
+                            - heading "Dried Whole Anaheim Pepper 2 oz- Country Creek LLC - mild chile" [level=3] [ref=e5953]
+                            - generic [ref=e5958]: Free shipping, arrives in 3+ days
+                      - group [ref=e5962]:
+                        - link "Mezzetta Mild Ring Peppers, 16 fl oz (Pack of 2) $22.48" [ref=e5963] [cursor=pointer]:
+                          - /url: /ip/Mezzetta-Mild-Ring-Peppers-16-fl-oz-Pack-of-2/17092916090?classType=VARIANT&from=/search
+                          - heading "Mezzetta Mild Ring Peppers, 16 fl oz (Pack of 2) $22.48" [level=3] [ref=e5965]
+                        - generic [ref=e5966]:
+                          - generic [ref=e5969]:
+                            - button "Add to Favorites list, Mezzetta Mild Ring Peppers, 16 fl oz (Pack of 2)" [ref=e5970]:
+                              - generic [ref=e5971]: 
+                            - img "Mezzetta Mild Ring Peppers, 16 fl oz (Pack of 2)"
+                          - button "Add to cart - Mezzetta Mild Ring Peppers, 16 fl oz (Pack of 2)" [ref=e5975] [cursor=pointer]:
+                            - generic "add to cart" [ref=e5976]: 
+                            - generic [ref=e5977]: Add
+                          - generic [ref=e5978]:
+                            - generic [ref=e5980]:
+                              - generic [ref=e5981]: $2248
+                              - generic [ref=e5982]: current price $22.48
+                            - heading "Mezzetta Mild Ring Peppers, 16 fl oz (Pack of 2)" [level=3] [ref=e5984]
+                            - generic [ref=e5989]: Free shipping, arrives in 3+ days
+                      - group [ref=e5993]:
+                        - link "Pepper, Poblano Pepper seeds, NON GMO, 500 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico $11.99" [ref=e5994] [cursor=pointer]:
+                          - /url: /ip/Pepper-Poblano-Pepper-seeds-NON-GMO-500-seeds-per-pack-mild-chili-pepper-originating-in-the-state-of-Puebla-Mexico/7983013132?classType=REGULAR&from=/search
+                          - heading "Pepper, Poblano Pepper seeds, NON GMO, 500 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico $11.99" [level=3] [ref=e5996]
+                        - generic [ref=e5997]:
+                          - generic [ref=e6000]:
+                            - button "Add to Favorites list, Pepper, Poblano Pepper seeds, NON GMO, 500 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico" [ref=e6001]:
+                              - generic [ref=e6002]: 
+                            - img "Pepper, Poblano Pepper seeds, NON GMO, 500 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico"
+                          - button "Add to cart - Pepper, Poblano Pepper seeds, NON GMO, 500 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico" [ref=e6006] [cursor=pointer]:
+                            - generic "add to cart" [ref=e6007]: 
+                            - generic [ref=e6008]: Add
+                          - generic [ref=e6009]:
+                            - generic [ref=e6011]:
+                              - generic [ref=e6012]: $1199
+                              - generic [ref=e6013]: current price $11.99
+                            - heading "Pepper, Poblano Pepper seeds, NON GMO, 500 seeds per pack, mild chili pepper originating in the state of Puebla, Mexico" [level=3] [ref=e6015]
+                            - generic [ref=e6020]: Free shipping, arrives in 3+ days
+                      - group [ref=e6024]:
+                        - link "2lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices $24.97" [ref=e6025] [cursor=pointer]:
+                          - /url: /ip/1400s-Spices-California-Dried-Whole-Chilies-Peppers-2lb/794670165?classType=REGULAR&from=/search
+                          - heading "2lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices $24.97" [level=3] [ref=e6027]
+                        - generic [ref=e6028]:
+                          - generic [ref=e6031]:
+                            - button "Add to Favorites list, 2lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices" [ref=e6032]:
+                              - generic [ref=e6033]: 
+                            - img "2lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices"
+                          - button "Add to cart - 2lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices" [ref=e6037] [cursor=pointer]:
+                            - generic "add to cart" [ref=e6038]: 
+                            - generic [ref=e6039]: Add
+                          - generic [ref=e6040]:
+                            - generic [ref=e6042]:
+                              - generic [ref=e6043]: $2497
+                              - generic [ref=e6044]: current price $24.97
+                            - heading "2lb California Dried Whole Chilies Peppers, Anaheim Chile Seco Pods by 1400s Spices" [level=3] [ref=e6046]
+                            - generic [ref=e6050]:
+                              - img "WalmartPlus icon" [ref=e6051]
+                              - generic [ref=e6052]: Free shipping, arrives Thu, Feb 19
+                      - group [ref=e6056]:
+                        - link "Ancho Poblano Pepper Seeds $4.95" [ref=e6057] [cursor=pointer]:
+                          - /url: /ip/Ancho-Poblano-Pepper-Seeds/248836241?classType=REGULAR&from=/search
+                          - heading "Ancho Poblano Pepper Seeds $4.95" [level=3] [ref=e6059]
+                        - generic [ref=e6060]:
+                          - generic [ref=e6063]:
+                            - button "Add to Favorites list, Ancho Poblano Pepper Seeds" [ref=e6064]:
+                              - generic [ref=e6065]: 
+                            - img "Ancho Poblano Pepper Seeds"
+                          - button "Add to cart - Ancho Poblano Pepper Seeds" [ref=e6069] [cursor=pointer]:
+                            - generic "add to cart" [ref=e6070]: 
+                            - generic [ref=e6071]: Add
+                          - generic [ref=e6072]:
+                            - generic [ref=e6074]:
+                              - generic [ref=e6075]: $495
+                              - generic [ref=e6076]: current price $4.95
+                            - heading "Ancho Poblano Pepper Seeds" [level=3] [ref=e6078]
+                            - generic [ref=e6083]: Free shipping, arrives in 3+ days
+                      - group [ref=e6087]:
+                        - link "Dried Whole Anaheim Pepper 1 oz- Country Creek LLC - mild chile $6.99" [ref=e6088] [cursor=pointer]:
+                          - /url: /ip/Dried-Whole-Anaheim-Pepper-1-oz-Country-Creek-LLC-mild-chile/5082730488?classType=REGULAR&from=/search
+                          - heading "Dried Whole Anaheim Pepper 1 oz- Country Creek LLC - mild chile $6.99" [level=3] [ref=e6090]
+                        - generic [ref=e6091]:
+                          - generic [ref=e6094]:
+                            - button "Add to Favorites list, Dried Whole Anaheim Pepper 1 oz- Country Creek LLC - mild chile" [ref=e6095]:
+                              - generic [ref=e6096]: 
+                            - img "Dried Whole Anaheim Pepper 1 oz- Country Creek LLC - mild chile"
+                          - button "Add to cart - Dried Whole Anaheim Pepper 1 oz- Country Creek LLC - mild chile" [ref=e6100] [cursor=pointer]:
+                            - generic "add to cart" [ref=e6101]: 
+                            - generic [ref=e6102]: Add
+                          - generic [ref=e6103]:
+                            - generic [ref=e6105]:
+                              - generic [ref=e6106]: $699
+                              - generic [ref=e6107]: current price $6.99
+                            - heading "Dried Whole Anaheim Pepper 1 oz- Country Creek LLC - mild chile" [level=3] [ref=e6109]
+                            - generic [ref=e6114]: Free shipping, arrives in 3+ days
+                      - group [ref=e6118]:
+                        - link "Casa Diva Jalapeno Peppers (4 Pack) 1 Gallon $106.99" [ref=e6119] [cursor=pointer]:
+                          - /url: /ip/Casa-Diva-Jalapeno-Peppers-4-Pack-1-Gallon/14333052625?classType=REGULAR&from=/search
+                          - heading "Casa Diva Jalapeno Peppers (4 Pack) 1 Gallon $106.99" [level=3] [ref=e6121]
+                        - generic [ref=e6122]:
+                          - generic [ref=e6125]:
+                            - button "Add to Favorites list, Casa Diva Jalapeno Peppers (4 Pack) 1 Gallon" [ref=e6126]:
+                              - generic [ref=e6127]: 
+                            - img "Casa Diva Jalapeno Peppers (4 Pack) 1 Gallon"
+                          - button "Add to cart - Casa Diva Jalapeno Peppers (4 Pack) 1 Gallon" [ref=e6131] [cursor=pointer]:
+                            - generic "add to cart" [ref=e6132]: 
+                            - generic [ref=e6133]: Add
+                          - generic [ref=e6134]:
+                            - generic [ref=e6136]:
+                              - generic [ref=e6137]: $10699
+                              - generic [ref=e6138]: current price $106.99
+                            - heading "Casa Diva Jalapeno Peppers (4 Pack) 1 Gallon" [level=3] [ref=e6140]
+                            - generic [ref=e6145]: Free shipping, arrives in 3+ days
+                      - group [ref=e6149]:
+                        - link "Sherwood's Seeds Poblano Ancho Chile Pepper Seeds, Heirloom Premium $3.99" [ref=e6150] [cursor=pointer]:
+                          - /url: /ip/Sherwood-s-Seeds-Poblano-Ancho-Chile-Pepper-Seeds-Heirloom-Premium/410144258?classType=REGULAR&from=/search
+                          - heading "Sherwood's Seeds Poblano Ancho Chile Pepper Seeds, Heirloom Premium $3.99" [level=3] [ref=e6152]
+                        - generic [ref=e6153]:
+                          - generic [ref=e6156]:
+                            - button "Add to Favorites list, Sherwood's Seeds Poblano Ancho Chile Pepper Seeds, Heirloom Premium" [ref=e6157]:
+                              - generic [ref=e6158]: 
+                            - img "Sherwood's Seeds Poblano Ancho Chile Pepper Seeds, Heirloom Premium"
+                          - button "Add to cart - Sherwood's Seeds Poblano Ancho Chile Pepper Seeds, Heirloom Premium" [ref=e6162] [cursor=pointer]:
+                            - generic "add to cart" [ref=e6163]: 
+                            - generic [ref=e6164]: Add
+                          - generic [ref=e6165]:
+                            - generic [ref=e6167]:
+                              - generic [ref=e6168]: $399
+                              - generic [ref=e6169]: current price $3.99
+                              - generic [ref=e6170]: +$5.35 shipping
+                            - heading "Sherwood's Seeds Poblano Ancho Chile Pepper Seeds, Heirloom Premium" [level=3] [ref=e6172]
+                            - generic [ref=e6173]:
+                              - generic [ref=e6174]:
+                                - img [ref=e6175]
+                                - img [ref=e6177]
+                                - img [ref=e6179]
+                                - img [ref=e6181]
+                                - img [ref=e6183]
+                              - generic [ref=e6185]: "6"
+                              - generic [ref=e6186]: 3 out of 5 Stars. 6 reviews
+                            - generic [ref=e6191]: Shipping arrives in 3+ days
+                  - generic [ref=e6193]:
+                    - separator [ref=e6194]
+                    - generic [ref=e6197]:
+                      - heading "Inspired by your shopping (10)" [level=2] [ref=e6204]: Inspired by your shopping(10)
+                      - generic [ref=e6205]:
+                        - text: 
+                        - list [ref=e6206]:
+                          - listitem [ref=e6207]:
+                            - group [ref=e6208]:
+                              - link "Bought 2 times Fresh Red Bell Pepper, 1 Each $1.48" [ref=e6209] [cursor=pointer]:
+                                - /url: /ip/Fresh-Red-Bell-Pepper-1-Each/44391581?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 2 times Fresh Red Bell Pepper, 1 Each $1.48" [level=3] [ref=e6211]
+                              - generic [ref=e6212]:
+                                - generic [ref=e6213]:
+                                  - group [ref=e6216]:
+                                    - generic [ref=e6217]: Bought 2 times
+                                  - generic [ref=e6218]:
+                                    - button "Add to Favorites list, Fresh Red Bell Pepper, 1 Each" [ref=e6219]:
+                                      - generic [ref=e6220]: 
+                                    - img "Fresh Red Bell Pepper, 1 Each"
+                                - button "Add to cart - Fresh Red Bell Pepper, 1 Each" [ref=e6224] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e6225]: 
+                                  - generic [ref=e6226]: Add
+                                - generic [ref=e6227]:
+                                  - generic [ref=e6229]:
+                                    - generic [ref=e6230]: $148
+                                    - generic [ref=e6231]: current price $1.48
+                                    - generic [ref=e6232]: $1.41 when subscribed
+                                  - generic [ref=e6234]: Fresh Red Bell Pepper, 1 Each
+                                  - generic [ref=e6235]:
+                                    - generic [ref=e6236]:
+                                      - img [ref=e6237]
+                                      - img [ref=e6239]
+                                      - img [ref=e6241]
+                                      - img [ref=e6243]
+                                      - img [ref=e6245]
+                                    - generic [ref=e6248]: "11645"
+                                    - generic [ref=e6249]: 4.3 out of 5 Stars. 11645 reviews
+                                  - generic [ref=e6251]:
+                                    - generic [ref=e6252]:
+                                      - generic [ref=e6254]: Delivery as soon as 24 mins
+                                      - generic [ref=e6256]: Pickup as soon as 7pm
+                                    - generic [ref=e6258]:
+                                      - generic [ref=e6260]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e6261]:
+                            - group [ref=e6262]:
+                              - link "Bought 5+ times Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound $0.41 $1.62/lb" [ref=e6263] [cursor=pointer]:
+                                - /url: /ip/Fresh-Jalapeno-Pepper-Approx-3-5-per-0-25-Pound/44391018?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 5+ times Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound $0.41 $1.62/lb" [level=3] [ref=e6265]
+                              - generic [ref=e6266]:
+                                - generic [ref=e6267]:
+                                  - group [ref=e6270]:
+                                    - generic [ref=e6271]: Bought 5+ times
+                                  - generic [ref=e6272]:
+                                    - button "Add to Favorites list, Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound" [ref=e6273]:
+                                      - generic [ref=e6274]: 
+                                    - img "Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound" [ref=e6275]
+                                - button "Add to cart - Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound" [ref=e6279] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e6280]: 
+                                  - generic [ref=e6281]: Add
+                                - generic [ref=e6282]:
+                                  - generic [ref=e6284]:
+                                    - generic [ref=e6285]: $041
+                                    - generic [ref=e6286]: current price $0.41
+                                    - generic [ref=e6288]: / 0.25lb
+                                    - generic [ref=e6289]: $1.62/lb
+                                    - generic [ref=e6290]: Final cost by weight
+                                    - generic [ref=e6291]: $0.39 when subscribed
+                                  - generic [ref=e6293]: Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound
+                                  - generic [ref=e6294]:
+                                    - generic [ref=e6295]:
+                                      - img [ref=e6296]
+                                      - img [ref=e6298]
+                                      - img [ref=e6300]
+                                      - img [ref=e6302]
+                                      - img [ref=e6305]
+                                    - generic [ref=e6307]: "12101"
+                                    - generic [ref=e6308]: 3.7 out of 5 Stars. 12101 reviews
+                                  - generic [ref=e6310]:
+                                    - generic [ref=e6311]:
+                                      - generic [ref=e6313]: Delivery as soon as 24 mins
+                                      - generic [ref=e6315]: Pickup as soon as 7pm
+                                    - generic [ref=e6317]:
+                                      - generic [ref=e6319]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e6320]:
+                            - group [ref=e6321]:
+                              - link "Bought 1 time Great Value Chili Powder, 3 oz $1.08 36.0 ¢/oz" [ref=e6322] [cursor=pointer]:
+                                - /url: /ip/Great-Value-Chili-Powder-3-oz/157643393?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 1 time Great Value Chili Powder, 3 oz $1.08 36.0 ¢/oz" [level=3] [ref=e6324]
+                              - generic [ref=e6325]:
+                                - generic [ref=e6326]:
+                                  - group [ref=e6329]:
+                                    - generic [ref=e6330]: Bought 1 time
+                                  - generic [ref=e6331]:
+                                    - button "Add to Favorites list, Great Value Chili Powder, 3 oz" [ref=e6332]:
+                                      - generic [ref=e6333]: 
+                                    - img "Great Value Chili Powder, 3 oz"
+                                - button "Add to cart - Great Value Chili Powder, 3 oz" [ref=e6337] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e6338]: 
+                                  - generic [ref=e6339]: Add
+                                - generic [ref=e6340]:
+                                  - generic [ref=e6342]:
+                                    - generic [ref=e6343]: $108
+                                    - generic [ref=e6344]: current price $1.08
+                                    - generic [ref=e6345]: 36.0 ¢/oz
+                                    - generic [ref=e6346]: $1.03 when subscribed
+                                  - generic [ref=e6348]: Great Value Chili Powder, 3 oz
+                                  - generic [ref=e6349]:
+                                    - generic [ref=e6350]:
+                                      - img [ref=e6351]
+                                      - img [ref=e6353]
+                                      - img [ref=e6355]
+                                      - img [ref=e6357]
+                                      - img [ref=e6359]
+                                    - generic [ref=e6362]: "2696"
+                                    - generic [ref=e6363]: 4.7 out of 5 Stars. 2696 reviews
+                                  - generic [ref=e6365]:
+                                    - generic [ref=e6366]:
+                                      - generic [ref=e6368]: Delivery as soon as 24 mins
+                                      - generic [ref=e6370]: Pickup as soon as 6pm
+                                    - generic [ref=e6372]:
+                                      - generic [ref=e6374]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e6375]:
+                            - group [ref=e6376]:
+                              - link "Bought 1 time Great Value Crushed Red Pepper, 1.75 oz $1.44 82.3 ¢/oz" [ref=e6377] [cursor=pointer]:
+                                - /url: /ip/Great-Value-Crushed-Red-Pepper-1-75-oz/217612954?classType=VARIANT&athbdg=L1100
+                                - heading "Bought 1 time Great Value Crushed Red Pepper, 1.75 oz $1.44 82.3 ¢/oz" [level=3] [ref=e6379]
+                              - generic [ref=e6380]:
+                                - generic [ref=e6381]:
+                                  - group [ref=e6384]:
+                                    - generic [ref=e6385]: Bought 1 time
+                                  - generic [ref=e6386]:
+                                    - button "Add to Favorites list, Great Value Crushed Red Pepper, 1.75 oz" [ref=e6387]:
+                                      - generic [ref=e6388]: 
+                                    - img "Great Value Crushed Red Pepper, 1.75 oz"
+                                - button "Add to cart - Great Value Crushed Red Pepper, 1.75 oz" [ref=e6392] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e6393]: 
+                                  - generic [ref=e6394]: Add
+                                - generic [ref=e6395]:
+                                  - generic [ref=e6397]:
+                                    - generic [ref=e6398]: $144
+                                    - generic [ref=e6399]: current price $1.44
+                                    - generic [ref=e6400]: 82.3 ¢/oz
+                                    - generic [ref=e6401]: $1.37 when subscribed
+                                  - generic [ref=e6403]: Great Value Crushed Red Pepper, 1.75 oz
+                                  - generic [ref=e6404]:
+                                    - generic [ref=e6405]:
+                                      - img [ref=e6406]
+                                      - img [ref=e6408]
+                                      - img [ref=e6410]
+                                      - img [ref=e6412]
+                                      - img [ref=e6414]
+                                    - generic [ref=e6417]: "1655"
+                                    - generic [ref=e6418]: 4.7 out of 5 Stars. 1655 reviews
+                                  - generic [ref=e6420]:
+                                    - generic [ref=e6421]:
+                                      - generic [ref=e6423]: Delivery as soon as 24 mins
+                                      - generic [ref=e6425]: Pickup as soon as 6pm
+                                    - generic [ref=e6427]:
+                                      - generic [ref=e6429]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e6430]:
+                            - group [ref=e6431]:
+                              - link "Great Value Cayenne Pepper, 2.25 oz $3.77 $1.68/oz" [ref=e6432] [cursor=pointer]:
+                                - /url: /ip/Great-Value-Cayenne-Pepper-2-25-oz/444055049?classType=VARIANT
+                                - heading "Great Value Cayenne Pepper, 2.25 oz $3.77 $1.68/oz" [level=3] [ref=e6434]
+                              - generic [ref=e6435]:
+                                - generic [ref=e6438]:
+                                  - button "Add to Favorites list, Great Value Cayenne Pepper, 2.25 oz" [ref=e6439]:
+                                    - generic [ref=e6440]: 
+                                  - img "Great Value Cayenne Pepper, 2.25 oz"
+                                - button "Add to cart - Great Value Cayenne Pepper, 2.25 oz" [ref=e6444] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e6445]: 
+                                  - generic [ref=e6446]: Add
+                                - generic [ref=e6447]:
+                                  - generic [ref=e6449]:
+                                    - generic [ref=e6450]: $377
+                                    - generic [ref=e6451]: current price $3.77
+                                    - generic [ref=e6452]: $1.68/oz
+                                    - generic [ref=e6453]: $3.58 when subscribed
+                                  - generic [ref=e6455]: Great Value Cayenne Pepper, 2.25 oz
+                                  - generic [ref=e6456]:
+                                    - generic [ref=e6457]:
+                                      - img [ref=e6458]
+                                      - img [ref=e6460]
+                                      - img [ref=e6462]
+                                      - img [ref=e6464]
+                                      - img [ref=e6466]
+                                    - generic [ref=e6469]: "1211"
+                                    - generic [ref=e6470]: 4.7 out of 5 Stars. 1211 reviews
+                                  - generic [ref=e6472]:
+                                    - generic [ref=e6473]:
+                                      - generic [ref=e6475]: Delivery as soon as 24 mins
+                                      - generic [ref=e6477]: Pickup as soon as 6pm
+                                    - generic [ref=e6479]:
+                                      - generic [ref=e6481]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e6482]:
+                            - group [ref=e6483]:
+                              - link "Bought 1 time Fresh Produce, Whole Bok Choy, 1 Each $3.57" [ref=e6484] [cursor=pointer]:
+                                - /url: /ip/Fresh-Harvested-Whole-Bok-Choy-Each/44391289?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 1 time Fresh Produce, Whole Bok Choy, 1 Each $3.57" [level=3] [ref=e6486]
+                              - generic [ref=e6487]:
+                                - generic [ref=e6488]:
+                                  - group [ref=e6491]:
+                                    - generic [ref=e6492]: Bought 1 time
+                                  - generic [ref=e6493]:
+                                    - button "Add to Favorites list, Fresh Produce, Whole Bok Choy, 1 Each" [ref=e6494]:
+                                      - generic [ref=e6495]: 
+                                    - img "Fresh Produce, Whole Bok Choy, 1 Each"
+                                - button "Add to cart - Fresh Produce, Whole Bok Choy, 1 Each" [ref=e6499] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e6500]: 
+                                  - generic [ref=e6501]: Add
+                                - generic [ref=e6502]:
+                                  - generic [ref=e6504]:
+                                    - generic [ref=e6505]: $357
+                                    - generic [ref=e6506]: current price $3.57
+                                    - generic [ref=e6507]: $3.39 when subscribed
+                                  - generic [ref=e6509]: Fresh Produce, Whole Bok Choy, 1 Each
+                                  - generic [ref=e6510]:
+                                    - generic [ref=e6511]:
+                                      - img [ref=e6512]
+                                      - img [ref=e6514]
+                                      - img [ref=e6516]
+                                      - img [ref=e6518]
+                                      - img [ref=e6521]
+                                    - generic [ref=e6523]: "1181"
+                                    - generic [ref=e6524]: 3.5 out of 5 Stars. 1181 reviews
+                                  - generic [ref=e6526]:
+                                    - generic [ref=e6527]:
+                                      - generic [ref=e6529]: Delivery as soon as 24 mins
+                                      - generic [ref=e6531]: Pickup as soon as 7pm
+                                    - generic [ref=e6533]:
+                                      - generic [ref=e6535]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e6536]:
+                            - group [ref=e6537]:
+                              - link "Bought 1 time Mrs. Renfro's Ghost Pepper Salsa, Authentic Texas-Style, 16 oz Jar $3.84 24.0 ¢/oz" [ref=e6538] [cursor=pointer]:
+                                - /url: /ip/Mrs-Renfro-s-Ghost-Pepper-Salsa-16-oz/743949632?classType=VARIANT&athbdg=L1100
+                                - heading "Bought 1 time Mrs. Renfro's Ghost Pepper Salsa, Authentic Texas-Style, 16 oz Jar $3.84 24.0 ¢/oz" [level=3] [ref=e6540]
+                              - generic [ref=e6541]:
+                                - generic [ref=e6542]:
+                                  - group [ref=e6545]:
+                                    - generic [ref=e6546]: Bought 1 time
+                                  - generic [ref=e6547]:
+                                    - button "Add to Favorites list, Mrs. Renfro's Ghost Pepper Salsa, Authentic Texas-Style, 16 oz Jar" [ref=e6548]:
+                                      - generic [ref=e6549]: 
+                                    - img "Mrs. Renfro's Ghost Pepper Salsa, Authentic Texas-Style, 16 oz Jar"
+                                - button "Add to cart - Mrs. Renfro's Ghost Pepper Salsa, Authentic Texas-Style, 16 oz Jar" [ref=e6553] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e6554]: 
+                                  - generic [ref=e6555]: Add
+                                - generic [ref=e6556]:
+                                  - generic [ref=e6558]:
+                                    - generic [ref=e6559]: $384
+                                    - generic [ref=e6560]: current price $3.84
+                                    - generic [ref=e6561]: 24.0 ¢/oz
+                                    - generic [ref=e6562]: $3.65 when subscribed
+                                  - generic [ref=e6564]: Mrs. Renfro's Ghost Pepper Salsa, Authentic Texas-Style, 16 oz Jar
+                                  - generic [ref=e6565]:
+                                    - generic [ref=e6566]:
+                                      - img [ref=e6567]
+                                      - img [ref=e6569]
+                                      - img [ref=e6571]
+                                      - img [ref=e6573]
+                                      - img [ref=e6575]
+                                    - generic [ref=e6578]: "95"
+                                    - generic [ref=e6579]: 4.6 out of 5 Stars. 95 reviews
+                                  - generic [ref=e6581]:
+                                    - generic [ref=e6582]:
+                                      - generic [ref=e6584]: Delivery as soon as 24 mins
+                                      - generic [ref=e6586]: Pickup as soon as 6pm
+                                    - generic [ref=e6588]:
+                                      - generic [ref=e6590]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e6591]:
+                            - group [ref=e6592]:
+                              - link "Bought 1 time Great Value Organic Ground Coriander, 1.5 oz $4.36 $2.91/oz" [ref=e6593] [cursor=pointer]:
+                                - /url: /ip/Great-Value-Organic-Ground-Coriander-1-5-oz-Bottle/50597552?classType=VARIANT&athbdg=L1100
+                                - heading "Bought 1 time Great Value Organic Ground Coriander, 1.5 oz $4.36 $2.91/oz" [level=3] [ref=e6595]
+                              - generic [ref=e6596]:
+                                - generic [ref=e6597]:
+                                  - group [ref=e6600]:
+                                    - generic [ref=e6601]: Bought 1 time
+                                  - generic [ref=e6602]:
+                                    - button "Add to Favorites list, Great Value Organic Ground Coriander, 1.5 oz" [ref=e6603]:
+                                      - generic [ref=e6604]: 
+                                    - img "Great Value Organic Ground Coriander, 1.5 oz"
+                                - button "Add to cart - Great Value Organic Ground Coriander, 1.5 oz" [ref=e6608] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e6609]: 
+                                  - generic [ref=e6610]: Add
+                                - generic [ref=e6611]:
+                                  - generic [ref=e6613]:
+                                    - generic [ref=e6614]: $436
+                                    - generic [ref=e6615]: current price $4.36
+                                    - generic [ref=e6616]: $2.91/oz
+                                    - generic [ref=e6617]: $4.14 when subscribed
+                                  - generic [ref=e6619]: Great Value Organic Ground Coriander, 1.5 oz
+                                  - generic [ref=e6620]:
+                                    - generic [ref=e6621]:
+                                      - img [ref=e6622]
+                                      - img [ref=e6624]
+                                      - img [ref=e6626]
+                                      - img [ref=e6628]
+                                      - img [ref=e6630]
+                                    - generic [ref=e6633]: "431"
+                                    - generic [ref=e6634]: 4.6 out of 5 Stars. 431 reviews
+                                  - generic [ref=e6636]:
+                                    - generic [ref=e6637]:
+                                      - generic [ref=e6639]: Delivery as soon as 24 mins
+                                      - generic [ref=e6641]: Pickup as soon as 6pm
+                                    - generic [ref=e6643]:
+                                      - generic [ref=e6645]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e6646]:
+                            - group [ref=e6647]:
+                              - link "Bought 4 times Garlic Bulb Fresh Whole, Each $0.64" [ref=e6648] [cursor=pointer]:
+                                - /url: /ip/Garlic-Bulb-Fresh-Whole-Each/44391100?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 4 times Garlic Bulb Fresh Whole, Each $0.64" [level=3] [ref=e6650]
+                              - generic [ref=e6651]:
+                                - generic [ref=e6652]:
+                                  - group [ref=e6655]:
+                                    - generic [ref=e6656]: Bought 4 times
+                                  - generic [ref=e6657]:
+                                    - button "Add to Favorites list, Garlic Bulb Fresh Whole, Each" [ref=e6658]:
+                                      - generic [ref=e6659]: 
+                                    - img "Garlic Bulb Fresh Whole, Each"
+                                - button "Add to cart - Garlic Bulb Fresh Whole, Each" [ref=e6663] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e6664]: 
+                                  - generic [ref=e6665]: Add
+                                - generic [ref=e6666]:
+                                  - generic [ref=e6668]:
+                                    - generic [ref=e6669]: $064
+                                    - generic [ref=e6670]: current price $0.64
+                                    - generic [ref=e6671]: $0.61 when subscribed
+                                  - generic [ref=e6673]: Garlic Bulb Fresh Whole, Each
+                                  - generic [ref=e6674]:
+                                    - generic [ref=e6675]:
+                                      - img [ref=e6676]
+                                      - img [ref=e6678]
+                                      - img [ref=e6680]
+                                      - img [ref=e6682]
+                                      - img [ref=e6684]
+                                    - generic [ref=e6686]: "10357"
+                                    - generic [ref=e6687]: 4.1 out of 5 Stars. 10357 reviews
+                                  - generic [ref=e6689]:
+                                    - generic [ref=e6690]:
+                                      - generic [ref=e6692]: Delivery as soon as 24 mins
+                                      - generic [ref=e6694]: Pickup as soon as 7pm
+                                    - generic [ref=e6696]:
+                                      - generic [ref=e6698]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e6699]:
+                            - group [ref=e6700]:
+                              - link "Bought 5 times Fresh Basil, 0.5 oz Clamshell $1.73 $3.46/oz" [ref=e6701] [cursor=pointer]:
+                                - /url: /ip/Fresh-Basil-0-5-oz-Clamshell/3757188318?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 5 times Fresh Basil, 0.5 oz Clamshell $1.73 $3.46/oz" [level=3] [ref=e6703]
+                              - generic [ref=e6704]:
+                                - generic [ref=e6705]:
+                                  - group [ref=e6708]:
+                                    - generic [ref=e6709]: Bought 5 times
+                                  - generic [ref=e6710]:
+                                    - button "Add to Favorites list, Fresh Basil, 0.5 oz Clamshell" [ref=e6711]:
+                                      - generic [ref=e6712]: 
+                                    - img "Fresh Basil, 0.5 oz Clamshell"
+                                - button "Add to cart - Fresh Basil, 0.5 oz Clamshell" [ref=e6716] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e6717]: 
+                                  - generic [ref=e6718]: Add
+                                - generic [ref=e6719]:
+                                  - generic [ref=e6721]:
+                                    - generic [ref=e6722]: $173
+                                    - generic [ref=e6723]: current price $1.73
+                                    - generic [ref=e6724]: $3.46/oz
+                                    - generic [ref=e6725]: $1.64 when subscribed
+                                  - generic [ref=e6727]: Fresh Basil, 0.5 oz Clamshell
+                                  - generic [ref=e6728]:
+                                    - generic [ref=e6729]:
+                                      - img [ref=e6730]
+                                      - img [ref=e6732]
+                                      - img [ref=e6734]
+                                      - img [ref=e6736]
+                                      - img [ref=e6738]
+                                    - generic [ref=e6740]: "1494"
+                                    - generic [ref=e6741]: 3 out of 5 Stars. 1494 reviews
+                                  - generic [ref=e6743]:
+                                    - generic [ref=e6744]:
+                                      - generic [ref=e6746]: Delivery as soon as 24 mins
+                                      - generic [ref=e6748]: Pickup as soon as 7pm
+                                    - generic [ref=e6750]:
+                                      - generic [ref=e6752]: 
+                                      - text: SNAP EBT eligible
+                        - button "Next slide for Inspired by your shopping list" [ref=e6753]:
+                          - generic [ref=e6754]: 
+                    - separator [ref=e6755]
+                - generic [ref=e6757]:
+                  - heading "Related searches" [level=2] [ref=e6758]
+                  - generic [ref=e6759]:
+                    - text: 
+                    - list [ref=e6760]:
+                      - listitem
+                      - listitem [ref=e6761]:
+                        - button "Related searches cilantro" [ref=e6762] [cursor=pointer]:
+                          - img "Related searches" [ref=e6764]
+                          - generic [ref=e6765]: cilantro
+                      - listitem [ref=e6766]:
+                        - button "Related searches cream cheese" [ref=e6767] [cursor=pointer]:
+                          - img "Related searches" [ref=e6769]
+                          - generic [ref=e6770]: cream cheese
+                      - listitem [ref=e6771]:
+                        - button "Related searches jalapeno peppers" [ref=e6772] [cursor=pointer]:
+                          - img "Related searches" [ref=e6774]
+                          - generic [ref=e6775]: jalapeno peppers
+                      - listitem [ref=e6776]:
+                        - button "Related searches onion" [ref=e6777] [cursor=pointer]:
+                          - img "Related searches" [ref=e6779]
+                          - generic [ref=e6780]: onion
+                      - listitem [ref=e6781]:
+                        - button "Related searches sour cream" [ref=e6782] [cursor=pointer]:
+                          - img "Related searches" [ref=e6784]
+                          - generic [ref=e6785]: sour cream
+                      - listitem [ref=e6786]:
+                        - button "Related searches tomatillos" [ref=e6787] [cursor=pointer]:
+                          - img "Related searches" [ref=e6789]
+                          - generic [ref=e6790]: tomatillos
+                      - listitem [ref=e6791]:
+                        - button "Related searches garlic" [ref=e6792] [cursor=pointer]:
+                          - img "Related searches" [ref=e6794]
+                          - generic [ref=e6795]: garlic
+                      - listitem [ref=e6796]:
+                        - button "Related searches serrano peppers" [ref=e6797] [cursor=pointer]:
+                          - img "Related searches" [ref=e6799]
+                          - generic [ref=e6800]: serrano peppers
+                      - listitem [ref=e6801]:
+                        - button "Related searches tomatoes" [ref=e6802] [cursor=pointer]:
+                          - img "Related searches" [ref=e6804]
+                          - generic [ref=e6805]: tomatoes
+                      - listitem [ref=e6806]:
+                        - button "Related searches bell pepper" [ref=e6807] [cursor=pointer]:
+                          - img "Related searches" [ref=e6809]
+                          - generic [ref=e6810]: bell pepper
+                    - button "Next slide for Related searches list" [ref=e6811]:
+                      - generic [ref=e6812]: 
+            - navigation "pagination" [ref=e6814]:
+              - list [ref=e6815]:
+                - listitem [ref=e6816]
+                - listitem [ref=e6818]:
+                  - button "1" [ref=e6819] [cursor=pointer]
+                - listitem [ref=e6820]:
+                  - button "Go to Page 2" [ref=e6821] [cursor=pointer]: "2"
+                - listitem [ref=e6822]:
+                  - button "Next Page" [ref=e6823] [cursor=pointer]:
+                    - generic [ref=e6824]: 
+      - contentinfo [ref=e6829]:
+        - region "Give feedback" [ref=e6833]:
+          - paragraph [ref=e6834]: We’d love to hear what you think!
+          - button "Give feedback" [ref=e6835] [cursor=pointer]
+        - generic [ref=e6836]:
+          - list [ref=e6837]:
+            - listitem [ref=e6838]:
+              - link "All Departments" [ref=e6839] [cursor=pointer]:
+                - /url: /all-departments
+            - listitem [ref=e6840]:
+              - link "Store Directory - opens in a new window" [ref=e6841] [cursor=pointer]:
+                - /url: /store/directory
+                - text: Store Directory
+            - listitem [ref=e6842]:
+              - link "Careers - opens in a new window" [ref=e6843] [cursor=pointer]:
+                - /url: https://careers.walmart.com/
+                - text: Careers
+            - listitem [ref=e6844]:
+              - link "Our Company - opens in a new window" [ref=e6845] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/
+                - text: Our Company
+            - listitem [ref=e6846]:
+              - link "Sell on Walmart.com - opens in a new window" [ref=e6847] [cursor=pointer]:
+                - /url: https://marketplace.walmart.com/?utm_source=Walmart.com&utm_medium=link&utm_campaign=footer
+                - text: Sell on Walmart.com
+            - listitem [ref=e6848]:
+              - link "Help" [ref=e6849] [cursor=pointer]:
+                - /url: /help
+            - listitem [ref=e6850]:
+              - link "Product Recalls - opens in a new window" [ref=e6851] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/recalls
+                - text: Product Recalls
+            - listitem [ref=e6852]:
+              - link "Accessibility - opens in a new window" [ref=e6853] [cursor=pointer]:
+                - /url: https://www.walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+                - text: Accessibility
+            - listitem [ref=e6854]:
+              - link "Tax Exempt Program" [ref=e6855] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/tax-exemption-program/8480422
+            - listitem [ref=e6856]:
+              - link "Get the Walmart App" [ref=e6857] [cursor=pointer]:
+                - /url: https://walmart.onelink.me/UIev?pid=walmart.com&af_web_dp=https%3A%2F%2Fwww.walmart.com%2Fcp%2Fwalmart-mobile-app%2F1087865&c=Walmart.com%20Site%20Footer&af_dp=walmart%3A%2F%2F
+            - listitem [ref=e6858]:
+              - link "Safety Data Sheet" [ref=e6859] [cursor=pointer]:
+                - /url: http://msds.walmartstores.com/
+            - listitem [ref=e6860]:
+              - link "Terms of Use" [ref=e6861] [cursor=pointer]:
+                - /url: /help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0
+            - listitem [ref=e6862]:
+              - link "Privacy Notice - opens in a new window" [ref=e6863] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/privacy-security
+                - text: Privacy Notice
+            - listitem [ref=e6864]:
+              - link "California Supply Chain Act - opens in a new window" [ref=e6865] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/california-transparency
+                - text: California Supply Chain Act
+            - listitem [ref=e6866]:
+              - link "Your Privacy Choices - opens in a new window" [ref=e6867] [cursor=pointer]:
+                - /url: https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=sod
+                - img [ref=e6868]
+                - text: Your Privacy Choices
+            - listitem [ref=e6869]:
+              - link "Customer Privacy Center - opens in a new window" [ref=e6870] [cursor=pointer]:
+                - /url: https://www.walmart.com/privacy-center
+                - text: Customer Privacy Center
+            - listitem [ref=e6871]:
+              - link "Notice at Collection - opens in a new window" [ref=e6872] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/privacy-security/california-privacy-rights#what-are-the-categories-of-personal-information-collected
+                - text: Notice at Collection
+            - listitem [ref=e6873]:
+              - link "AdChoices" [ref=e6874] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/privacy-security/walmart-privacy-notice#interest-based-advertising
+            - listitem [ref=e6875]:
+              - link "Consumer Health Data Privacy Notices" [ref=e6876] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/privacy-security/walmart-consumer-health-data-privacy-notices
+            - listitem [ref=e6877]:
+              - link "Brand Shop Directory" [ref=e6878] [cursor=pointer]:
+                - /url: https://www.walmart.com/brand/branddirectory
+            - listitem [ref=e6879]:
+              - link "Pharmacy" [ref=e6880] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/pharmacy/5431?povid=HWS_GlobalFooter_Pharmacy
+            - listitem [ref=e6881]:
+              - link "Walmart Business" [ref=e6882] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/walmart-business/7810722?povid=7810722_POV_WMTfooter
+            - listitem [ref=e6883]:
+              - link "#IYWYK" [ref=e6884] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/walmart-in-the-know/7781927
+            - listitem [ref=e6885]:
+              - link "Delete Account" [ref=e6886] [cursor=pointer]:
+                - /url: https://www.walmart.com/account/login?vid=oaoh&tid=0&returnUrl=%2Faccount%2Fdelete-account
+          - generic [ref=e6888]:
+            - generic [ref=e6889]: 
+            - button "Opt-Out Request Honored" [ref=e6890] [cursor=pointer]
+          - generic [ref=e6891]: © 2026 Walmart. The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office. All Rights Reserved.
+  - alert [ref=e104]: /search?q=poblano+pepper

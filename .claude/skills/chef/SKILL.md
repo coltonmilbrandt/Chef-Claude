@@ -14,6 +14,7 @@ This skill is invoked with `/chef`.
 Read these files at the start of every session:
 - `profile/people.md` - Household members (names, ages, gender)
 - `profile/budget.md` - Weekly grocery budget
+- `profile/staples.md` - Recurring household staples with last-ordered dates
 - `weeklyOutline.md` - Weekly context, events, schedule notes
 
 ## Core Workflow
@@ -187,12 +188,44 @@ See [shoppingList.md](../../shoppingList.md) for complete list.
 *Generated: [date] by /chef skill*
 ```
 
-### Phase 7: Shopping List Compilation
+### Phase 7: Staples Evaluation
+
+Before compiling the shopping list, evaluate household staples from `profile/staples.md`.
+
+**Process:**
+
+1. **Read `profile/staples.md`** — each line has an item, optional notes, and a `last ordered MM/DD/YYYY` date.
+2. **For each staple, reason about whether it's time to reorder:**
+   - Calculate days since last ordered vs. today's date.
+   - Consider the household size and composition from `profile/people.md` (e.g., 2 adults).
+   - Think through realistic consumption rate:
+     - How fast would this household go through this item?
+     - Does the item have a short shelf life (milk, bread) or long (olive oil, rice)?
+     - Are there item-specific notes (e.g., "get on almost every order")?
+   - **Be conservative — err on the side of adding.** The practice is to remove unneeded items from the Walmart cart after they're added, so over-adding is low-cost while missing an item is high-cost.
+   - If `last ordered` is blank or missing, assume it's needed.
+3. **Build a staples list** of items that should be added to the shopping list.
+4. **Do NOT ask the user about individual staples** — the evaluation should be autonomous. The user will review and remove items from the cart later.
+5. **Update `profile/staples.md`** — after adding staples to the shopping list, update the `last ordered` date to today's date for items that were added.
+
+**Consumption Estimation Guidelines:**
+- Items marked "every order" or similar → always add
+- Beverages (soda, milk, juice) for 2 adults → ~7-10 days
+- Eggs (1 dozen) for 2 adults → ~10-14 days
+- Bread for 2 adults → ~7-10 days
+- Cooking staples (oil, spray, butter) → ~21-30 days
+- Pantry staples (rice, pasta, flour) → ~30-45 days
+- Snack items (crackers, yogurt) → ~7-14 days
+- Condiments → ~30-60 days
+- When in doubt, add it. Missing a staple is worse than adding one they still have.
+
+### Phase 8: Shopping List Compilation
 
 Generate the comprehensive shopping list in `shoppingList.md`:
 
 1. **Parse all recipe files** from `recipes/YYYY-MM-DD/` for ingredients
-2. **Sum quantities** for shared ingredients:
+1b. **Include staples** identified in Phase 7 — add them to the shopping list under a `## Staples` section at the end
+2. **Sum quantities** for shared ingredients (if a staple overlaps with a recipe ingredient, combine them):
    - Same ingredient across recipes: SUM quantities
    - Convert units when possible (2 cups + 0.5 cup = 2.5 cups)
    - Round up to practical grocery amounts
@@ -227,8 +260,14 @@ For meal plan: Week of [Date]
 - [ ] Tortillas, flour 10-pack (fajitas, soup)
 - [ ] Soy sauce (stir-fry) - check if have
 
+## Staples
+Items from `profile/staples.md` evaluated as due for reorder:
+- [ ] Diet Mountain Dew, 12 or 24 pack (staple - every order)
+- [ ] Olive oil spray (staple - last ordered 30+ days ago)
+
 ## Notes for /shop
 - [Any specific notes about brands, sizes, or preferences]
+- Staples section: these are recurring items, not tied to specific recipes
 ```
 
 ## Quantity Calculation Rules

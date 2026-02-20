@@ -71,7 +71,7 @@ Process each unchecked item one at a time in list order:
 - Verify item was added successfully
 - If error, retry 2-3 times, then notify user and skip
 
-### 5. Update Shopping List
+### 5. Update Shopping List & Staples
 After each successful add, update `shoppingList.md`:
 ```
 - [x] Eggs - Great Value Large Eggs 12ct ($3.47)
@@ -87,6 +87,10 @@ For skipped items:
 ```
 - [ ] Specialty Item - SKIPPED: Not available at Walmart
 ```
+
+**For staple items** (items from the `## Staples` section):
+- After successfully adding a staple to cart, update `profile/staples.md` with today's date as the new `last ordered` date
+- This keeps the staples tracker current so `/chef` can accurately evaluate future orders
 
 ## Bot Avoidance Behavior
 

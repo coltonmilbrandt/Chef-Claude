@@ -1,0 +1,1944 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - link "Skip to Main Content" [ref=e6] [cursor=pointer]:
+          - /url: "#maincontent"
+        - text: 
+        - link "Walmart Homepage" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "Walmart+" [ref=e8]
+        - generic [ref=e11]:
+          - button "Pickup or delivery? 26 W 300 S • St George Supercenter" [ref=e13] [cursor=pointer]:
+            - generic [ref=e14]:
+              - generic [ref=e15]:
+                - generic [ref=e17]: Pickup or delivery?
+                - generic [ref=e18]:
+                  - generic [ref=e22]: 26 W 300 S
+                  - generic [ref=e25]:
+                    - generic [ref=e26]: •
+                    - generic [ref=e27]: St George Supercenter
+              - generic [ref=e29]: 
+          - generic:
+            - generic:   
+          - generic [ref=e31]:
+            - generic [ref=e33]: 26 W 300 S
+            - generic [ref=e35]: •
+        - search "Walmart Site-Wide" [ref=e36]:
+          - generic [ref=e37]:
+            - searchbox "Search" [ref=e38]: bell peppers
+            - button [ref=e39] [cursor=pointer]:
+              - generic [ref=e40]: 
+            - button "Search" [ref=e41] [cursor=pointer]:
+              - generic [ref=e42]: 
+        - navigation "Account and Cart" [ref=e43]:
+          - list [ref=e44]:
+            - listitem [ref=e45]:
+              - button "Reorder My Items" [ref=e46] [cursor=pointer]:
+                - generic [ref=e47]: 
+                - generic [ref=e48]:
+                  - generic [ref=e49]: Reorder
+                  - generic [ref=e50]: My Items
+              - text:   
+            - listitem [ref=e51]:
+              - generic [ref=e53]:
+                - button "Hi, Colton M Account" [ref=e54] [cursor=pointer]:
+                  - generic [ref=e55]: 
+                  - generic [ref=e56]:
+                    - generic [ref=e57]: Hi, Colton M
+                    - generic [ref=e58]: Account
+                - text:     
+            - listitem [ref=e59]:
+              - button "Cart contains 0 items Total Amount $0.00" [ref=e62]:
+                - generic [ref=e63]: 
+                - generic [ref=e64]: $0.00
+      - generic [ref=e66]:
+        - navigation "Primary" [ref=e67]:
+          - list [ref=e68]:
+            - listitem [ref=e69]:
+              - button "Departments " [ref=e73]:
+                - text: Departments
+                - generic [ref=e74]: 
+            - listitem [ref=e75]:
+              - button "Services " [ref=e79]:
+                - text: Services
+                - generic [ref=e80]: 
+        - navigation "Secondary" [ref=e82]:
+          - list [ref=e83]:
+            - listitem [ref=e84]:
+              - link "Get it Fast" [ref=e86] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/get-it-fast/6545138
+            - listitem [ref=e87]:
+              - link "Rollbacks & More" [ref=e89] [cursor=pointer]:
+                - /url: https://www.walmart.com/shop/savings
+            - listitem [ref=e90]:
+              - link "Easter" [ref=e92] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/easter/1102349
+            - listitem [ref=e93]:
+              - link "Pharmacy" [ref=e95] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/pharmacy/5431
+            - listitem [ref=e96]:
+              - link "New Arrivals" [ref=e98] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/new-arrivals/2593086
+            - listitem [ref=e99]:
+              - link "The Baby Event" [ref=e101] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/baby-event/1806647
+            - listitem [ref=e102]:
+              - link "Dinner Made Easy" [ref=e104] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/dinner-tonight/5681029
+            - listitem [ref=e105]:
+              - link "My Items" [ref=e107] [cursor=pointer]:
+                - /url: https://www.walmart.com/my-items
+            - listitem [ref=e108]:
+              - link "Only at Walmart" [ref=e110] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/only-at-walmart/2119250
+            - listitem [ref=e111]:
+              - link "Credit Card" [ref=e113] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/9435689?utm_content=WMD-CRD-HPGN
+            - listitem [ref=e114]:
+              - link "Walmart+" [ref=e116] [cursor=pointer]:
+                - /url: https://www.walmart.com/plus
+    - generic [ref=e117]:
+      - main [ref=e120]:
+        - generic [ref=e121]:
+          - generic [ref=e124]:
+            - region "Sort and Filter section" [ref=e130]:
+              - switch "Filter by In-store" [ref=e133]:
+                - generic [ref=e135]: 
+                - generic [ref=e136]: In-store
+              - switch "Filter by Get it fast" [ref=e139]:
+                - generic [ref=e141]: 
+                - generic [ref=e142]: Get it fast
+              - switch "Filter by All deals" [ref=e145]:
+                - generic [ref=e147]: 
+                - generic [ref=e148]: All deals
+              - button "Filter by Price not applied, activate to change" [ref=e151]:
+                - generic [ref=e153]: 
+                - generic [ref=e154]: Price
+                - generic [ref=e155]: 
+              - button "Filter by Brand not applied, activate to change" [ref=e158]:
+                - generic [ref=e159]: Brand
+                - generic [ref=e160]: 
+              - switch "Filter by Subscription" [ref=e164]:
+                - generic [ref=e166]: 
+                - generic [ref=e167]: Subscription
+              - generic [ref=e168]:
+                - generic [ref=e169]: Sort by
+                - text: "|"
+                - button "Sort by Best Match" [ref=e171]:
+                  - text: Best Match
+                  - generic [ref=e172]: 
+            - separator [ref=e173]
+          - generic [ref=e176]:
+            - generic [ref=e177]:
+              - generic [ref=e180]:
+                - generic [ref=e181]:
+                  - button "Price" [ref=e184]:
+                    - generic [ref=e185]: Price
+                    - img [ref=e186]: 
+                  - separator [ref=e187]
+                - generic [ref=e188]:
+                  - button "Brand" [ref=e191]:
+                    - generic [ref=e192]: Brand
+                    - img [ref=e193]: 
+                  - separator [ref=e194]
+                - generic [ref=e195]:
+                  - button "Subscription" [ref=e198]:
+                    - generic [ref=e199]: Subscription
+                    - img [ref=e200]: 
+                  - separator [ref=e201]
+                - generic [ref=e202]:
+                  - button "Deals" [ref=e205]:
+                    - generic [ref=e206]: Deals
+                    - img [ref=e207]: 
+                  - separator [ref=e208]
+                - generic [ref=e209]:
+                  - button "Customer Rating" [ref=e212]:
+                    - generic [ref=e213]: Customer Rating
+                    - img [ref=e214]: 
+                  - separator [ref=e215]
+                - generic [ref=e216]:
+                  - button "Item Conditions" [ref=e219]:
+                    - generic [ref=e220]: Item Conditions
+                    - img [ref=e221]: 
+                  - separator [ref=e222]
+                - generic [ref=e223]:
+                  - button "Container" [ref=e226]:
+                    - generic [ref=e227]: Container
+                    - img [ref=e228]: 
+                  - separator [ref=e229]
+                - generic [ref=e230]:
+                  - button "Form" [ref=e233]:
+                    - generic [ref=e234]: Form
+                    - img [ref=e235]: 
+                  - separator [ref=e236]
+                - generic [ref=e237]:
+                  - button "Food Condition" [ref=e240]:
+                    - generic [ref=e241]: Food Condition
+                    - img [ref=e242]: 
+                  - separator [ref=e243]
+                - generic [ref=e244]:
+                  - button "Special Diet Needs" [ref=e247]:
+                    - generic [ref=e248]: Special Diet Needs
+                    - img [ref=e249]: 
+                  - separator [ref=e250]
+                - generic [ref=e251]:
+                  - button "Availability" [ref=e254]:
+                    - generic [ref=e255]: Availability
+                    - img [ref=e256]: 
+                  - separator [ref=e257]
+                - generic [ref=e258]:
+                  - button "Departments" [ref=e261]:
+                    - generic [ref=e262]: Departments
+                    - img [ref=e263]: 
+                  - separator [ref=e264]
+                - generic [ref=e265]:
+                  - button "Retailer" [ref=e268]:
+                    - generic [ref=e269]: Retailer
+                    - img [ref=e270]: 
+                  - separator [ref=e271]
+                - generic [ref=e272]:
+                  - button "Gifting" [ref=e275]:
+                    - generic [ref=e276]: Gifting
+                    - img [ref=e277]: 
+                  - separator [ref=e278]
+                - generic [ref=e279]:
+                  - button "Benefit Programs" [ref=e282]:
+                    - generic [ref=e283]: Benefit Programs
+                    - img [ref=e284]: 
+                  - separator [ref=e285]
+              - generic [ref=e286]:
+                - generic [ref=e287]:
+                  - generic [ref=e288]:
+                    - heading "Results for \"bell peppers\" (100)" [level=2] [ref=e296]: Results for "bell peppers"(100)
+                    - generic [ref=e298]:
+                      - generic [ref=e299]: Uses item details. Price when purchased online
+                      - button "legal information" [ref=e300] [cursor=pointer]:
+                        - generic [ref=e301]: 
+                    - generic [ref=e302]:
+                      - group [ref=e305]:
+                        - link "Bought 1 time Green Bell Pepper, 1 each $0.76" [ref=e306] [cursor=pointer]:
+                          - /url: /ip/Fresh-Green-Bell-Pepper-Each/44390945?classType=VARIANT&athbdg=L1100&from=/search
+                          - heading "Bought 1 time Green Bell Pepper, 1 each $0.76" [level=3] [ref=e308]
+                        - generic [ref=e309]:
+                          - generic [ref=e310]:
+                            - group [ref=e313]:
+                              - generic [ref=e314]: Bought 1 time
+                            - generic [ref=e315]:
+                              - button "Add to Favorites list, Green Bell Pepper, 1 each" [ref=e316]:
+                                - generic [ref=e317]: 
+                              - img "Green Bell Pepper, 1 each" [ref=e318]
+                          - button "Add to cart - Green Bell Pepper, 1 each" [ref=e322] [cursor=pointer]:
+                            - generic "add to cart" [ref=e323]: 
+                            - generic [ref=e324]: Add
+                          - button "Subscribe Green Bell Pepper, 1 each" [ref=e328] [cursor=pointer]:
+                            - generic [ref=e331]: 
+                            - text: Subscribe
+                          - generic [ref=e332]:
+                            - generic [ref=e334]:
+                              - generic [ref=e335]: $076
+                              - generic [ref=e336]: current price $0.76
+                              - generic [ref=e337]: $0.72 when subscribed
+                            - heading "Green Bell Pepper, 1 each" [level=3] [ref=e339]
+                            - generic [ref=e340]:
+                              - generic [ref=e341]:
+                                - img [ref=e342]
+                                - img [ref=e344]
+                                - img [ref=e346]
+                                - img [ref=e348]
+                                - img [ref=e350]
+                              - generic [ref=e352]: "47714"
+                              - generic [ref=e353]: 4.2 out of 5 Stars. 47714 reviews
+                            - generic [ref=e355]:
+                              - generic [ref=e356]:
+                                - generic [ref=e358]: Delivery as soon as 24 mins
+                                - generic [ref=e360]: Pickup as soon as 7pm
+                              - generic [ref=e362]:
+                                - generic [ref=e364]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e368]:
+                        - link "Fresh Produce Whole Color Bell Peppers, 3 Count Bag $2.48 82.7 ¢/count" [ref=e369] [cursor=pointer]:
+                          - /url: /ip/Fresh-Color-Bell-Peppers-3-Count/47770124?classType=REGULAR&from=/search
+                          - heading "Fresh Produce Whole Color Bell Peppers, 3 Count Bag $2.48 82.7 ¢/count" [level=3] [ref=e371]
+                        - generic [ref=e372]:
+                          - generic [ref=e375]:
+                            - button "Add to Favorites list, Fresh Produce Whole Color Bell Peppers, 3 Count Bag" [ref=e376]:
+                              - generic [ref=e377]: 
+                            - img "Fresh Produce Whole Color Bell Peppers, 3 Count Bag" [ref=e378]
+                          - button "Add to cart - Fresh Produce Whole Color Bell Peppers, 3 Count Bag" [ref=e382] [cursor=pointer]:
+                            - generic "add to cart" [ref=e383]: 
+                            - generic [ref=e384]: Add
+                          - button "Subscribe Fresh Produce Whole Color Bell Peppers, 3 Count Bag" [ref=e388] [cursor=pointer]:
+                            - generic [ref=e391]: 
+                            - text: Subscribe
+                          - generic [ref=e392]:
+                            - generic [ref=e394]:
+                              - generic [ref=e395]: $248
+                              - generic [ref=e396]: current price $2.48
+                              - generic [ref=e397]: 82.7 ¢/count
+                              - generic [ref=e398]: $2.36 when subscribed
+                            - heading "Fresh Produce Whole Color Bell Peppers, 3 Count Bag" [level=3] [ref=e400]
+                            - generic [ref=e401]:
+                              - generic [ref=e402]:
+                                - img [ref=e403]
+                                - img [ref=e405]
+                                - img [ref=e407]
+                                - img [ref=e409]
+                                - img [ref=e411]
+                              - generic [ref=e413]: "25237"
+                              - generic [ref=e414]: 4.2 out of 5 Stars. 25237 reviews
+                            - generic [ref=e416]:
+                              - generic [ref=e417]:
+                                - generic [ref=e419]: Delivery as soon as 24 mins
+                                - generic [ref=e421]: Pickup as soon as 7pm
+                              - generic [ref=e423]:
+                                - generic [ref=e425]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e429]:
+                        - link "Bought 2 times Fresh Red Bell Pepper, 1 Each $1.48" [ref=e430] [cursor=pointer]:
+                          - /url: /ip/Fresh-Red-Bell-Pepper-1-Each/44391581?classType=REGULAR&athbdg=L1100&from=/search
+                          - heading "Bought 2 times Fresh Red Bell Pepper, 1 Each $1.48" [level=3] [ref=e432]
+                        - generic [ref=e433]:
+                          - generic [ref=e434]:
+                            - group [ref=e437]:
+                              - generic [ref=e438]: Bought 2 times
+                            - generic [ref=e439]:
+                              - button "Add to Favorites list, Fresh Red Bell Pepper, 1 Each" [ref=e440]:
+                                - generic [ref=e441]: 
+                              - img "Fresh Red Bell Pepper, 1 Each" [ref=e442]
+                          - button "Add to cart - Fresh Red Bell Pepper, 1 Each" [ref=e446] [cursor=pointer]:
+                            - generic "add to cart" [ref=e447]: 
+                            - generic [ref=e448]: Add
+                          - button "Subscribe Fresh Red Bell Pepper, 1 Each" [ref=e452] [cursor=pointer]:
+                            - generic [ref=e455]: 
+                            - text: Subscribe
+                          - generic [ref=e456]:
+                            - generic [ref=e458]:
+                              - generic [ref=e459]: $148
+                              - generic [ref=e460]: current price $1.48
+                              - generic [ref=e461]: $1.41 when subscribed
+                            - heading "Fresh Red Bell Pepper, 1 Each" [level=3] [ref=e463]
+                            - generic [ref=e464]:
+                              - generic [ref=e465]:
+                                - img [ref=e466]
+                                - img [ref=e468]
+                                - img [ref=e470]
+                                - img [ref=e472]
+                                - img [ref=e474]
+                              - generic [ref=e477]: "11645"
+                              - generic [ref=e478]: 4.3 out of 5 Stars. 11645 reviews
+                            - generic [ref=e480]:
+                              - generic [ref=e481]:
+                                - generic [ref=e483]: Delivery as soon as 24 mins
+                                - generic [ref=e485]: Pickup as soon as 7pm
+                              - generic [ref=e487]:
+                                - generic [ref=e489]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e493]:
+                        - link "Fresh Yellow Bell Pepper, Each $1.48" [ref=e494] [cursor=pointer]:
+                          - /url: /ip/Fresh-Yellow-Bell-Pepper-Each/44391602?classType=REGULAR&from=/search
+                          - heading "Fresh Yellow Bell Pepper, Each $1.48" [level=3] [ref=e496]
+                        - generic [ref=e497]:
+                          - generic [ref=e500]:
+                            - button "Add to Favorites list, Fresh Yellow Bell Pepper, Each" [ref=e501]:
+                              - generic [ref=e502]: 
+                            - img "Fresh Yellow Bell Pepper, Each" [ref=e503]
+                          - button "Add to cart - Fresh Yellow Bell Pepper, Each" [ref=e507] [cursor=pointer]:
+                            - generic "add to cart" [ref=e508]: 
+                            - generic [ref=e509]: Add
+                          - button "Subscribe Fresh Yellow Bell Pepper, Each" [ref=e513] [cursor=pointer]:
+                            - generic [ref=e516]: 
+                            - text: Subscribe
+                          - generic [ref=e517]:
+                            - generic [ref=e519]:
+                              - generic [ref=e520]: $148
+                              - generic [ref=e521]: current price $1.48
+                              - generic [ref=e522]: $1.41 when subscribed
+                            - heading "Fresh Yellow Bell Pepper, Each" [level=3] [ref=e524]
+                            - generic [ref=e525]:
+                              - generic [ref=e526]:
+                                - img [ref=e527]
+                                - img [ref=e529]
+                                - img [ref=e531]
+                                - img [ref=e533]
+                                - img [ref=e535]
+                              - generic [ref=e537]: "2067"
+                              - generic [ref=e538]: 4.2 out of 5 Stars. 2067 reviews
+                            - generic [ref=e540]:
+                              - generic [ref=e541]:
+                                - generic [ref=e543]: Delivery as soon as 24 mins
+                                - generic [ref=e545]: Pickup as soon as 7pm
+                              - generic [ref=e547]:
+                                - generic [ref=e549]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e553]:
+                        - link "Fresh Orange Bell Pepper, Each $1.48" [ref=e554] [cursor=pointer]:
+                          - /url: /ip/Fresh-Orange-Bell-Pepper-Each/44391003?classType=REGULAR&from=/search
+                          - heading "Fresh Orange Bell Pepper, Each $1.48" [level=3] [ref=e556]
+                        - generic [ref=e557]:
+                          - generic [ref=e560]:
+                            - button "Add to Favorites list, Fresh Orange Bell Pepper, Each" [ref=e561]:
+                              - generic [ref=e562]: 
+                            - img "Fresh Orange Bell Pepper, Each" [ref=e563]
+                          - button "Add to cart - Fresh Orange Bell Pepper, Each" [ref=e567] [cursor=pointer]:
+                            - generic "add to cart" [ref=e568]: 
+                            - generic [ref=e569]: Add
+                          - button "Subscribe Fresh Orange Bell Pepper, Each" [ref=e573] [cursor=pointer]:
+                            - generic [ref=e576]: 
+                            - text: Subscribe
+                          - generic [ref=e577]:
+                            - generic [ref=e579]:
+                              - generic [ref=e580]: $148
+                              - generic [ref=e581]: current price $1.48
+                              - generic [ref=e582]: $1.41 when subscribed
+                            - heading "Fresh Orange Bell Pepper, Each" [level=3] [ref=e584]
+                            - generic [ref=e585]:
+                              - generic [ref=e586]:
+                                - img [ref=e587]
+                                - img [ref=e589]
+                                - img [ref=e591]
+                                - img [ref=e593]
+                                - img [ref=e595]
+                              - generic [ref=e597]: "1727"
+                              - generic [ref=e598]: 4.1 out of 5 Stars. 1727 reviews
+                            - generic [ref=e600]:
+                              - generic [ref=e601]:
+                                - generic [ref=e603]: Delivery as soon as 24 mins
+                                - generic [ref=e605]: Pickup as soon as 7pm
+                              - generic [ref=e607]:
+                                - generic [ref=e609]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e613]:
+                        - link "Organic Green Bell Pepper, Each $2.96 37.0 ¢/oz" [ref=e614] [cursor=pointer]:
+                          - /url: /ip/Organic-Green-Bell-Pepper/720640702?classType=REGULAR&from=/search
+                          - heading "Organic Green Bell Pepper, Each $2.96 37.0 ¢/oz" [level=3] [ref=e616]
+                        - generic [ref=e617]:
+                          - generic [ref=e620]:
+                            - button "Add to Favorites list, Organic Green Bell Pepper, Each" [ref=e621]:
+                              - generic [ref=e622]: 
+                            - img "Organic Green Bell Pepper, Each" [ref=e623]
+                          - button "Add to cart - Organic Green Bell Pepper, Each" [ref=e627] [cursor=pointer]:
+                            - generic "add to cart" [ref=e628]: 
+                            - generic [ref=e629]: Add
+                          - button "Subscribe Organic Green Bell Pepper, Each" [ref=e633] [cursor=pointer]:
+                            - generic [ref=e636]: 
+                            - text: Subscribe
+                          - generic [ref=e637]:
+                            - generic [ref=e639]:
+                              - generic [ref=e640]: $296
+                              - generic [ref=e641]: current price $2.96
+                              - generic [ref=e642]: 37.0 ¢/oz
+                              - generic [ref=e643]: $2.81 when subscribed
+                            - heading "Organic Green Bell Pepper, Each" [level=3] [ref=e645]
+                            - generic [ref=e646]:
+                              - generic [ref=e647]:
+                                - img [ref=e648]
+                                - img [ref=e650]
+                                - img [ref=e652]
+                                - img [ref=e654]
+                                - img [ref=e656]
+                              - generic [ref=e658]: "782"
+                              - generic [ref=e659]: 3.8 out of 5 Stars. 782 reviews
+                            - generic [ref=e661]:
+                              - generic [ref=e662]:
+                                - generic [ref=e664]: Delivery as soon as 24 mins
+                                - generic [ref=e666]: Pickup as soon as 7pm
+                              - generic [ref=e668]:
+                                - generic [ref=e670]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e674]:
+                        - link "Nature Fresh Farms Sweet Bell Peppers 2 Each $3.46 $1.73/count" [ref=e675] [cursor=pointer]:
+                          - /url: /ip/Fresh-Organic-Color-Bell-Peppers-2-Count/189907444?classType=REGULAR&from=/search
+                          - heading "Nature Fresh Farms Sweet Bell Peppers 2 Each $3.46 $1.73/count" [level=3] [ref=e677]
+                        - generic [ref=e678]:
+                          - generic [ref=e681]:
+                            - button "Add to Favorites list, Nature Fresh Farms Sweet Bell Peppers 2 Each" [ref=e682]:
+                              - generic [ref=e683]: 
+                            - img "Nature Fresh Farms Sweet Bell Peppers 2 Each" [ref=e684]
+                          - button "Add to cart - Nature Fresh Farms Sweet Bell Peppers 2 Each" [ref=e688] [cursor=pointer]:
+                            - generic "add to cart" [ref=e689]: 
+                            - generic [ref=e690]: Add
+                          - button "Subscribe Nature Fresh Farms Sweet Bell Peppers 2 Each" [ref=e694] [cursor=pointer]:
+                            - generic [ref=e697]: 
+                            - text: Subscribe
+                          - generic [ref=e698]:
+                            - generic [ref=e700]:
+                              - generic [ref=e701]: $346
+                              - generic [ref=e702]: current price $3.46
+                              - generic [ref=e703]: $1.73/count
+                              - generic [ref=e704]: $3.29 when subscribed
+                            - heading "Nature Fresh Farms Sweet Bell Peppers 2 Each" [level=3] [ref=e706]
+                            - generic [ref=e707]:
+                              - generic [ref=e708]:
+                                - img [ref=e709]
+                                - img [ref=e711]
+                                - img [ref=e713]
+                                - img [ref=e715]
+                                - img [ref=e717]
+                              - generic [ref=e719]: "897"
+                              - generic [ref=e720]: 3.8 out of 5 Stars. 897 reviews
+                            - generic [ref=e722]:
+                              - generic [ref=e723]:
+                                - generic [ref=e725]: Delivery as soon as 24 mins
+                                - generic [ref=e727]: Pickup as soon as 7pm
+                              - generic [ref=e729]:
+                                - generic [ref=e731]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e735]:
+                        - link "Sweet Mini Peppers, Each $3.28" [ref=e736] [cursor=pointer]:
+                          - /url: /ip/Sweet-Mini-Peppers-Each/5657933143?classType=VARIANT&from=/search
+                          - heading "Sweet Mini Peppers, Each $3.28" [level=3] [ref=e738]
+                        - generic [ref=e739]:
+                          - generic [ref=e740]:
+                            - generic [ref=e742]:
+                              - button "Add to Favorites list, Sweet Mini Peppers, Each" [ref=e743]:
+                                - generic [ref=e744]: 
+                              - img "Sweet Mini Peppers, Each" [ref=e745]
+                            - generic [ref=e747]:
+                              - generic [ref=e748]:
+                                - generic [ref=e749]: 
+                                - text: 2 options
+                              - generic [ref=e750]: Available in additional 2 options
+                          - link "Options - Sweet Mini Peppers, Each" [ref=e754] [cursor=pointer]:
+                            - /url: /ip/Sweet-Mini-Peppers-Each/5657933143?classType=VARIANT
+                            - generic [ref=e755]: Options
+                          - generic [ref=e756]:
+                            - generic [ref=e758]:
+                              - generic [ref=e759]: $328
+                              - generic [ref=e760]: current price $3.28
+                              - generic [ref=e761]: $3.12 when subscribed
+                            - heading "Sweet Mini Peppers, Each" [level=3] [ref=e763]
+                            - generic [ref=e764]:
+                              - generic [ref=e765]:
+                                - img [ref=e766]
+                                - img [ref=e768]
+                                - img [ref=e770]
+                                - img [ref=e772]
+                                - img [ref=e774]
+                              - generic [ref=e777]: "3439"
+                              - generic [ref=e778]: 4.5 out of 5 Stars. 3439 reviews
+                            - generic [ref=e780]:
+                              - generic [ref=e781]:
+                                - generic [ref=e783]: Delivery as soon as 24 mins
+                                - generic [ref=e785]: Pickup as soon as 7pm
+                              - generic [ref=e787]:
+                                - generic [ref=e789]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e793]:
+                        - link "Fresh Organic Mini Sweet Peppers, 8 oz, Bag $3.46 43.3 ¢/oz" [ref=e794] [cursor=pointer]:
+                          - /url: /ip/Fresh-Organic-Mini-Sweet-Peppers-8-Ounce-Bag/111146370?classType=REGULAR&from=/search
+                          - heading "Fresh Organic Mini Sweet Peppers, 8 oz, Bag $3.46 43.3 ¢/oz" [level=3] [ref=e796]
+                        - generic [ref=e797]:
+                          - generic [ref=e800]:
+                            - button "Add to Favorites list, Fresh Organic Mini Sweet Peppers, 8 oz, Bag" [ref=e801]:
+                              - generic [ref=e802]: 
+                            - img "Fresh Organic Mini Sweet Peppers, 8 oz, Bag" [ref=e803]
+                          - button "Add to cart - Fresh Organic Mini Sweet Peppers, 8 oz, Bag" [ref=e807] [cursor=pointer]:
+                            - generic "add to cart" [ref=e808]: 
+                            - generic [ref=e809]: Add
+                          - button "Subscribe Fresh Organic Mini Sweet Peppers, 8 oz, Bag" [ref=e813] [cursor=pointer]:
+                            - generic [ref=e816]: 
+                            - text: Subscribe
+                          - generic [ref=e817]:
+                            - generic [ref=e819]:
+                              - generic [ref=e820]: $346
+                              - generic [ref=e821]: current price $3.46
+                              - generic [ref=e822]: 43.3 ¢/oz
+                              - generic [ref=e823]: $3.29 when subscribed
+                            - heading "Fresh Organic Mini Sweet Peppers, 8 oz, Bag" [level=3] [ref=e825]
+                            - generic [ref=e826]:
+                              - generic [ref=e827]:
+                                - img [ref=e828]
+                                - img [ref=e830]
+                                - img [ref=e832]
+                                - img [ref=e834]
+                                - img [ref=e836]
+                              - generic [ref=e838]: "1290"
+                              - generic [ref=e839]: 4.1 out of 5 Stars. 1290 reviews
+                            - generic [ref=e841]:
+                              - generic [ref=e842]:
+                                - generic [ref=e844]: Delivery as soon as 24 mins
+                                - generic [ref=e846]: Pickup as soon as 7pm
+                              - generic [ref=e848]:
+                                - generic [ref=e850]: 
+                                - text: SNAP EBT eligible
+                      - generic [ref=e855]:
+                        - link "View details for Prepared vegetables" [ref=e856] [cursor=pointer]:
+                          - /url: https://www.walmart.com/browse/food/fresh-pre-cut-vegetables/976759_976793_8910423_2835097?povid=976759_TTO_976793_Precutvegetables_ShopNow_Rweb_Jan_01
+                          - generic [ref=e857]: View details for Prepared vegetables
+                        - img "Prepared vegetables" [ref=e859]
+                        - generic [ref=e862]:
+                          - generic [ref=e863]: Prepared vegetables
+                          - generic [ref=e864]: Sides to keep meals easy.
+                          - button "Shop now" [ref=e867] [cursor=pointer]
+                      - group [ref=e870]:
+                        - link "Great Value Roasted Red Bell Pepper Slices, 12 oz $2.13 17.8 ¢/oz" [ref=e871] [cursor=pointer]:
+                          - /url: /ip/Great-Value-Roasted-Red-Bell-Pepper-Slices-12-oz/863905651?classType=VARIANT&from=/search
+                          - heading "Great Value Roasted Red Bell Pepper Slices, 12 oz $2.13 17.8 ¢/oz" [level=3] [ref=e873]
+                        - generic [ref=e874]:
+                          - generic [ref=e877]:
+                            - button "Add to Favorites list, Great Value Roasted Red Bell Pepper Slices, 12 oz" [ref=e878]:
+                              - generic [ref=e879]: 
+                            - img "Great Value Roasted Red Bell Pepper Slices, 12 oz" [ref=e880]
+                          - button "Add to cart - Great Value Roasted Red Bell Pepper Slices, 12 oz" [ref=e884] [cursor=pointer]:
+                            - generic "add to cart" [ref=e885]: 
+                            - generic [ref=e886]: Add
+                          - button "Subscribe Great Value Roasted Red Bell Pepper Slices, 12 oz" [ref=e890] [cursor=pointer]:
+                            - generic [ref=e893]: 
+                            - text: Subscribe
+                          - generic [ref=e894]:
+                            - generic [ref=e896]:
+                              - generic [ref=e897]: $213
+                              - generic [ref=e898]: current price $2.13
+                              - generic [ref=e899]: 17.8 ¢/oz
+                              - generic [ref=e900]: $2.02 when subscribed
+                            - heading "Great Value Roasted Red Bell Pepper Slices, 12 oz" [level=3] [ref=e902]
+                            - generic [ref=e903]:
+                              - generic [ref=e904]:
+                                - img [ref=e905]
+                                - img [ref=e907]
+                                - img [ref=e909]
+                                - img [ref=e911]
+                                - img [ref=e913]
+                              - generic [ref=e916]: "917"
+                              - generic [ref=e917]: 4.6 out of 5 Stars. 917 reviews
+                            - generic [ref=e919]:
+                              - generic [ref=e920]:
+                                - generic [ref=e922]: Delivery as soon as 24 mins
+                                - generic [ref=e924]: Pickup as soon as 7pm
+                              - generic [ref=e926]:
+                                - generic [ref=e928]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e932]:
+                        - link "(6 pack) Great Value Roasted Red Bell Pepper Slices, 12 oz $12.78 17.8 ¢/oz" [ref=e933] [cursor=pointer]:
+                          - /url: /ip/6-pack-Great-Value-Roasted-Red-Bell-Pepper-Slices-12-oz/15369554979?classType=REGULAR&from=/search
+                          - heading "(6 pack) Great Value Roasted Red Bell Pepper Slices, 12 oz $12.78 17.8 ¢/oz" [level=3] [ref=e935]
+                        - generic [ref=e936]:
+                          - generic [ref=e939]:
+                            - button "Add to Favorites list, (6 pack) Great Value Roasted Red Bell Pepper Slices, 12 oz" [ref=e940]:
+                              - generic [ref=e941]: 
+                            - img "(6 pack) Great Value Roasted Red Bell Pepper Slices, 12 oz" [ref=e942]
+                          - button "Add to cart - (6 pack) Great Value Roasted Red Bell Pepper Slices, 12 oz" [ref=e946] [cursor=pointer]:
+                            - generic "add to cart" [ref=e947]: 
+                            - generic [ref=e948]: Add
+                          - generic [ref=e949]:
+                            - generic [ref=e951]:
+                              - generic [ref=e952]: $1278
+                              - generic [ref=e953]: current price $12.78
+                              - generic [ref=e954]: 17.8 ¢/oz
+                            - heading "(6 pack) Great Value Roasted Red Bell Pepper Slices, 12 oz" [level=3] [ref=e956]
+                            - generic [ref=e957]:
+                              - generic [ref=e958]:
+                                - img [ref=e959]
+                                - img [ref=e961]
+                                - img [ref=e963]
+                                - img [ref=e965]
+                                - img [ref=e967]
+                              - generic [ref=e970]: "917"
+                              - generic [ref=e971]: 4.6 out of 5 Stars. 917 reviews
+                            - generic [ref=e974]:
+                              - generic [ref=e976]: Delivery as soon as 24 mins
+                              - generic [ref=e977]:
+                                - img "WalmartPlus icon" [ref=e978]
+                                - generic [ref=e979]: Free shipping, arrives tomorrow
+                              - generic [ref=e981]: Pickup as soon as 7pm
+                      - group [ref=e985]:
+                        - link "Great Value Frozen Chopped Green Peppers, 10 oz $1.56 15.6 ¢/oz" [ref=e986] [cursor=pointer]:
+                          - /url: /ip/Great-Value-Chopped-Green-Peppers-10-oz-Frozen/442131085?classType=REGULAR&from=/search
+                          - heading "Great Value Frozen Chopped Green Peppers, 10 oz $1.56 15.6 ¢/oz" [level=3] [ref=e988]
+                        - generic [ref=e989]:
+                          - generic [ref=e992]:
+                            - button "Add to Favorites list, Great Value Frozen Chopped Green Peppers, 10 oz" [ref=e993]:
+                              - generic [ref=e994]: 
+                            - img "Great Value Frozen Chopped Green Peppers, 10 oz" [ref=e995]
+                          - button "Add to cart - Great Value Frozen Chopped Green Peppers, 10 oz" [ref=e999] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1000]: 
+                            - generic [ref=e1001]: Add
+                          - button "Subscribe Great Value Frozen Chopped Green Peppers, 10 oz" [ref=e1005] [cursor=pointer]:
+                            - generic [ref=e1008]: 
+                            - text: Subscribe
+                          - generic [ref=e1009]:
+                            - generic [ref=e1011]:
+                              - generic [ref=e1012]: $156
+                              - generic [ref=e1013]: current price $1.56
+                              - generic [ref=e1014]: 15.6 ¢/oz
+                              - generic [ref=e1015]: $1.48 when subscribed
+                            - heading "Great Value Frozen Chopped Green Peppers, 10 oz" [level=3] [ref=e1017]
+                            - generic [ref=e1018]:
+                              - generic [ref=e1019]:
+                                - img [ref=e1020]
+                                - img [ref=e1022]
+                                - img [ref=e1024]
+                                - img [ref=e1026]
+                                - img [ref=e1028]
+                              - generic [ref=e1031]: "1538"
+                              - generic [ref=e1032]: 4.6 out of 5 Stars. 1538 reviews
+                            - generic [ref=e1034]:
+                              - generic [ref=e1035]:
+                                - generic [ref=e1037]: Delivery as soon as 24 mins
+                                - generic [ref=e1039]: Pickup as soon as 7pm
+                              - generic [ref=e1041]:
+                                - generic [ref=e1043]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e1047]:
+                        - link "Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar $3.97 24.8 ¢/fl oz" [ref=e1048] [cursor=pointer]:
+                          - /url: /ip/Mezzetta-Roasted-Red-Bell-Pepper-Strips-16-fl-oz-Jar/10313638?classType=VARIANT&from=/search
+                          - heading "Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar $3.97 24.8 ¢/fl oz" [level=3] [ref=e1050]
+                        - generic [ref=e1051]:
+                          - generic [ref=e1054]:
+                            - button "Add to Favorites list, Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar" [ref=e1055]:
+                              - generic [ref=e1056]: 
+                            - img "Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar" [ref=e1057]
+                          - button "Add to cart - Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar" [ref=e1061] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1062]: 
+                            - generic [ref=e1063]: Add
+                          - button "Subscribe Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar" [ref=e1067] [cursor=pointer]:
+                            - generic [ref=e1070]: 
+                            - text: Subscribe
+                          - generic [ref=e1071]:
+                            - generic [ref=e1073]:
+                              - generic [ref=e1074]: $397
+                              - generic [ref=e1075]: current price $3.97
+                              - generic [ref=e1076]: 24.8 ¢/fl oz
+                              - generic [ref=e1077]: $3.77 when subscribed
+                            - heading "Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar" [level=3] [ref=e1079]
+                            - generic [ref=e1080]:
+                              - generic [ref=e1081]:
+                                - img [ref=e1082]
+                                - img [ref=e1084]
+                                - img [ref=e1086]
+                                - img [ref=e1088]
+                                - img [ref=e1090]
+                              - generic [ref=e1093]: "319"
+                              - generic [ref=e1094]: 4.6 out of 5 Stars. 319 reviews
+                            - generic [ref=e1096]:
+                              - generic [ref=e1097]:
+                                - generic [ref=e1099]: Delivery as soon as 24 mins
+                                - generic [ref=e1101]: Pickup as soon as 7pm
+                              - generic [ref=e1103]:
+                                - generic [ref=e1105]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e1109]:
+                        - link "Mezzetta Roasted Red Bell Peppers, 16 oz Jar $3.97 24.8 ¢/oz" [ref=e1110] [cursor=pointer]:
+                          - /url: /ip/Mezzetta-Roasted-Red-Bell-Peppers-16-oz-Jar/10313628?classType=VARIANT&from=/search
+                          - heading "Mezzetta Roasted Red Bell Peppers, 16 oz Jar $3.97 24.8 ¢/oz" [level=3] [ref=e1112]
+                        - generic [ref=e1113]:
+                          - generic [ref=e1116]:
+                            - button "Add to Favorites list, Mezzetta Roasted Red Bell Peppers, 16 oz Jar" [ref=e1117]:
+                              - generic [ref=e1118]: 
+                            - img "Mezzetta Roasted Red Bell Peppers, 16 oz Jar" [ref=e1119]
+                          - button "Add to cart - Mezzetta Roasted Red Bell Peppers, 16 oz Jar" [ref=e1123] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1124]: 
+                            - generic [ref=e1125]: Add
+                          - button "Subscribe Mezzetta Roasted Red Bell Peppers, 16 oz Jar" [ref=e1129] [cursor=pointer]:
+                            - generic [ref=e1132]: 
+                            - text: Subscribe
+                          - generic [ref=e1133]:
+                            - generic [ref=e1135]:
+                              - generic [ref=e1136]: $397
+                              - generic [ref=e1137]: current price $3.97
+                              - generic [ref=e1138]: 24.8 ¢/oz
+                              - generic [ref=e1139]: $3.77 when subscribed
+                            - heading "Mezzetta Roasted Red Bell Peppers, 16 oz Jar" [level=3] [ref=e1141]
+                            - generic [ref=e1142]:
+                              - generic [ref=e1143]:
+                                - img [ref=e1144]
+                                - img [ref=e1146]
+                                - img [ref=e1148]
+                                - img [ref=e1150]
+                                - img [ref=e1152]
+                              - generic [ref=e1155]: "278"
+                              - generic [ref=e1156]: 4.6 out of 5 Stars. 278 reviews
+                            - generic [ref=e1158]:
+                              - generic [ref=e1159]:
+                                - generic [ref=e1161]: Delivery as soon as 24 mins
+                                - generic [ref=e1163]: Pickup as soon as 7pm
+                              - generic [ref=e1165]:
+                                - generic [ref=e1167]: 
+                                - text: SNAP EBT eligible
+                      - generic [ref=e1172]:
+                        - link "View details for Marketside salad kits" [ref=e1173] [cursor=pointer]:
+                          - /url: https://www.walmart.com/browse/food/salad-kits-bowls/976759_976793_9538337_6180034?povid=976759_TTO_976793_Saladkits_ShopNow_rWeb_Jan_01
+                          - generic [ref=e1174]: View details for Marketside salad kits
+                        - img "Marketside salad kits" [ref=e1176]
+                        - generic [ref=e1179]:
+                          - generic [ref=e1180]: Marketside salad kits
+                          - generic [ref=e1181]: Salads made easy.
+                          - button "Shop now" [ref=e1184] [cursor=pointer]
+                      - group [ref=e1187]:
+                        - link "(3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar $11.91 24.8 ¢/oz" [ref=e1188] [cursor=pointer]:
+                          - /url: /ip/3-pack-Mezzetta-Roasted-Red-Bell-Peppers-16-oz-Jar/15390810715?classType=REGULAR&from=/search
+                          - heading "(3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar $11.91 24.8 ¢/oz" [level=3] [ref=e1190]
+                        - generic [ref=e1191]:
+                          - generic [ref=e1194]:
+                            - button "Add to Favorites list, (3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar" [ref=e1195]:
+                              - generic [ref=e1196]: 
+                            - img "(3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar"
+                          - button "Add to cart - (3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar" [ref=e1200] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1201]: 
+                            - generic [ref=e1202]: Add
+                          - generic [ref=e1203]:
+                            - generic [ref=e1205]:
+                              - generic [ref=e1206]: $1191
+                              - generic [ref=e1207]: current price $11.91
+                              - generic [ref=e1208]: 24.8 ¢/oz
+                            - heading "(3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar" [level=3] [ref=e1210]
+                            - generic [ref=e1211]:
+                              - generic [ref=e1212]:
+                                - img [ref=e1213]
+                                - img [ref=e1215]
+                                - img [ref=e1217]
+                                - img [ref=e1219]
+                                - img [ref=e1221]
+                              - generic [ref=e1224]: "278"
+                              - generic [ref=e1225]: 4.6 out of 5 Stars. 278 reviews
+                            - generic [ref=e1228]:
+                              - generic [ref=e1230]: Delivery as soon as 24 mins
+                              - generic [ref=e1231]:
+                                - img "WalmartPlus icon" [ref=e1232]
+                                - generic [ref=e1233]: Free shipping, arrives tomorrow
+                              - generic [ref=e1235]: Pickup as soon as 7pm
+                      - group [ref=e1239]:
+                        - link "(2 pack) Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar $7.94 24.8 ¢/fl oz" [ref=e1240] [cursor=pointer]:
+                          - /url: /ip/2-pack-Mezzetta-Roasted-Red-Bell-Pepper-Strips-16-fl-oz-Jar/15939962302?classType=REGULAR&from=/search
+                          - heading "(2 pack) Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar $7.94 24.8 ¢/fl oz" [level=3] [ref=e1242]
+                        - generic [ref=e1243]:
+                          - generic [ref=e1246]:
+                            - button "Add to Favorites list, (2 pack) Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar" [ref=e1247]:
+                              - generic [ref=e1248]: 
+                            - img "(2 pack) Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar"
+                          - button "Add to cart - (2 pack) Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar" [ref=e1252] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1253]: 
+                            - generic [ref=e1254]: Add
+                          - generic [ref=e1255]:
+                            - generic [ref=e1257]:
+                              - generic [ref=e1258]: $794
+                              - generic [ref=e1259]: current price $7.94
+                              - generic [ref=e1260]: 24.8 ¢/fl oz
+                            - heading "(2 pack) Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar" [level=3] [ref=e1262]
+                            - generic [ref=e1263]:
+                              - generic [ref=e1264]:
+                                - img [ref=e1265]
+                                - img [ref=e1267]
+                                - img [ref=e1269]
+                                - img [ref=e1271]
+                                - img [ref=e1273]
+                              - generic [ref=e1276]: "319"
+                              - generic [ref=e1277]: 4.6 out of 5 Stars. 319 reviews
+                            - generic [ref=e1280]:
+                              - generic [ref=e1282]: Delivery as soon as 24 mins
+                              - generic [ref=e1283]:
+                                - img "WalmartPlus icon" [ref=e1284]
+                                - generic [ref=e1285]: Free shipping, arrives tomorrow
+                              - generic [ref=e1287]: Pickup as soon as 7pm
+                      - group [ref=e1291]:
+                        - link "Augason Farms Dehydrated Red and Green Diced Bell Peppers Can, Emergency Food Supply, Everyday Meals, 113 Servings $16.12 80.6 ¢/oz" [ref=e1292] [cursor=pointer]:
+                          - /url: /ip/Augason-Farms-Dehydrated-Diced-Red-Green-Bell-Peppers-1-lb-4-oz-No-10-Can/22001484?classType=VARIANT&from=/search
+                          - heading "Augason Farms Dehydrated Red and Green Diced Bell Peppers Can, Emergency Food Supply, Everyday Meals, 113 Servings $16.12 80.6 ¢/oz" [level=3] [ref=e1294]
+                        - generic [ref=e1295]:
+                          - generic [ref=e1296]:
+                            - generic [ref=e1298]:
+                              - button "Add to Favorites list, Augason Farms Dehydrated Red and Green Diced Bell Peppers Can, Emergency Food Supply, Everyday Meals, 113 Servings" [ref=e1299]:
+                                - generic [ref=e1300]: 
+                              - img "Augason Farms Dehydrated Red and Green Diced Bell Peppers Can, Emergency Food Supply, Everyday Meals, 113 Servings"
+                            - generic [ref=e1302]:
+                              - generic [ref=e1303]:
+                                - generic [ref=e1304]: 
+                                - text: 2 options
+                              - generic [ref=e1305]: Available in additional 2 options
+                          - link "Options - Augason Farms Dehydrated Red and Green Diced Bell Peppers Can, Emergency Food Supply, Everyday Meals, 113 Servings" [ref=e1309] [cursor=pointer]:
+                            - /url: /ip/Augason-Farms-Dehydrated-Diced-Red-Green-Bell-Peppers-1-lb-4-oz-No-10-Can/22001484?classType=VARIANT
+                            - generic [ref=e1310]: Options
+                          - generic [ref=e1311]:
+                            - generic [ref=e1313]:
+                              - generic [ref=e1314]: $1612
+                              - generic [ref=e1315]: current price $16.12
+                              - generic [ref=e1316]: 80.6 ¢/oz
+                              - generic [ref=e1317]: $15.31 when subscribed
+                              - generic [ref=e1318]: Options from $16.12 – $48.36
+                            - heading "Augason Farms Dehydrated Red and Green Diced Bell Peppers Can, Emergency Food Supply, Everyday Meals, 113 Servings" [level=3] [ref=e1320]
+                            - generic [ref=e1321]:
+                              - generic [ref=e1322]:
+                                - img [ref=e1323]
+                                - img [ref=e1325]
+                                - img [ref=e1327]
+                                - img [ref=e1329]
+                                - img [ref=e1331]
+                              - generic [ref=e1334]: "279"
+                              - generic [ref=e1335]: 4.6 out of 5 Stars. 279 reviews
+                            - generic [ref=e1337]:
+                              - generic [ref=e1339]:
+                                - img "WalmartPlus icon" [ref=e1340]
+                                - generic [ref=e1341]: Free shipping, arrives tomorrow
+                              - generic [ref=e1343]:
+                                - generic [ref=e1345]: 
+                                - text: SNAP EBT eligible
+                      - group [ref=e1349]:
+                        - link "Mezzetta Roasted Bell Pepper Strips, 16 Oz, Pack Of 6 $24.55 Was $36.96" [ref=e1350] [cursor=pointer]:
+                          - /url: /ip/Mezzetta-Roasted-Bell-Pepper-Strips-16-Oz-Pack-Of-6/1407106084?classType=REGULAR&from=/search
+                          - heading "Mezzetta Roasted Bell Pepper Strips, 16 Oz, Pack Of 6 $24.55 Was $36.96" [level=3] [ref=e1352]
+                        - generic [ref=e1353]:
+                          - generic [ref=e1356]:
+                            - button "Add to Favorites list, Mezzetta Roasted Bell Pepper Strips, 16 Oz, Pack Of 6" [ref=e1357]:
+                              - generic [ref=e1358]: 
+                            - img "Mezzetta Roasted Bell Pepper Strips, 16 Oz, Pack Of 6"
+                          - button "Add to cart - Mezzetta Roasted Bell Pepper Strips, 16 Oz, Pack Of 6" [ref=e1362] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1363]: 
+                            - generic [ref=e1364]: Add
+                          - generic [ref=e1365]:
+                            - generic [ref=e1367]:
+                              - generic [ref=e1368]: Now$2455
+                              - generic [ref=e1369]: current price Now $24.55, Was $36.96
+                              - generic [ref=e1370]: $36.96
+                              - generic [ref=e1371]: +$9.98 shipping
+                            - heading "Mezzetta Roasted Bell Pepper Strips, 16 Oz, Pack Of 6" [level=3] [ref=e1373]
+                            - generic [ref=e1374]:
+                              - generic [ref=e1375]:
+                                - img [ref=e1376]
+                                - img [ref=e1378]
+                                - img [ref=e1380]
+                                - img [ref=e1382]
+                                - img [ref=e1384]
+                              - generic [ref=e1386]: "1"
+                              - generic [ref=e1387]: 5 out of 5 Stars. 1 reviews
+                            - generic [ref=e1392]: Shipping arrives in 3+ days
+                      - group [ref=e1396]:
+                        - link "(3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar - CA Only $15.63 32.6 ¢/fl oz" [ref=e1397] [cursor=pointer]:
+                          - /url: /ip/3-pack-Mezzetta-Roasted-Red-Bell-Peppers-16-oz-Jar-CA-Only/15352150360?classType=REGULAR&from=/search
+                          - heading "(3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar - CA Only $15.63 32.6 ¢/fl oz" [level=3] [ref=e1399]
+                        - generic [ref=e1400]:
+                          - generic [ref=e1403]:
+                            - button "Add to Favorites list, (3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar - CA Only" [ref=e1404]:
+                              - generic [ref=e1405]: 
+                            - img "(3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar - CA Only"
+                          - button "Add to cart - (3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar - CA Only" [ref=e1409] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1410]: 
+                            - generic [ref=e1411]: Add
+                          - generic [ref=e1412]:
+                            - generic [ref=e1414]:
+                              - generic [ref=e1415]: $1563
+                              - generic [ref=e1416]: current price $15.63
+                              - generic [ref=e1417]: 32.6 ¢/fl oz
+                            - heading "(3 pack) Mezzetta Roasted Red Bell Peppers, 16 oz Jar - CA Only" [level=3] [ref=e1419]
+                            - generic [ref=e1420]:
+                              - generic [ref=e1421]:
+                                - img [ref=e1422]
+                                - img [ref=e1424]
+                                - img [ref=e1426]
+                                - img [ref=e1428]
+                                - img [ref=e1430]
+                              - generic [ref=e1433]: "59"
+                              - generic [ref=e1434]: 4.5 out of 5 Stars. 59 reviews
+                            - generic [ref=e1438]:
+                              - img "WalmartPlus icon" [ref=e1439]
+                              - generic [ref=e1440]: Free shipping, arrives Thu, Feb 19
+                      - group [ref=e1444]:
+                        - link "Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case of 6 - 12 oz. $54.82" [ref=e1445] [cursor=pointer]:
+                          - /url: /ip/Jeff-s-Natural-Jeff-s-Natural-Bell-Pepper-Strip-Bell-Pepper-Strips-Case-of-6-12-oz/2392794298?classType=VARIANT&from=/search
+                          - heading "Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case of 6 - 12 oz. $54.82" [level=3] [ref=e1447]
+                        - generic [ref=e1448]:
+                          - generic [ref=e1451]:
+                            - button "Add to Favorites list, Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case of 6 - 12 oz." [ref=e1452]:
+                              - generic [ref=e1453]: 
+                            - img "Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case of 6 - 12 oz."
+                          - button "Add to cart - Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case of 6 - 12 oz." [ref=e1457] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1458]: 
+                            - generic [ref=e1459]: Add
+                          - generic [ref=e1460]:
+                            - generic [ref=e1462]:
+                              - generic [ref=e1463]: $5482
+                              - generic [ref=e1464]: current price $54.82
+                            - heading "Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case of 6 - 12 oz." [level=3] [ref=e1466]
+                            - generic [ref=e1471]: Free shipping, arrives in 3+ days
+                      - group [ref=e1475]:
+                        - link "Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case Of 6 - 12 Oz. $40.89" [ref=e1476] [cursor=pointer]:
+                          - /url: /ip/Jeff-s-Natural-Jeff-s-Natural-Bell-Pepper-Strip-Bell-Pepper-Strips-Case-Of-6-12-Oz/325105204?classType=REGULAR&from=/search
+                          - heading "Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case Of 6 - 12 Oz. $40.89" [level=3] [ref=e1478]
+                        - generic [ref=e1479]:
+                          - generic [ref=e1482]:
+                            - button "Add to Favorites list, Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case Of 6 - 12 Oz." [ref=e1483]:
+                              - generic [ref=e1484]: 
+                            - img "Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case Of 6 - 12 Oz."
+                          - button "Add to cart - Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case Of 6 - 12 Oz." [ref=e1488] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1489]: 
+                            - generic [ref=e1490]: Add
+                          - generic [ref=e1491]:
+                            - generic [ref=e1493]:
+                              - generic [ref=e1494]: $4089
+                              - generic [ref=e1495]: current price $40.89
+                            - heading "Jeff's Natural Jeff's Natural Bell Pepper Strip - Bell Pepper Strips - Case Of 6 - 12 Oz." [level=3] [ref=e1497]
+                            - generic [ref=e1502]: Free shipping, arrives in 3+ days
+                      - group [ref=e1506]:
+                        - link "Dried Green Bell Peppers by It's Delish, 10 lbs $112.00" [ref=e1507] [cursor=pointer]:
+                          - /url: /ip/Dried-Green-Bell-Peppers-by-It-s-Delish-10-lbs/178119857?classType=VARIANT&from=/search
+                          - heading "Dried Green Bell Peppers by It's Delish, 10 lbs $112.00" [level=3] [ref=e1509]
+                        - generic [ref=e1510]:
+                          - generic [ref=e1513]:
+                            - button "Add to Favorites list, Dried Green Bell Peppers by It's Delish, 10 lbs" [ref=e1514]:
+                              - generic [ref=e1515]: 
+                            - img "Dried Green Bell Peppers by It's Delish, 10 lbs"
+                          - button "Add to cart - Dried Green Bell Peppers by It's Delish, 10 lbs" [ref=e1519] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1520]: 
+                            - generic [ref=e1521]: Add
+                          - generic [ref=e1522]:
+                            - generic [ref=e1524]:
+                              - generic [ref=e1525]: $11200
+                              - generic [ref=e1526]: current price $112.00
+                            - heading "Dried Green Bell Peppers by It's Delish, 10 lbs" [level=3] [ref=e1528]
+                            - generic [ref=e1529]:
+                              - generic [ref=e1530]:
+                                - img [ref=e1531]
+                                - img [ref=e1533]
+                                - img [ref=e1535]
+                                - img [ref=e1537]
+                                - img [ref=e1539]
+                              - generic [ref=e1541]: "17"
+                              - generic [ref=e1542]: 4.2 out of 5 Stars. 17 reviews
+                            - generic [ref=e1547]: Free shipping, arrives in 3+ days
+                      - group [ref=e1551]:
+                        - link "Dried Green Bell Peppers by Its Delish, 8 oz. $11.99" [ref=e1552] [cursor=pointer]:
+                          - /url: /ip/Dried-Green-Bell-Peppers-by-Its-Delish-8-oz/804750748?classType=VARIANT&from=/search
+                          - heading "Dried Green Bell Peppers by Its Delish, 8 oz. $11.99" [level=3] [ref=e1554]
+                        - generic [ref=e1555]:
+                          - generic [ref=e1558]:
+                            - button "Add to Favorites list, Dried Green Bell Peppers by Its Delish, 8 oz." [ref=e1559]:
+                              - generic [ref=e1560]: 
+                            - img "Dried Green Bell Peppers by Its Delish, 8 oz."
+                          - button "Add to cart - Dried Green Bell Peppers by Its Delish, 8 oz." [ref=e1564] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1565]: 
+                            - generic [ref=e1566]: Add
+                          - generic [ref=e1567]:
+                            - generic [ref=e1569]:
+                              - generic [ref=e1570]: $1199
+                              - generic [ref=e1571]: current price $11.99
+                            - heading "Dried Green Bell Peppers by Its Delish, 8 oz." [level=3] [ref=e1573]
+                            - generic [ref=e1574]:
+                              - generic [ref=e1575]:
+                                - img [ref=e1576]
+                                - img [ref=e1578]
+                                - img [ref=e1580]
+                                - img [ref=e1582]
+                                - img [ref=e1584]
+                              - generic [ref=e1586]: "17"
+                              - generic [ref=e1587]: 4.2 out of 5 Stars. 17 reviews
+                            - generic [ref=e1592]: Free shipping, arrives in 3+ days
+                      - group [ref=e1596]:
+                        - link "Birch & Meadow Diced Green Bell Pepper, 15.2 oz, Cut & Dried, Soups & Chilis, Fresh Taste $19.99" [ref=e1597] [cursor=pointer]:
+                          - /url: /ip/Birch-Meadow-Diced-Green-Bell-Pepper-15-2-oz-Cut-Dried-Soups-Chilis-Fresh-Taste/17032008420?classType=REGULAR&from=/search
+                          - heading "Birch & Meadow Diced Green Bell Pepper, 15.2 oz, Cut & Dried, Soups & Chilis, Fresh Taste $19.99" [level=3] [ref=e1599]
+                        - generic [ref=e1600]:
+                          - generic [ref=e1603]:
+                            - button "Add to Favorites list, Birch & Meadow Diced Green Bell Pepper, 15.2 oz, Cut & Dried, Soups & Chilis, Fresh Taste" [ref=e1604]:
+                              - generic [ref=e1605]: 
+                            - img "Birch & Meadow Diced Green Bell Pepper, 15.2 oz, Cut & Dried, Soups & Chilis, Fresh Taste"
+                          - button "Add to cart - Birch & Meadow Diced Green Bell Pepper, 15.2 oz, Cut & Dried, Soups & Chilis, Fresh Taste" [ref=e1609] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1610]: 
+                            - generic [ref=e1611]: Add
+                          - generic [ref=e1612]:
+                            - generic [ref=e1614]:
+                              - generic [ref=e1615]: $1999
+                              - generic [ref=e1616]: current price $19.99
+                            - heading "Birch & Meadow Diced Green Bell Pepper, 15.2 oz, Cut & Dried, Soups & Chilis, Fresh Taste" [level=3] [ref=e1618]
+                            - generic [ref=e1619]:
+                              - generic [ref=e1620]:
+                                - img [ref=e1621]
+                                - img [ref=e1623]
+                                - img [ref=e1625]
+                                - img [ref=e1627]
+                                - img [ref=e1629]
+                              - generic [ref=e1631]: "8"
+                              - generic [ref=e1632]: 4 out of 5 Stars. 8 reviews
+                            - generic [ref=e1637]: Free shipping, arrives in 3+ days
+                      - group [ref=e1641]:
+                        - link "Dried Red and Green Bell Peppers Mix by It's Delish, 3 Oz. Medium Jar $12.99" [ref=e1642] [cursor=pointer]:
+                          - /url: /ip/Dried-Red-and-Green-Bell-Peppers-Mix-by-It-s-Delish-3-Oz-Medium-Jar/277244763?classType=VARIANT&from=/search
+                          - heading "Dried Red and Green Bell Peppers Mix by It's Delish, 3 Oz. Medium Jar $12.99" [level=3] [ref=e1644]
+                        - generic [ref=e1645]:
+                          - generic [ref=e1648]:
+                            - button "Add to Favorites list, Dried Red and Green Bell Peppers Mix by It's Delish, 3 Oz. Medium Jar" [ref=e1649]:
+                              - generic [ref=e1650]: 
+                            - img "Dried Red and Green Bell Peppers Mix by It's Delish, 3 Oz. Medium Jar"
+                          - button "Add to cart - Dried Red and Green Bell Peppers Mix by It's Delish, 3 Oz. Medium Jar" [ref=e1654] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1655]: 
+                            - generic [ref=e1656]: Add
+                          - generic [ref=e1657]:
+                            - generic [ref=e1659]:
+                              - generic [ref=e1660]: $1299
+                              - generic [ref=e1661]: current price $12.99
+                            - heading "Dried Red and Green Bell Peppers Mix by It's Delish, 3 Oz. Medium Jar" [level=3] [ref=e1663]
+                            - generic [ref=e1664]:
+                              - generic [ref=e1665]:
+                                - img [ref=e1666]
+                                - img [ref=e1668]
+                                - img [ref=e1670]
+                                - img [ref=e1672]
+                                - img [ref=e1674]
+                              - generic [ref=e1677]: "92"
+                              - generic [ref=e1678]: 4.6 out of 5 Stars. 92 reviews
+                            - generic [ref=e1682]:
+                              - img "WalmartPlus icon" [ref=e1683]
+                              - generic [ref=e1684]: Free shipping, arrives Thu, Feb 19
+                      - group [ref=e1688]:
+                        - link "Mezzetta Roasted Bell Pepper Strips 16 oz (Pack Of 6) $46.99" [ref=e1689] [cursor=pointer]:
+                          - /url: /ip/Mezzetta-Roasted-Bell-Pepper-Strips-16-oz-Pack-Of-6/9741809532?classType=VARIANT&from=/search
+                          - heading "Mezzetta Roasted Bell Pepper Strips 16 oz (Pack Of 6) $46.99" [level=3] [ref=e1691]
+                        - generic [ref=e1692]:
+                          - generic [ref=e1695]:
+                            - button "Add to Favorites list, Mezzetta Roasted Bell Pepper Strips 16 oz (Pack Of 6)" [ref=e1696]:
+                              - generic [ref=e1697]: 
+                            - img "Mezzetta Roasted Bell Pepper Strips 16 oz (Pack Of 6)"
+                          - button "Add to cart - Mezzetta Roasted Bell Pepper Strips 16 oz (Pack Of 6)" [ref=e1701] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1702]: 
+                            - generic [ref=e1703]: Add
+                          - generic [ref=e1704]:
+                            - generic [ref=e1706]:
+                              - generic [ref=e1707]: $4699
+                              - generic [ref=e1708]: current price $46.99
+                            - heading "Mezzetta Roasted Bell Pepper Strips 16 oz (Pack Of 6)" [level=3] [ref=e1710]
+                            - generic [ref=e1715]: Free shipping, arrives in 3+ days
+                      - group [ref=e1719]:
+                        - link "Dehydrated Dried Red and Green Bell Peppers Mix by It's Delish - 48 Oz 3 lbs Restaurant Gallon Size Jug With handle - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning $68.99" [ref=e1720] [cursor=pointer]:
+                          - /url: /ip/Dehydrated-Dried-Red-Green-Bell-Peppers-Mix-Delish-48-Oz-3-lbs-Restaurant-Gallon-Size-Jug-handle-Sealed-Maintain-Freshness-Chopped-Dried-Vegetable-Sp/422153972?classType=REGULAR&from=/search
+                          - heading "Dehydrated Dried Red and Green Bell Peppers Mix by It's Delish - 48 Oz 3 lbs Restaurant Gallon Size Jug With handle - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning $68.99" [level=3] [ref=e1722]
+                        - generic [ref=e1723]:
+                          - generic [ref=e1726]:
+                            - button "Add to Favorites list, Dehydrated Dried Red and Green Bell Peppers Mix by It's Delish - 48 Oz 3 lbs Restaurant Gallon Size Jug With handle - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [ref=e1727]:
+                              - generic [ref=e1728]: 
+                            - img "Dehydrated Dried Red and Green Bell Peppers Mix by It's Delish - 48 Oz 3 lbs Restaurant Gallon Size Jug With handle - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning"
+                          - button "Add to cart - Dehydrated Dried Red and Green Bell Peppers Mix by It's Delish - 48 Oz 3 lbs Restaurant Gallon Size Jug With handle - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [ref=e1732] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1733]: 
+                            - generic [ref=e1734]: Add
+                          - generic [ref=e1735]:
+                            - generic [ref=e1737]:
+                              - generic [ref=e1738]: $6899
+                              - generic [ref=e1739]: current price $68.99
+                            - heading "Dehydrated Dried Red and Green Bell Peppers Mix by It's Delish - 48 Oz 3 lbs Restaurant Gallon Size Jug With handle - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [level=3] [ref=e1741]
+                            - generic [ref=e1742]:
+                              - generic [ref=e1743]:
+                                - img [ref=e1744]
+                                - img [ref=e1746]
+                                - img [ref=e1748]
+                                - img [ref=e1750]
+                                - img [ref=e1752]
+                              - generic [ref=e1754]: "2"
+                              - generic [ref=e1755]: 3 out of 5 Stars. 2 reviews
+                            - generic [ref=e1760]: Free shipping, arrives in 3+ days
+                      - group [ref=e1764]:
+                        - link "Mezzetta Mild California Roasted Red Bell Peppers Fresh Pack, 10 oz Pack Of 12 $30.66" [ref=e1765] [cursor=pointer]:
+                          - /url: /ip/Mezzetta-Mild-California-Roasted-Red-Bell-Peppers-Fresh-Pack-10-oz-Pack-Of-12/1482738540?classType=REGULAR&from=/search
+                          - heading "Mezzetta Mild California Roasted Red Bell Peppers Fresh Pack, 10 oz Pack Of 12 $30.66" [level=3] [ref=e1767]
+                        - generic [ref=e1768]:
+                          - generic [ref=e1771]:
+                            - button "Add to Favorites list, Mezzetta Mild California Roasted Red Bell Peppers Fresh Pack, 10 oz Pack Of 12" [ref=e1772]:
+                              - generic [ref=e1773]: 
+                            - img "Mezzetta Mild California Roasted Red Bell Peppers Fresh Pack, 10 oz Pack Of 12"
+                          - button "Add to cart - Mezzetta Mild California Roasted Red Bell Peppers Fresh Pack, 10 oz Pack Of 12" [ref=e1777] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1778]: 
+                            - generic [ref=e1779]: Add
+                          - generic [ref=e1780]:
+                            - generic [ref=e1782]:
+                              - generic [ref=e1783]: $3066
+                              - generic [ref=e1784]: current price $30.66
+                              - generic [ref=e1785]: +$15.65 shipping
+                            - heading "Mezzetta Mild California Roasted Red Bell Peppers Fresh Pack, 10 oz Pack Of 12" [level=3] [ref=e1787]
+                            - generic [ref=e1792]: Shipping arrives in 3+ days
+                      - group [ref=e1796]:
+                        - link "Dehydrated Dried Green Bell Pepper by It's Delish - 12 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning $34.99" [ref=e1797] [cursor=pointer]:
+                          - /url: /ip/Dehydrated-Dried-Green-Bell-Pepper-by-It-s-Delish-12-oz-Jumbo-Reusable-Container-Spice-Seasoning/506381936?classType=REGULAR&from=/search
+                          - heading "Dehydrated Dried Green Bell Pepper by It's Delish - 12 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning $34.99" [level=3] [ref=e1799]
+                        - generic [ref=e1800]:
+                          - generic [ref=e1803]:
+                            - button "Add to Favorites list, Dehydrated Dried Green Bell Pepper by It's Delish - 12 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [ref=e1804]:
+                              - generic [ref=e1805]: 
+                            - img "Dehydrated Dried Green Bell Pepper by It's Delish - 12 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning"
+                          - button "Add to cart - Dehydrated Dried Green Bell Pepper by It's Delish - 12 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [ref=e1809] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1810]: 
+                            - generic [ref=e1811]: Add
+                          - button "Subscribe Dehydrated Dried Green Bell Pepper by It's Delish - 12 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [ref=e1815] [cursor=pointer]:
+                            - generic [ref=e1818]: 
+                            - text: Subscribe
+                          - generic [ref=e1819]:
+                            - generic [ref=e1821]:
+                              - generic [ref=e1822]: $3499
+                              - generic [ref=e1823]: current price $34.99
+                              - generic [ref=e1824]: $33.24 when subscribed
+                            - heading "Dehydrated Dried Green Bell Pepper by It's Delish - 12 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [level=3] [ref=e1826]
+                            - generic [ref=e1827]:
+                              - generic [ref=e1828]:
+                                - img [ref=e1829]
+                                - img [ref=e1831]
+                                - img [ref=e1833]
+                                - img [ref=e1835]
+                                - img [ref=e1837]
+                              - generic [ref=e1839]: "8"
+                              - generic [ref=e1840]: 3.8 out of 5 Stars. 8 reviews
+                            - generic [ref=e1845]: Free shipping, arrives in 3+ days
+                      - group [ref=e1849]:
+                        - link "Dried Bell Pepper 3oz. Product of Nigeria $17.99" [ref=e1850] [cursor=pointer]:
+                          - /url: /ip/Dried-Bell-Pepper-3oz-Product-of-Nigeria/5269958615?classType=REGULAR&from=/search
+                          - heading "Dried Bell Pepper 3oz. Product of Nigeria $17.99" [level=3] [ref=e1852]
+                        - generic [ref=e1853]:
+                          - generic [ref=e1856]:
+                            - button "Add to Favorites list, Dried Bell Pepper 3oz. Product of Nigeria" [ref=e1857]:
+                              - generic [ref=e1858]: 
+                            - img "Dried Bell Pepper 3oz. Product of Nigeria"
+                          - button "Add to cart - Dried Bell Pepper 3oz. Product of Nigeria" [ref=e1862] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1863]: 
+                            - generic [ref=e1864]: Add
+                          - generic [ref=e1865]:
+                            - generic [ref=e1867]:
+                              - generic [ref=e1868]: $1799
+                              - generic [ref=e1869]: current price $17.99
+                            - heading "Dried Bell Pepper 3oz. Product of Nigeria" [level=3] [ref=e1871]
+                            - generic [ref=e1876]: Free shipping, arrives in 3+ days
+                      - group [ref=e1880]:
+                        - link "Mezzetta RSTD Red Bell Peppers - Pack of 6 - 16 OZ $27.20" [ref=e1881] [cursor=pointer]:
+                          - /url: /ip/Mezzetta-RSTD-Red-Bell-Peppers-Pack-of-6-16-OZ/2461416272?classType=REGULAR&from=/search
+                          - heading "Mezzetta RSTD Red Bell Peppers - Pack of 6 - 16 OZ $27.20" [level=3] [ref=e1883]
+                        - generic [ref=e1884]:
+                          - generic [ref=e1887]:
+                            - button "Add to Favorites list, Mezzetta RSTD Red Bell Peppers - Pack of 6 - 16 OZ" [ref=e1888]:
+                              - generic [ref=e1889]: 
+                            - img "Mezzetta RSTD Red Bell Peppers - Pack of 6 - 16 OZ"
+                          - button "Add to cart - Mezzetta RSTD Red Bell Peppers - Pack of 6 - 16 OZ" [ref=e1893] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1894]: 
+                            - generic [ref=e1895]: Add
+                          - generic [ref=e1896]:
+                            - generic [ref=e1898]:
+                              - generic [ref=e1899]: $2720
+                              - generic [ref=e1900]: current price $27.20
+                              - generic [ref=e1901]: +$9.98 shipping
+                            - heading "Mezzetta RSTD Red Bell Peppers - Pack of 6 - 16 OZ" [level=3] [ref=e1903]
+                            - generic [ref=e1908]: Shipping arrives in 3+ days
+                      - group [ref=e1912]:
+                        - link "PEPPER BELL RED RSTD-16 OZ -Pack of 6 $37.46" [ref=e1913] [cursor=pointer]:
+                          - /url: /ip/PEPPER-BELL-RED-RSTD-16-OZ-Pack-of-6/1495682719?classType=REGULAR&from=/search
+                          - heading "PEPPER BELL RED RSTD-16 OZ -Pack of 6 $37.46" [level=3] [ref=e1915]
+                        - generic [ref=e1916]:
+                          - generic [ref=e1919]:
+                            - button "Add to Favorites list, PEPPER BELL RED RSTD-16 OZ -Pack of 6" [ref=e1920]:
+                              - generic [ref=e1921]: 
+                            - img "PEPPER BELL RED RSTD-16 OZ -Pack of 6"
+                          - button "Add to cart - PEPPER BELL RED RSTD-16 OZ -Pack of 6" [ref=e1925] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1926]: 
+                            - generic [ref=e1927]: Add
+                          - generic [ref=e1928]:
+                            - generic [ref=e1930]:
+                              - generic [ref=e1931]: $3746
+                              - generic [ref=e1932]: current price $37.46
+                            - heading "PEPPER BELL RED RSTD-16 OZ -Pack of 6" [level=3] [ref=e1934]
+                            - generic [ref=e1939]: Free shipping, arrives in 3+ days
+                      - group [ref=e1943]:
+                        - link "Mezzetta Roasted Red Bell Peppers (Pack of 8) $52.08" [ref=e1944] [cursor=pointer]:
+                          - /url: /ip/Mezzetta-Roasted-Red-Bell-Peppers-Pack-of-8/5130013941?classType=REGULAR&from=/search
+                          - heading "Mezzetta Roasted Red Bell Peppers (Pack of 8) $52.08" [level=3] [ref=e1946]
+                        - generic [ref=e1947]:
+                          - generic [ref=e1950]:
+                            - button "Add to Favorites list, Mezzetta Roasted Red Bell Peppers (Pack of 8)" [ref=e1951]:
+                              - generic [ref=e1952]: 
+                            - img "Mezzetta Roasted Red Bell Peppers (Pack of 8)"
+                          - button "Add to cart - Mezzetta Roasted Red Bell Peppers (Pack of 8)" [ref=e1956] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1957]: 
+                            - generic [ref=e1958]: Add
+                          - generic [ref=e1959]:
+                            - generic [ref=e1961]:
+                              - generic [ref=e1962]: $5208
+                              - generic [ref=e1963]: current price $52.08
+                            - heading "Mezzetta Roasted Red Bell Peppers (Pack of 8)" [level=3] [ref=e1965]
+                            - generic [ref=e1970]: Free shipping, arrives in 3+ days
+                      - group [ref=e1974]:
+                        - link "Dried Red Bell Peppers By It's Delish, 5 lbs $64.99" [ref=e1975] [cursor=pointer]:
+                          - /url: /ip/Dried-Red-Bell-Peppers-By-It-s-Delish-5-lbs/161480949?classType=VARIANT&from=/search
+                          - heading "Dried Red Bell Peppers By It's Delish, 5 lbs $64.99" [level=3] [ref=e1977]
+                        - generic [ref=e1978]:
+                          - generic [ref=e1981]:
+                            - button "Add to Favorites list, Dried Red Bell Peppers By It's Delish, 5 lbs" [ref=e1982]:
+                              - generic [ref=e1983]: 
+                            - img "Dried Red Bell Peppers By It's Delish, 5 lbs"
+                          - button "Add to cart - Dried Red Bell Peppers By It's Delish, 5 lbs" [ref=e1987] [cursor=pointer]:
+                            - generic "add to cart" [ref=e1988]: 
+                            - generic [ref=e1989]: Add
+                          - generic [ref=e1990]:
+                            - generic [ref=e1992]:
+                              - generic [ref=e1993]: $6499
+                              - generic [ref=e1994]: current price $64.99
+                            - heading "Dried Red Bell Peppers By It's Delish, 5 lbs" [level=3] [ref=e1996]
+                            - generic [ref=e1997]:
+                              - generic [ref=e1998]:
+                                - img [ref=e1999]
+                                - img [ref=e2001]
+                                - img [ref=e2003]
+                                - img [ref=e2005]
+                                - img [ref=e2007]
+                              - generic [ref=e2010]: "8"
+                              - generic [ref=e2011]: 4.5 out of 5 Stars. 8 reviews
+                            - generic [ref=e2016]: Free shipping, arrives in 3+ days
+                      - group [ref=e2020]:
+                        - link "Dried Red and Green Bell Peppers Mix by It's Delish, 2 lbs $31.99 Was $36.99" [ref=e2021] [cursor=pointer]:
+                          - /url: /ip/Dried-Red-and-Green-Bell-Peppers-Mix-by-It-s-Delish-2-lbs/625962245?classType=VARIANT&from=/search
+                          - heading "Dried Red and Green Bell Peppers Mix by It's Delish, 2 lbs $31.99 Was $36.99" [level=3] [ref=e2023]
+                        - generic [ref=e2024]:
+                          - generic [ref=e2027]:
+                            - button "Add to Favorites list, Dried Red and Green Bell Peppers Mix by It's Delish, 2 lbs" [ref=e2028]:
+                              - generic [ref=e2029]: 
+                            - img "Dried Red and Green Bell Peppers Mix by It's Delish, 2 lbs"
+                          - button "Add to cart - Dried Red and Green Bell Peppers Mix by It's Delish, 2 lbs" [ref=e2033] [cursor=pointer]:
+                            - generic "add to cart" [ref=e2034]: 
+                            - generic [ref=e2035]: Add
+                          - generic [ref=e2036]:
+                            - generic [ref=e2038]:
+                              - generic [ref=e2039]: Now$3199
+                              - generic [ref=e2040]: current price Now $31.99, Was $36.99
+                              - generic [ref=e2041]: $36.99
+                            - heading "Dried Red and Green Bell Peppers Mix by It's Delish, 2 lbs" [level=3] [ref=e2043]
+                            - generic [ref=e2044]:
+                              - generic [ref=e2045]:
+                                - img [ref=e2046]
+                                - img [ref=e2048]
+                                - img [ref=e2050]
+                                - img [ref=e2052]
+                                - img [ref=e2054]
+                              - generic [ref=e2057]: "92"
+                              - generic [ref=e2058]: 4.6 out of 5 Stars. 92 reviews
+                            - generic [ref=e2063]: Free shipping, arrives in 3+ days
+                      - group [ref=e2067]:
+                        - link "Dried Green Bell Peppers by It's Delish, 5 lbs $49.99 Was $58.99" [ref=e2068] [cursor=pointer]:
+                          - /url: /ip/Dried-Green-Bell-Peppers-by-It-s-Delish-5-lbs/160722951?classType=VARIANT&from=/search
+                          - heading "Dried Green Bell Peppers by It's Delish, 5 lbs $49.99 Was $58.99" [level=3] [ref=e2070]
+                        - generic [ref=e2071]:
+                          - generic [ref=e2074]:
+                            - button "Add to Favorites list, Dried Green Bell Peppers by It's Delish, 5 lbs" [ref=e2075]:
+                              - generic [ref=e2076]: 
+                            - img "Dried Green Bell Peppers by It's Delish, 5 lbs"
+                          - button "Add to cart - Dried Green Bell Peppers by It's Delish, 5 lbs" [ref=e2080] [cursor=pointer]:
+                            - generic "add to cart" [ref=e2081]: 
+                            - generic [ref=e2082]: Add
+                          - generic [ref=e2083]:
+                            - generic [ref=e2085]:
+                              - generic [ref=e2086]: Now$4999
+                              - generic [ref=e2087]: current price Now $49.99, Was $58.99
+                              - generic [ref=e2088]: $58.99
+                            - heading "Dried Green Bell Peppers by It's Delish, 5 lbs" [level=3] [ref=e2090]
+                            - generic [ref=e2091]:
+                              - generic [ref=e2092]:
+                                - img [ref=e2093]
+                                - img [ref=e2095]
+                                - img [ref=e2097]
+                                - img [ref=e2099]
+                                - img [ref=e2101]
+                              - generic [ref=e2103]: "17"
+                              - generic [ref=e2104]: 4.2 out of 5 Stars. 17 reviews
+                            - generic [ref=e2109]: Free shipping, arrives in 3+ days
+                      - group [ref=e2113]:
+                        - link "Dehydrated Dried Red Bell Pepper by It's Delish - 18 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning $38.99" [ref=e2114] [cursor=pointer]:
+                          - /url: /ip/Dehydrated-Dried-Red-Bell-Pepper-Delish-18-Oz-Jumbo-Reusable-Container-Sealed-Maintain-Freshness-Chopped-Dried-Vegetable-Spice-Seasoning/345028139?classType=REGULAR&from=/search
+                          - heading "Dehydrated Dried Red Bell Pepper by It's Delish - 18 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning $38.99" [level=3] [ref=e2116]
+                        - generic [ref=e2117]:
+                          - generic [ref=e2120]:
+                            - button "Add to Favorites list, Dehydrated Dried Red Bell Pepper by It's Delish - 18 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [ref=e2121]:
+                              - generic [ref=e2122]: 
+                            - img "Dehydrated Dried Red Bell Pepper by It's Delish - 18 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning"
+                          - button "Add to cart - Dehydrated Dried Red Bell Pepper by It's Delish - 18 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [ref=e2126] [cursor=pointer]:
+                            - generic "add to cart" [ref=e2127]: 
+                            - generic [ref=e2128]: Add
+                          - button "Subscribe Dehydrated Dried Red Bell Pepper by It's Delish - 18 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [ref=e2132] [cursor=pointer]:
+                            - generic [ref=e2135]: 
+                            - text: Subscribe
+                          - generic [ref=e2136]:
+                            - generic [ref=e2138]:
+                              - generic [ref=e2139]: $3899
+                              - generic [ref=e2140]: current price $38.99
+                              - generic [ref=e2141]: $33.14 when subscribed
+                            - heading "Dehydrated Dried Red Bell Pepper by It's Delish - 18 Oz Jumbo Reusable Container - Sealed to Maintain Freshness - Chopped & Dried Vegetable Spice Seasoning" [level=3] [ref=e2143]
+                            - generic [ref=e2144]:
+                              - generic [ref=e2145]:
+                                - img [ref=e2146]
+                                - img [ref=e2148]
+                                - img [ref=e2150]
+                                - img [ref=e2152]
+                                - img [ref=e2154]
+                              - generic [ref=e2156]: "4"
+                              - generic [ref=e2157]: 5 out of 5 Stars. 4 reviews
+                            - generic [ref=e2162]: Free shipping, arrives in 3+ days
+                      - group [ref=e2166]:
+                        - link "Diced 1/4\" Red Bell Pepper, 5 Lb Bag $51.99" [ref=e2167] [cursor=pointer]:
+                          - /url: /ip/Diced-1-4-Red-Bell-Pepper-5-Lb-Bag/731527057?classType=REGULAR&from=/search
+                          - heading "Diced 1/4\" Red Bell Pepper, 5 Lb Bag $51.99" [level=3] [ref=e2169]
+                        - generic [ref=e2170]:
+                          - generic [ref=e2173]:
+                            - button "Add to Favorites list, Diced 1/4\" Red Bell Pepper, 5 Lb Bag" [ref=e2174]:
+                              - generic [ref=e2175]: 
+                            - img "Diced 1/4\" Red Bell Pepper, 5 Lb Bag"
+                          - button "Add to cart - Diced 1/4\" Red Bell Pepper, 5 Lb Bag" [ref=e2179] [cursor=pointer]:
+                            - generic "add to cart" [ref=e2180]: 
+                            - generic [ref=e2181]: Add
+                          - generic [ref=e2182]:
+                            - generic [ref=e2184]:
+                              - generic [ref=e2185]: $5199
+                              - generic [ref=e2186]: current price $51.99
+                            - heading "Diced 1/4\" Red Bell Pepper, 5 Lb Bag" [level=3] [ref=e2188]
+                            - generic [ref=e2189]:
+                              - generic [ref=e2190]:
+                                - img [ref=e2191]
+                                - img [ref=e2193]
+                                - img [ref=e2195]
+                                - img [ref=e2197]
+                                - img [ref=e2200]
+                              - generic [ref=e2202]: "3"
+                              - generic [ref=e2203]: 3.7 out of 5 Stars. 3 reviews
+                            - generic [ref=e2208]: Free shipping, arrives in 3+ days
+                      - generic [ref=e2211]:
+                        - group [ref=e2212]:
+                          - link "Mezzetta Roasted Red Bell Peppers (Pack of 4) $32.56" [ref=e2213] [cursor=pointer]:
+                            - /url: /ip/Mezzetta-Roasted-Red-Bell-Peppers-Pack-of-4/5133501776?classType=REGULAR&from=/search
+                            - heading "Mezzetta Roasted Red Bell Peppers (Pack of 4) $32.56" [level=3] [ref=e2215]
+                          - generic [ref=e2216]:
+                            - generic [ref=e2219]:
+                              - button "Add to Favorites list, Mezzetta Roasted Red Bell Peppers (Pack of 4)" [ref=e2220]:
+                                - generic [ref=e2221]: 
+                              - img "Mezzetta Roasted Red Bell Peppers (Pack of 4)"
+                            - generic [ref=e2222]:
+                              - generic [ref=e2224]:
+                                - generic [ref=e2225]: $3256
+                                - generic [ref=e2226]: current price $32.56
+                              - heading "Mezzetta Roasted Red Bell Peppers (Pack of 4)" [level=3] [ref=e2228]
+                              - generic [ref=e2232]: Out of stock
+                        - button "Shop similar - Mezzetta Roasted Red Bell Peppers (Pack of 4)" [ref=e2234]: Shop similar
+                      - generic [ref=e2236]:
+                        - group [ref=e2237]:
+                          - link "Mezzetta Roasted Red Bell Peppers (Pack of 20) $105.06 Was $117.01" [ref=e2238] [cursor=pointer]:
+                            - /url: /ip/Mezzetta-Roasted-Red-Bell-Peppers-Pack-of-20/5132205013?classType=REGULAR&from=/search
+                            - heading "Mezzetta Roasted Red Bell Peppers (Pack of 20) $105.06 Was $117.01" [level=3] [ref=e2240]
+                          - generic [ref=e2241]:
+                            - generic [ref=e2244]:
+                              - button "Add to Favorites list, Mezzetta Roasted Red Bell Peppers (Pack of 20)" [ref=e2245]:
+                                - generic [ref=e2246]: 
+                              - img "Mezzetta Roasted Red Bell Peppers (Pack of 20)"
+                            - generic [ref=e2247]:
+                              - generic [ref=e2249]:
+                                - generic [ref=e2250]: $10506
+                                - generic [ref=e2251]: current price $105.06, Was $117.01
+                                - generic [ref=e2252]: $117.01
+                              - heading "Mezzetta Roasted Red Bell Peppers (Pack of 20)" [level=3] [ref=e2254]
+                              - generic [ref=e2258]: Out of stock
+                        - button "Shop similar - Mezzetta Roasted Red Bell Peppers (Pack of 20)" [ref=e2260]: Shop similar
+                  - generic [ref=e2262]:
+                    - generic [ref=e2265]:
+                      - heading "Inspired by your shopping (9)" [level=2] [ref=e2272]: Inspired by your shopping(9)
+                      - generic [ref=e2273]:
+                        - text: 
+                        - list [ref=e2274]:
+                          - listitem [ref=e2275]:
+                            - group [ref=e2276]:
+                              - link "Bought 5+ times Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound $0.41 $1.62/lb" [ref=e2277] [cursor=pointer]:
+                                - /url: /ip/Fresh-Jalapeno-Pepper-Approx-3-5-per-0-25-Pound/44391018?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 5+ times Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound $0.41 $1.62/lb" [level=3] [ref=e2279]
+                              - generic [ref=e2280]:
+                                - generic [ref=e2281]:
+                                  - group [ref=e2284]:
+                                    - generic [ref=e2285]: Bought 5+ times
+                                  - generic [ref=e2286]:
+                                    - button "Add to Favorites list, Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound" [ref=e2287]:
+                                      - generic [ref=e2288]: 
+                                    - img "Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound"
+                                - button "Add to cart - Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound" [ref=e2292] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e2293]: 
+                                  - generic [ref=e2294]: Add
+                                - generic [ref=e2295]:
+                                  - generic [ref=e2297]:
+                                    - generic [ref=e2298]: $041
+                                    - generic [ref=e2299]: current price $0.41
+                                    - generic [ref=e2301]: / 0.25lb
+                                    - generic [ref=e2302]: $1.62/lb
+                                    - generic [ref=e2303]: Final cost by weight
+                                    - generic [ref=e2304]: $0.39 when subscribed
+                                  - generic [ref=e2306]: Fresh Jalapeno Pepper, Approx. 3-5 per 0.25 Pound
+                                  - generic [ref=e2307]:
+                                    - generic [ref=e2308]:
+                                      - img [ref=e2309]
+                                      - img [ref=e2311]
+                                      - img [ref=e2313]
+                                      - img [ref=e2315]
+                                      - img [ref=e2318]
+                                    - generic [ref=e2320]: "12101"
+                                    - generic [ref=e2321]: 3.7 out of 5 Stars. 12101 reviews
+                                  - generic [ref=e2323]:
+                                    - generic [ref=e2324]:
+                                      - generic [ref=e2326]: Delivery as soon as 24 mins
+                                      - generic [ref=e2328]: Pickup as soon as 7pm
+                                    - generic [ref=e2330]:
+                                      - generic [ref=e2332]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e2333]:
+                            - group [ref=e2334]:
+                              - link "Bought 5 times Fresh Green Onions Bunch, Each $0.98" [ref=e2335] [cursor=pointer]:
+                                - /url: /ip/Fresh-Green-Onions-Bunch-Each/51259361?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 5 times Fresh Green Onions Bunch, Each $0.98" [level=3] [ref=e2337]
+                              - generic [ref=e2338]:
+                                - generic [ref=e2339]:
+                                  - group [ref=e2342]:
+                                    - generic [ref=e2343]: Bought 5 times
+                                  - generic [ref=e2344]:
+                                    - button "Add to Favorites list, Fresh Green Onions Bunch, Each" [ref=e2345]:
+                                      - generic [ref=e2346]: 
+                                    - img "Fresh Green Onions Bunch, Each"
+                                - button "Add to cart - Fresh Green Onions Bunch, Each" [ref=e2350] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e2351]: 
+                                  - generic [ref=e2352]: Add
+                                - generic [ref=e2353]:
+                                  - generic [ref=e2355]:
+                                    - generic [ref=e2356]: $098
+                                    - generic [ref=e2357]: current price $0.98
+                                    - generic [ref=e2358]: $0.93 when subscribed
+                                  - generic [ref=e2360]: Fresh Green Onions Bunch, Each
+                                  - generic [ref=e2361]:
+                                    - generic [ref=e2362]:
+                                      - img [ref=e2363]
+                                      - img [ref=e2365]
+                                      - img [ref=e2367]
+                                      - img [ref=e2369]
+                                      - img [ref=e2371]
+                                    - generic [ref=e2373]: "32143"
+                                    - generic [ref=e2374]: 4.1 out of 5 Stars. 32143 reviews
+                                  - generic [ref=e2376]:
+                                    - generic [ref=e2377]:
+                                      - generic [ref=e2379]: Delivery as soon as 24 mins
+                                      - generic [ref=e2381]: Pickup as soon as 7pm
+                                    - generic [ref=e2383]:
+                                      - generic [ref=e2385]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e2386]:
+                            - group [ref=e2387]:
+                              - link "Bought 1 time Fresh Produce, Whole Bok Choy, 1 Each $3.57" [ref=e2388] [cursor=pointer]:
+                                - /url: /ip/Fresh-Harvested-Whole-Bok-Choy-Each/44391289?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 1 time Fresh Produce, Whole Bok Choy, 1 Each $3.57" [level=3] [ref=e2390]
+                              - generic [ref=e2391]:
+                                - generic [ref=e2392]:
+                                  - group [ref=e2395]:
+                                    - generic [ref=e2396]: Bought 1 time
+                                  - generic [ref=e2397]:
+                                    - button "Add to Favorites list, Fresh Produce, Whole Bok Choy, 1 Each" [ref=e2398]:
+                                      - generic [ref=e2399]: 
+                                    - img "Fresh Produce, Whole Bok Choy, 1 Each"
+                                - button "Add to cart - Fresh Produce, Whole Bok Choy, 1 Each" [ref=e2403] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e2404]: 
+                                  - generic [ref=e2405]: Add
+                                - generic [ref=e2406]:
+                                  - generic [ref=e2408]:
+                                    - generic [ref=e2409]: $357
+                                    - generic [ref=e2410]: current price $3.57
+                                    - generic [ref=e2411]: $3.39 when subscribed
+                                  - generic [ref=e2413]: Fresh Produce, Whole Bok Choy, 1 Each
+                                  - generic [ref=e2414]:
+                                    - generic [ref=e2415]:
+                                      - img [ref=e2416]
+                                      - img [ref=e2418]
+                                      - img [ref=e2420]
+                                      - img [ref=e2422]
+                                      - img [ref=e2425]
+                                    - generic [ref=e2427]: "1181"
+                                    - generic [ref=e2428]: 3.5 out of 5 Stars. 1181 reviews
+                                  - generic [ref=e2430]:
+                                    - generic [ref=e2431]:
+                                      - generic [ref=e2433]: Delivery as soon as 24 mins
+                                      - generic [ref=e2435]: Pickup as soon as 7pm
+                                    - generic [ref=e2437]:
+                                      - generic [ref=e2439]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e2440]:
+                            - group [ref=e2441]:
+                              - link "Bought 4 times Garlic Bulb Fresh Whole, Each $0.64" [ref=e2442] [cursor=pointer]:
+                                - /url: /ip/Garlic-Bulb-Fresh-Whole-Each/44391100?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 4 times Garlic Bulb Fresh Whole, Each $0.64" [level=3] [ref=e2444]
+                              - generic [ref=e2445]:
+                                - generic [ref=e2446]:
+                                  - group [ref=e2449]:
+                                    - generic [ref=e2450]: Bought 4 times
+                                  - generic [ref=e2451]:
+                                    - button "Add to Favorites list, Garlic Bulb Fresh Whole, Each" [ref=e2452]:
+                                      - generic [ref=e2453]: 
+                                    - img "Garlic Bulb Fresh Whole, Each"
+                                - button "Add to cart - Garlic Bulb Fresh Whole, Each" [ref=e2457] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e2458]: 
+                                  - generic [ref=e2459]: Add
+                                - generic [ref=e2460]:
+                                  - generic [ref=e2462]:
+                                    - generic [ref=e2463]: $064
+                                    - generic [ref=e2464]: current price $0.64
+                                    - generic [ref=e2465]: $0.61 when subscribed
+                                  - generic [ref=e2467]: Garlic Bulb Fresh Whole, Each
+                                  - generic [ref=e2468]:
+                                    - generic [ref=e2469]:
+                                      - img [ref=e2470]
+                                      - img [ref=e2472]
+                                      - img [ref=e2474]
+                                      - img [ref=e2476]
+                                      - img [ref=e2478]
+                                    - generic [ref=e2480]: "10357"
+                                    - generic [ref=e2481]: 4.1 out of 5 Stars. 10357 reviews
+                                  - generic [ref=e2483]:
+                                    - generic [ref=e2484]:
+                                      - generic [ref=e2486]: Delivery as soon as 24 mins
+                                      - generic [ref=e2488]: Pickup as soon as 7pm
+                                    - generic [ref=e2490]:
+                                      - generic [ref=e2492]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e2493]:
+                            - group [ref=e2494]:
+                              - link "Bought 1 time Great Value Chili Powder, 3 oz $1.08 36.0 ¢/oz" [ref=e2495] [cursor=pointer]:
+                                - /url: /ip/Great-Value-Chili-Powder-3-oz/157643393?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 1 time Great Value Chili Powder, 3 oz $1.08 36.0 ¢/oz" [level=3] [ref=e2497]
+                              - generic [ref=e2498]:
+                                - generic [ref=e2499]:
+                                  - group [ref=e2502]:
+                                    - generic [ref=e2503]: Bought 1 time
+                                  - generic [ref=e2504]:
+                                    - button "Add to Favorites list, Great Value Chili Powder, 3 oz" [ref=e2505]:
+                                      - generic [ref=e2506]: 
+                                    - img "Great Value Chili Powder, 3 oz"
+                                - button "Add to cart - Great Value Chili Powder, 3 oz" [ref=e2510] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e2511]: 
+                                  - generic [ref=e2512]: Add
+                                - generic [ref=e2513]:
+                                  - generic [ref=e2515]:
+                                    - generic [ref=e2516]: $108
+                                    - generic [ref=e2517]: current price $1.08
+                                    - generic [ref=e2518]: 36.0 ¢/oz
+                                    - generic [ref=e2519]: $1.03 when subscribed
+                                  - generic [ref=e2521]: Great Value Chili Powder, 3 oz
+                                  - generic [ref=e2522]:
+                                    - generic [ref=e2523]:
+                                      - img [ref=e2524]
+                                      - img [ref=e2526]
+                                      - img [ref=e2528]
+                                      - img [ref=e2530]
+                                      - img [ref=e2532]
+                                    - generic [ref=e2535]: "2696"
+                                    - generic [ref=e2536]: 4.7 out of 5 Stars. 2696 reviews
+                                  - generic [ref=e2538]:
+                                    - generic [ref=e2539]:
+                                      - generic [ref=e2541]: Delivery as soon as 24 mins
+                                      - generic [ref=e2543]: Pickup as soon as 7pm
+                                    - generic [ref=e2545]:
+                                      - generic [ref=e2547]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e2548]:
+                            - group [ref=e2549]:
+                              - link "Rollback Fresh Produce, Baby Peeled Carrots, 1lb Bag $1.17 Was $1.37 7.3 ¢/oz" [ref=e2550] [cursor=pointer]:
+                                - /url: /ip/1lb-Baby-Peeled-Carrots/10451315?classType=REGULAR&athbdg=L1300
+                                - heading "Rollback Fresh Produce, Baby Peeled Carrots, 1lb Bag $1.17 Was $1.37 7.3 ¢/oz" [level=3] [ref=e2552]
+                              - generic [ref=e2553]:
+                                - generic [ref=e2554]:
+                                  - group [ref=e2557]:
+                                    - generic [ref=e2558]:
+                                      - img [ref=e2559]: 
+                                      - generic [ref=e2560]: Rollback
+                                  - generic [ref=e2561]:
+                                    - button "Add to Favorites list, Fresh Produce, Baby Peeled Carrots, 1lb Bag" [ref=e2562]:
+                                      - generic [ref=e2563]: 
+                                    - img "Fresh Produce, Baby Peeled Carrots, 1lb Bag"
+                                - button "Add to cart - Fresh Produce, Baby Peeled Carrots, 1lb Bag" [ref=e2567] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e2568]: 
+                                  - generic [ref=e2569]: Add
+                                - generic [ref=e2570]:
+                                  - generic [ref=e2572]:
+                                    - generic [ref=e2573]: Now$117
+                                    - generic [ref=e2574]: current price Now $1.17, Was $1.37
+                                    - generic [ref=e2575]: $1.37
+                                    - generic [ref=e2576]: 7.3 ¢/oz
+                                    - generic [ref=e2577]: $1.11 when subscribed
+                                  - generic [ref=e2579]: Fresh Produce, Baby Peeled Carrots, 1lb Bag
+                                  - generic [ref=e2580]:
+                                    - generic [ref=e2581]:
+                                      - img [ref=e2582]
+                                      - img [ref=e2584]
+                                      - img [ref=e2586]
+                                      - img [ref=e2588]
+                                      - img [ref=e2590]
+                                    - generic [ref=e2593]: "22574"
+                                    - generic [ref=e2594]: 4.6 out of 5 Stars. 22574 reviews
+                                  - generic [ref=e2596]:
+                                    - generic [ref=e2597]:
+                                      - generic [ref=e2599]: Delivery as soon as 24 mins
+                                      - generic [ref=e2601]: Pickup as soon as 7pm
+                                    - generic [ref=e2603]:
+                                      - generic [ref=e2605]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e2606]:
+                            - group [ref=e2607]:
+                              - link "Bought 5 times Fresh Basil, 0.5 oz Clamshell $1.73 $3.46/oz" [ref=e2608] [cursor=pointer]:
+                                - /url: /ip/Fresh-Basil-0-5-oz-Clamshell/3757188318?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 5 times Fresh Basil, 0.5 oz Clamshell $1.73 $3.46/oz" [level=3] [ref=e2610]
+                              - generic [ref=e2611]:
+                                - generic [ref=e2612]:
+                                  - group [ref=e2615]:
+                                    - generic [ref=e2616]: Bought 5 times
+                                  - generic [ref=e2617]:
+                                    - button "Add to Favorites list, Fresh Basil, 0.5 oz Clamshell" [ref=e2618]:
+                                      - generic [ref=e2619]: 
+                                    - img "Fresh Basil, 0.5 oz Clamshell"
+                                - button "Add to cart - Fresh Basil, 0.5 oz Clamshell" [ref=e2623] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e2624]: 
+                                  - generic [ref=e2625]: Add
+                                - generic [ref=e2626]:
+                                  - generic [ref=e2628]:
+                                    - generic [ref=e2629]: $173
+                                    - generic [ref=e2630]: current price $1.73
+                                    - generic [ref=e2631]: $3.46/oz
+                                    - generic [ref=e2632]: $1.64 when subscribed
+                                  - generic [ref=e2634]: Fresh Basil, 0.5 oz Clamshell
+                                  - generic [ref=e2635]:
+                                    - generic [ref=e2636]:
+                                      - img [ref=e2637]
+                                      - img [ref=e2639]
+                                      - img [ref=e2641]
+                                      - img [ref=e2643]
+                                      - img [ref=e2645]
+                                    - generic [ref=e2647]: "1494"
+                                    - generic [ref=e2648]: 3 out of 5 Stars. 1494 reviews
+                                  - generic [ref=e2650]:
+                                    - generic [ref=e2651]:
+                                      - generic [ref=e2653]: Delivery as soon as 24 mins
+                                      - generic [ref=e2655]: Pickup as soon as 7pm
+                                    - generic [ref=e2657]:
+                                      - generic [ref=e2659]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e2660]:
+                            - group [ref=e2661]:
+                              - link "Bought 1 time Great Value Crushed Red Pepper, 1.75 oz $1.44 82.3 ¢/oz" [ref=e2662] [cursor=pointer]:
+                                - /url: /ip/Great-Value-Crushed-Red-Pepper-1-75-oz/217612954?classType=VARIANT&athbdg=L1100
+                                - heading "Bought 1 time Great Value Crushed Red Pepper, 1.75 oz $1.44 82.3 ¢/oz" [level=3] [ref=e2664]
+                              - generic [ref=e2665]:
+                                - generic [ref=e2666]:
+                                  - group [ref=e2669]:
+                                    - generic [ref=e2670]: Bought 1 time
+                                  - generic [ref=e2671]:
+                                    - button "Add to Favorites list, Great Value Crushed Red Pepper, 1.75 oz" [ref=e2672]:
+                                      - generic [ref=e2673]: 
+                                    - img "Great Value Crushed Red Pepper, 1.75 oz"
+                                - button "Add to cart - Great Value Crushed Red Pepper, 1.75 oz" [ref=e2677] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e2678]: 
+                                  - generic [ref=e2679]: Add
+                                - generic [ref=e2680]:
+                                  - generic [ref=e2682]:
+                                    - generic [ref=e2683]: $144
+                                    - generic [ref=e2684]: current price $1.44
+                                    - generic [ref=e2685]: 82.3 ¢/oz
+                                    - generic [ref=e2686]: $1.37 when subscribed
+                                  - generic [ref=e2688]: Great Value Crushed Red Pepper, 1.75 oz
+                                  - generic [ref=e2689]:
+                                    - generic [ref=e2690]:
+                                      - img [ref=e2691]
+                                      - img [ref=e2693]
+                                      - img [ref=e2695]
+                                      - img [ref=e2697]
+                                      - img [ref=e2699]
+                                    - generic [ref=e2702]: "1655"
+                                    - generic [ref=e2703]: 4.7 out of 5 Stars. 1655 reviews
+                                  - generic [ref=e2705]:
+                                    - generic [ref=e2706]:
+                                      - generic [ref=e2708]: Delivery as soon as 24 mins
+                                      - generic [ref=e2710]: Pickup as soon as 7pm
+                                    - generic [ref=e2712]:
+                                      - generic [ref=e2714]: 
+                                      - text: SNAP EBT eligible
+                          - listitem [ref=e2715]:
+                            - group [ref=e2716]:
+                              - link "Bought 1 time Fresh Produce, Whole Green Cilantro, 1 Bunch $0.83" [ref=e2717] [cursor=pointer]:
+                                - /url: /ip/Fresh-Cilantro-Bunch/160597260?classType=REGULAR&athbdg=L1100
+                                - heading "Bought 1 time Fresh Produce, Whole Green Cilantro, 1 Bunch $0.83" [level=3] [ref=e2719]
+                              - generic [ref=e2720]:
+                                - generic [ref=e2721]:
+                                  - group [ref=e2724]:
+                                    - generic [ref=e2725]: Bought 1 time
+                                  - generic [ref=e2726]:
+                                    - button "Add to Favorites list, Fresh Produce, Whole Green Cilantro, 1 Bunch" [ref=e2727]:
+                                      - generic [ref=e2728]: 
+                                    - img "Fresh Produce, Whole Green Cilantro, 1 Bunch"
+                                - button "Add to cart - Fresh Produce, Whole Green Cilantro, 1 Bunch" [ref=e2732] [cursor=pointer]:
+                                  - generic "add to cart" [ref=e2733]: 
+                                  - generic [ref=e2734]: Add
+                                - generic [ref=e2735]:
+                                  - generic [ref=e2737]:
+                                    - generic [ref=e2738]: $083
+                                    - generic [ref=e2739]: current price $0.83
+                                    - generic [ref=e2740]: $0.79 when subscribed
+                                  - generic [ref=e2742]: Fresh Produce, Whole Green Cilantro, 1 Bunch
+                                  - generic [ref=e2743]:
+                                    - generic [ref=e2744]:
+                                      - img [ref=e2745]
+                                      - img [ref=e2747]
+                                      - img [ref=e2749]
+                                      - img [ref=e2751]
+                                      - img [ref=e2753]
+                                    - generic [ref=e2755]: "16332"
+                                    - generic [ref=e2756]: 3.9 out of 5 Stars. 16332 reviews
+                                  - generic [ref=e2758]:
+                                    - generic [ref=e2759]:
+                                      - generic [ref=e2761]: Delivery as soon as 24 mins
+                                      - generic [ref=e2763]: Pickup as soon as 7pm
+                                    - generic [ref=e2765]:
+                                      - generic [ref=e2767]: 
+                                      - text: SNAP EBT eligible
+                        - button "Next slide for Inspired by your shopping list" [ref=e2768]:
+                          - generic [ref=e2769]: 
+                    - separator [ref=e2770]
+                - generic [ref=e2772]:
+                  - heading "Related searches" [level=2] [ref=e2773]
+                  - generic [ref=e2774]:
+                    - text: 
+                    - list [ref=e2775]:
+                      - listitem
+                      - listitem [ref=e2776]:
+                        - button "Related searches onion" [ref=e2777] [cursor=pointer]:
+                          - img "Related searches" [ref=e2779]
+                          - generic [ref=e2780]: onion
+                      - listitem [ref=e2781]:
+                        - button "Related searches cucumber" [ref=e2782] [cursor=pointer]:
+                          - img "Related searches" [ref=e2784]
+                          - generic [ref=e2785]: cucumber
+                      - listitem [ref=e2786]:
+                        - button "Related searches red onion" [ref=e2787] [cursor=pointer]:
+                          - img "Related searches" [ref=e2789]
+                          - generic [ref=e2790]: red onion
+                      - listitem [ref=e2791]:
+                        - button "Related searches zucchini" [ref=e2792] [cursor=pointer]:
+                          - img "Related searches" [ref=e2794]
+                          - generic [ref=e2795]: zucchini
+                      - listitem [ref=e2796]:
+                        - button "Related searches celery" [ref=e2797] [cursor=pointer]:
+                          - img "Related searches" [ref=e2799]
+                          - generic [ref=e2800]: celery
+                      - listitem [ref=e2801]:
+                        - button "Related searches mushrooms" [ref=e2802] [cursor=pointer]:
+                          - img "Related searches" [ref=e2804]
+                          - generic [ref=e2805]: mushrooms
+                      - listitem [ref=e2806]:
+                        - button "Related searches tomatoes" [ref=e2807] [cursor=pointer]:
+                          - img "Related searches" [ref=e2809]
+                          - generic [ref=e2810]: tomatoes
+                      - listitem [ref=e2811]:
+                        - button "Related searches broccoli" [ref=e2812] [cursor=pointer]:
+                          - img "Related searches" [ref=e2814]
+                          - generic [ref=e2815]: broccoli
+                      - listitem [ref=e2816]:
+                        - button "Related searches carrots" [ref=e2817] [cursor=pointer]:
+                          - img "Related searches" [ref=e2819]
+                          - generic [ref=e2820]: carrots
+                      - listitem [ref=e2821]:
+                        - button "Related searches ground beef" [ref=e2822] [cursor=pointer]:
+                          - img "Related searches" [ref=e2824]
+                          - generic [ref=e2825]: ground beef
+                    - button "Next slide for Related searches list" [ref=e2826]:
+                      - generic [ref=e2827]: 
+            - navigation "pagination" [ref=e2829]:
+              - list [ref=e2830]:
+                - listitem [ref=e2831]
+                - listitem [ref=e2833]:
+                  - button "1" [ref=e2834] [cursor=pointer]
+                - listitem [ref=e2835]:
+                  - button "Go to Page 2" [ref=e2836] [cursor=pointer]: "2"
+                - listitem [ref=e2837]:
+                  - button "Go to Page 3" [ref=e2838] [cursor=pointer]: "3"
+                - listitem [ref=e2839]:
+                  - generic [ref=e2840]: ...
+                - listitem [ref=e2841]:
+                  - generic [ref=e2842]: "8"
+                - listitem [ref=e2843]:
+                  - button "Next Page" [ref=e2844] [cursor=pointer]:
+                    - generic [ref=e2845]: 
+      - contentinfo [ref=e2850]:
+        - region "Give feedback" [ref=e2854]:
+          - paragraph [ref=e2855]: We’d love to hear what you think!
+          - button "Give feedback" [ref=e2856] [cursor=pointer]
+        - generic [ref=e2857]:
+          - list [ref=e2858]:
+            - listitem [ref=e2859]:
+              - link "All Departments" [ref=e2860] [cursor=pointer]:
+                - /url: /all-departments
+            - listitem [ref=e2861]:
+              - link "Store Directory - opens in a new window" [ref=e2862] [cursor=pointer]:
+                - /url: /store/directory
+                - text: Store Directory
+            - listitem [ref=e2863]:
+              - link "Careers - opens in a new window" [ref=e2864] [cursor=pointer]:
+                - /url: https://careers.walmart.com/
+                - text: Careers
+            - listitem [ref=e2865]:
+              - link "Our Company - opens in a new window" [ref=e2866] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/
+                - text: Our Company
+            - listitem [ref=e2867]:
+              - link "Sell on Walmart.com - opens in a new window" [ref=e2868] [cursor=pointer]:
+                - /url: https://marketplace.walmart.com/?utm_source=Walmart.com&utm_medium=link&utm_campaign=footer
+                - text: Sell on Walmart.com
+            - listitem [ref=e2869]:
+              - link "Help" [ref=e2870] [cursor=pointer]:
+                - /url: /help
+            - listitem [ref=e2871]:
+              - link "Product Recalls - opens in a new window" [ref=e2872] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/recalls
+                - text: Product Recalls
+            - listitem [ref=e2873]:
+              - link "Accessibility - opens in a new window" [ref=e2874] [cursor=pointer]:
+                - /url: https://www.walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+                - text: Accessibility
+            - listitem [ref=e2875]:
+              - link "Tax Exempt Program" [ref=e2876] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/tax-exemption-program/8480422
+            - listitem [ref=e2877]:
+              - link "Get the Walmart App" [ref=e2878] [cursor=pointer]:
+                - /url: https://walmart.onelink.me/UIev?pid=walmart.com&af_web_dp=https%3A%2F%2Fwww.walmart.com%2Fcp%2Fwalmart-mobile-app%2F1087865&c=Walmart.com%20Site%20Footer&af_dp=walmart%3A%2F%2F
+            - listitem [ref=e2879]:
+              - link "Safety Data Sheet" [ref=e2880] [cursor=pointer]:
+                - /url: http://msds.walmartstores.com/
+            - listitem [ref=e2881]:
+              - link "Terms of Use" [ref=e2882] [cursor=pointer]:
+                - /url: /help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0
+            - listitem [ref=e2883]:
+              - link "Privacy Notice - opens in a new window" [ref=e2884] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/privacy-security
+                - text: Privacy Notice
+            - listitem [ref=e2885]:
+              - link "California Supply Chain Act - opens in a new window" [ref=e2886] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/california-transparency
+                - text: California Supply Chain Act
+            - listitem [ref=e2887]:
+              - link "Your Privacy Choices - opens in a new window" [ref=e2888] [cursor=pointer]:
+                - /url: https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=sod
+                - img [ref=e2889]
+                - text: Your Privacy Choices
+            - listitem [ref=e2890]:
+              - link "Customer Privacy Center - opens in a new window" [ref=e2891] [cursor=pointer]:
+                - /url: https://www.walmart.com/privacy-center
+                - text: Customer Privacy Center
+            - listitem [ref=e2892]:
+              - link "Notice at Collection - opens in a new window" [ref=e2893] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/privacy-security/california-privacy-rights#what-are-the-categories-of-personal-information-collected
+                - text: Notice at Collection
+            - listitem [ref=e2894]:
+              - link "AdChoices" [ref=e2895] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/privacy-security/walmart-privacy-notice#interest-based-advertising
+            - listitem [ref=e2896]:
+              - link "Consumer Health Data Privacy Notices" [ref=e2897] [cursor=pointer]:
+                - /url: https://corporate.walmart.com/privacy-security/walmart-consumer-health-data-privacy-notices
+            - listitem [ref=e2898]:
+              - link "Brand Shop Directory" [ref=e2899] [cursor=pointer]:
+                - /url: https://www.walmart.com/brand/branddirectory
+            - listitem [ref=e2900]:
+              - link "Pharmacy" [ref=e2901] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/pharmacy/5431?povid=HWS_GlobalFooter_Pharmacy
+            - listitem [ref=e2902]:
+              - link "Walmart Business" [ref=e2903] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/walmart-business/7810722?povid=7810722_POV_WMTfooter
+            - listitem [ref=e2904]:
+              - link "#IYWYK" [ref=e2905] [cursor=pointer]:
+                - /url: https://www.walmart.com/cp/walmart-in-the-know/7781927
+            - listitem [ref=e2906]:
+              - link "Delete Account" [ref=e2907] [cursor=pointer]:
+                - /url: https://www.walmart.com/account/login?vid=oaoh&tid=0&returnUrl=%2Faccount%2Fdelete-account
+          - generic [ref=e2909]:
+            - generic [ref=e2910]: 
+            - button "Opt-Out Request Honored" [ref=e2911] [cursor=pointer]
+          - generic [ref=e2912]: © 2026 Walmart. The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office. All Rights Reserved.
+  - alert [ref=e2915]: /search?q=bell+peppers
